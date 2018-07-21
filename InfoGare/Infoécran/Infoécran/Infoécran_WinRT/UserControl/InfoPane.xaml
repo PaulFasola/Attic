@@ -1,0 +1,28 @@
+﻿<UserControl
+    x:Class="Infoécran_WinRT.UserControl.InfoPane"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Infoécran_WinRT.UserControl"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignWidth="400" Height="503">
+    <Grid x:Name="InfoPane1" Background="White" Margin="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="348*"/>
+            <RowDefinition Height="277*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Margin="88,20,88,0" VerticalAlignment="Top" Orientation="Horizontal" HorizontalAlignment="Center" Height="60" Width="243">
+            <TextBlock TextWrapping="Wrap" Text="Info" Foreground="#FF825757" VerticalAlignment="Bottom" FontSize="55" HorizontalAlignment="Left" Margin="10,0,0,0"/>
+            <TextBlock x:Name="KeyboardFocuser" TextWrapping="Wrap" Text="Appli" Foreground="#FFF26521" VerticalAlignment="Center" FontSize="55" HorizontalAlignment="Left" Margin="10,0,0,0"/>
+        </StackPanel>
+        <RichTextBlock  Margin="45,0" Grid.Row="1" Foreground="#FF9B1D1D" IsTextSelectionEnabled="False" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Paragraph>
+                <Run FontSize="18" x:Uid="InfoAppli"/>
+            </Paragraph>
+        </RichTextBlock>
+        <Image Margin="0" Source="ms-appx:///Assets/ribbon.png" Stretch="UniformToFill" VerticalAlignment="Bottom" Height="20" Grid.Row="1"/>
+        <Image Margin="0" Source="ms-appx:///Assets/warning.PNG" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Height="101"/>
+        <Image Source="ms-appx:///Assets/ribbon.png" Stretch="UniformToFill" VerticalAlignment="Top" Height="20"/>
+    </Grid>
+</UserControl>

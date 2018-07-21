@@ -1,7 +1,7 @@
 
 # Azure + Dreamspark Student offer : combo activator
 
-<p align="center"><img src="https://github.com/PaulFasola/Attic/blob/master/preview.png"></p>
+<p align="center"><img src="https://github.com/PaulFasola/Attic/blob/master/AzureStudentOfferActivator/preview.png"></p>
 
 <font color="red">**Deprecated content**  
 Since Microsoft shutted down Dreamspark (replaced by Microsoft Imagine) , this activator is not needed anymore.</red>

@@ -1,0 +1,47 @@
+﻿<UserControl x:Name="VirtualWindowUC"
+    x:Class="InfoGare.UserControl.VirtualWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:InfoGare.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400" ManipulationMode="TranslateX, TranslateY" VerticalAlignment="Center" >
+
+    <Grid RenderTransformOrigin="0.5,0.5" Margin="0" UseLayoutRounding="False"
+          d:LayoutRounding="Auto">
+        <Grid.Background>
+            <SolidColorBrush Color="#FF826666" Opacity="0.9"/>
+        </Grid.Background>
+        <Grid.RenderTransform>
+            <CompositeTransform Rotation="-0.064" />
+        </Grid.RenderTransform>
+        <Grid x:Name="WindowBody" Margin="0,75,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+        </Grid>
+        <Rectangle x:Name="WindowBorder" x:FieldModifier="internal" Height="58" VerticalAlignment="Top"
+                   Margin="0" Opacity="0.6">
+            <Rectangle.Fill>
+                <SolidColorBrush Color="#FF696767" Opacity="0.3" />
+            </Rectangle.Fill>
+        </Rectangle>
+        <Grid x:Name="Ui_Controls" Height="58" Margin="0" VerticalAlignment="Top">
+            <Viewbox Margin="0,20,20,20" HorizontalAlignment="Right" Tapped="Viewbox_Tapped">
+                <Path Stroke="White" StrokeThickness="3">
+                    <Path.Data>
+                        <GeometryGroup>
+                            <LineGeometry StartPoint="0,0" EndPoint="10,10" />
+                            <LineGeometry StartPoint="10,0" EndPoint="0,10" />
+                        </GeometryGroup>
+                    </Path.Data>
+                </Path>
+            </Viewbox>
+        </Grid>
+        <TextBlock x:Name="Title" Margin="20,19,34.626,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="24" FontFamily="ms-appx:/Assets/typewcond.otf#Typewriter" Foreground="#FFF3DD1A" IsHitTestVisible="False"/>
+        <Border  BorderThickness="0,1" Height="19" Margin="1,58,0,0" VerticalAlignment="Top" Background="#FF877B7B"/>
+    </Grid>
+</UserControl>

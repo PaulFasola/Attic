@@ -1,0 +1,8887 @@
+﻿{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2015-05-28T19:23:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 15256271,
+  "lat": 48.9444287,
+  "lon": 2.5670313,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Vert-Galant",
+    "railway": "station",
+    "ref:FR:RATP": "1647",
+    "type:RATP": "rer",
+    "uic_ref": "8727143",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare du Vert-Galant"
+  }
+},
+{
+  "type": "node",
+  "id": 15256273,
+  "lat": 48.9364157,
+  "lon": 2.5348345,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Sevran – Livry",
+    "railway": "station",
+    "ref:FR:RATP": "1620",
+    "type:RATP": "rer",
+    "uic_ref": "8727142",
+    "wikipedia": "fr:Gare de Sevran - Livry"
+  }
+},
+{
+  "type": "node",
+  "id": 15256281,
+  "lat": 48.9322068,
+  "lon": 2.4950402,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Aulnay-sous-Bois",
+    "railway": "station",
+    "ref:FR:RATP": "1993",
+    "type:RATP": "rer",
+    "uic_ref": "8727141",
+    "wikipedia": "fr:Gare d'Aulnay-sous-Bois"
+  }
+},
+{
+  "type": "node",
+  "id": 15256287,
+  "lat": 48.9308053,
+  "lon": 2.4262059,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Le Bourget",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "1883",
+    "type:RATP": "rer",
+    "uic_ref": "8727139",
+    "wikipedia": "fr:Gare du Bourget"
+  }
+},
+{
+  "type": "node",
+  "id": 21310914,
+  "lat": 48.8330952,
+  "lon": 2.3331622,
+  "tags": {
+    "STIF:zone": "1",
+    "name": "Denfert-Rochereau",
+    "operator": "RATP",
+    "railway": "station",
+    "ref": "RER B",
+    "ref:FR:RATP": "1904",
+    "type:RATP": "rer",
+    "uic_ref": "8775863",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Denfert-Rochereau"
+  }
+},
+{
+  "type": "node",
+  "id": 21590661,
+  "lat": 48.9639248,
+  "lon": 2.3721537,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Pierrefitte - Stains",
+    "official_name": "PIERREFITTE STAINS",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5561",
+    "route_ref:FR:RER_D": "SOVA; FUCA; VIPE; LOVA; VUCA; FOVA; LUCA; VOVA; SUCA; VOPA; FOPA; LOPA",
+    "type:RATP": "rer",
+    "uic_ref": "8727116",
+    "wikipedia": "fr:Gare de Pierrefitte - Stains"
+  }
+},
+{
+  "type": "node",
+  "id": 26742369,
+  "lat": 48.9203471,
+  "lon": 2.1854282,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Houilles - Carrières-Sur-Seine",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "1854",
+    "type:RATP": "rer",
+    "uic_ref": "8738640",
+    "wikipedia": "fr:Gare de Houilles - Carrières-sur-Seine"
+  }
+},
+{
+  "type": "node",
+  "id": 26742372,
+  "lat": 48.9378067,
+  "lon": 2.1572739,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Sartrouville",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "1700",
+    "type:RATP": "rer",
+    "uic_ref": "8738641",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Sartrouville"
+  }
+},
+{
+  "type": "node",
+  "id": 26742385,
+  "lat": 48.9552489,
+  "lon": 2.0926200,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Achères-Grand Cormier",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "341403",
+    "ref:SNCF:RER": "A",
+    "source": "survey",
+    "start_date": "1843-05-09",
+    "type:RATP": "rer",
+    "type:SNCF": "RER",
+    "uic_ref": "8738605",
+    "wikipedia": "fr:Gare d'Achères - Grand-Cormier"
+  }
+},
+{
+  "type": "node",
+  "id": 26742679,
+  "lat": 48.9333161,
+  "lon": 2.0412201,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Poissy",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "1707",
+    "ref:SNCF:RER": "A",
+    "ref:SNCF:Transilien": "J",
+    "start_date": "1843-05-09",
+    "type:RATP": "rer",
+    "type:SNCF": "RER; Transilien",
+    "uic_ref": "8738657",
+    "wikipedia": "fr:Gare de Poissy"
+  }
+},
+{
+  "type": "node",
+  "id": 26824343,
+  "lat": 48.7882986,
+  "lon": 2.4321634,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Le Vert de Maisons",
+    "official_name": "LE VERT DE MAISONS",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "20954",
+    "route_ref:FR:RER_D": "ZOPO; ROVO; ROPO; BOPO",
+    "type:RATP": "rer",
+    "uic_ref": "8768124",
+    "wheelchair": "no",
+    "wikipedia": "fr:Gare du Vert de Maisons"
+  }
+},
+{
+  "type": "node",
+  "id": 27415776,
+  "lat": 48.8779830,
+  "lon": 2.2845160,
+  "tags": {
+    "SNCF:hackess:completeness": "4",
+    "STIF:zone": "1",
+    "name": "Neuilly - Porte Maillot",
+    "note:fr": "RER C",
+    "pictogram": "yes",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "ref:FR:RATP": "5643",
+    "ref:FR:uic8": "87381020",
+    "signage": "good",
+    "type:RATP": "rer",
+    "uic_ref": "8738102",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Neuilly - Porte Maillot"
+  }
+},
+{
+  "type": "node",
+  "id": 27507095,
+  "lat": 48.8889510,
+  "lon": 2.5129214,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Le Raincy — Villemomble — Montfermeil",
+    "railway": "station",
+    "ref:FR:RATP": "51927",
+    "type:RATP": "rer",
+    "uic_ref": "8711347",
+    "usage": "main",
+    "wikipedia": "fr:Gare du Raincy - Villemomble - Montfermeil"
+  }
+},
+{
+  "type": "node",
+  "id": 30738144,
+  "lat": 48.8394108,
+  "lon": 2.2709838,
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "1",
+    "name": "Pont du Garigliano - Hôpital européen Georges-Pompidou",
+    "official_name": "PONT DU GARIGLIANO - HÔPITAL EUROPEEN GEORGES POMPIDOU",
+    "old_name": "Pont du Garigliano;Boulevard Victor",
+    "opening_hours": "Mo-Su 00:00-00:30,04:00-24:00",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref": "RER C",
+    "ref:FR:RATP": "5598",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "type:RATP": "rer",
+    "uic_ref": "8739332",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare du Pont du Garigliano"
+  }
+},
+{
+  "type": "node",
+  "id": 87360108,
+  "lat": 48.8985657,
+  "lon": 2.0950158,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Saint-Germain-en-Laye",
+    "operator": "RATP",
+    "railway": "station",
+    "ref:FR:RATP": "15522",
+    "start_date": "1847-08-14",
+    "type:RATP": "rer",
+    "uic_ref": "8775809",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Saint-Germain-en-Laye"
+  }
+},
+{
+  "type": "node",
+  "id": 90674268,
+  "lat": 48.9336959,
+  "lon": 2.3075627,
+  "tags": {
+    "SNCF:hackess:completeness": "1",
+    "STIF:zone": "3",
+    "name": "Gennevilliers",
+    "railway": "station",
+    "ref:FR:RATP": "5578",
+    "type:RATP": "rer",
+    "uic_ref": "8727120",
+    "wikipedia": "fr:Gare de Gennevilliers"
+  }
+},
+{
+  "type": "node",
+  "id": 100295884,
+  "lat": 48.7986051,
+  "lon": 2.3281001,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Arcueil-Cachan",
+    "operator": "RER",
+    "railway": "station",
+    "ref:FR:RATP": "1985",
+    "type:RATP": "rer",
+    "uic_ref": "8775867",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare d'Arcueil - Cachan"
+  }
+},
+{
+  "type": "node",
+  "id": 117933709,
+  "lat": 48.7076819,
+  "lon": 2.2371490,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Palaiseau Villebon",
+    "railway": "station",
+    "ref:FR:RATP": "1776",
+    "type:RATP": "rer",
+    "uic_ref": "8775881",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Palaiseau - Villebon"
+  }
+},
+{
+  "type": "node",
+  "id": 117933819,
+  "lat": 48.7060013,
+  "lon": 2.2116884,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Lozère",
+    "railway": "station",
+    "ref:FR:RATP": "1810",
+    "type:RATP": "rer",
+    "uic_ref": "8775882",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Lozère"
+  }
+},
+{
+  "type": "node",
+  "id": 117982553,
+  "lat": 48.6976144,
+  "lon": 2.1817799,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Orsay-Ville",
+    "railway": "station",
+    "ref:FR:RATP": "1772",
+    "type:RATP": "rer",
+    "uic_ref": "8775884",
+    "wikipedia": "fr:Gare d'Orsay - Ville"
+  }
+},
+{
+  "type": "node",
+  "id": 117982574,
+  "lat": 48.6956720,
+  "lon": 2.1631260,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Bures-sur-Yvette",
+    "railway": "station",
+    "ref:FR:RATP": "1934",
+    "type:RATP": "rer",
+    "uic_ref": "8775885",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Bures-sur-Yvette"
+  }
+},
+{
+  "type": "node",
+  "id": 117982604,
+  "lat": 48.6981859,
+  "lon": 2.1367431,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Gif-sur-Yvette",
+    "railway": "station",
+    "ref:FR:RATP": "1847",
+    "type:RATP": "rer",
+    "uic_ref": "8775887",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Gif-sur-Yvette"
+  }
+},
+{
+  "type": "node",
+  "id": 117982636,
+  "lat": 48.7008969,
+  "lon": 2.0990597,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Courcelle-sur-Yvette",
+    "railway": "station",
+    "ref:FR:RATP": "1891",
+    "type:RATP": "rer",
+    "uic_ref": "8775888",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Courcelle-sur-Yvette"
+  }
+},
+{
+  "type": "node",
+  "id": 132258390,
+  "lat": 48.9475630,
+  "lon": 2.5246969,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Sevran - Beaudottes",
+    "railway": "station",
+    "ref:FR:RATP": "1703",
+    "type:RATP": "rer",
+    "uic_ref": "8727144",
+    "wikipedia": "fr:Gare de Sevran - Beaudottes"
+  }
+},
+{
+  "type": "node",
+  "id": 152529245,
+  "lat": 48.7049598,
+  "lon": 2.1917229,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Le Guichet",
+    "railway": "station",
+    "ref:FR:RATP": "1884",
+    "type:RATP": "rer",
+    "uic_ref": "8775883",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare du Guichet"
+  }
+},
+{
+  "type": "node",
+  "id": 154788912,
+  "lat": 48.8628322,
+  "lon": 2.3138836,
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "1",
+    "name": "Invalides",
+    "name:fr": "Invalides",
+    "name:ru": "Энвалид",
+    "operator": "SNCF",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "ref:FR:RATP": "5602",
+    "type:RATP": "rer",
+    "uic_ref": "8739303",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare des Invalides"
+  }
+},
+{
+  "type": "node",
+  "id": 154788920,
+  "lat": 48.8568737,
+  "lon": 2.2897845,
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "1",
+    "name": "Champ de Mars - Tour Eiffel",
+    "name:de": "Marsfeld - Eiffelturm",
+    "official_name": "CHAMP DE MARS",
+    "operator": "SNCF",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "RER C",
+    "ref:FR:RATP": "5600",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "type:RATP": "rer",
+    "uic_ref": "8739305",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare du Champ de Mars - Tour Eiffel"
+  }
+},
+{
+  "type": "node",
+  "id": 166004531,
+  "lat": 48.7876464,
+  "lon": 2.2922284,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Fontenay-aux-Roses",
+    "railway": "station",
+    "ref:FR:RATP": "1921",
+    "type:RATP": "rer",
+    "uic_ref": "8775871",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Fontenay-aux-Roses"
+  }
+},
+{
+  "type": "node",
+  "id": 166004551,
+  "lat": 48.7814620,
+  "lon": 2.2974368,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Sceaux",
+    "railway": "station",
+    "ref:FR:RATP": "1701",
+    "type:RATP": "rer",
+    "uic_ref": "8775870",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Sceaux"
+  }
+},
+{
+  "type": "node",
+  "id": 195306171,
+  "lat": 48.8446359,
+  "lon": 2.5261501,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Bry-sur-Marne",
+    "railway": "station",
+    "ref:FR:RATP": "1932",
+    "type:RATP": "rer",
+    "uic_ref": "8775832",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Bry-sur-Marne"
+  }
+},
+{
+  "type": "node",
+  "id": 195306266,
+  "lat": 48.8427731,
+  "lon": 2.5790492,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Noisy-Champs - Champy-Nesles",
+    "railway": "station",
+    "ref:FR:RATP": "1765",
+    "type:RATP": "rer",
+    "uic_ref": "8775834",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Noisy - Champs"
+  }
+},
+{
+  "type": "node",
+  "id": 198022375,
+  "lat": 49.0323514,
+  "lon": 2.4765282,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Les Noues",
+    "official_name": "LES NOUES",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5565",
+    "route_ref:FR:RER_D": "LOVA; LUCA; SUCA; LOPA; SOVA",
+    "type:RATP": "rer",
+    "uic_ref": "8727623",
+    "wikipedia": "fr:Gare des Noues"
+  }
+},
+{
+  "type": "node",
+  "id": 201840383,
+  "lat": 48.7395933,
+  "lon": 2.2874140,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Les Baconnets",
+    "railway": "station",
+    "ref:FR:RATP": "1799",
+    "type:RATP": "rer",
+    "uic_ref": "8775877",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare des Baconnets"
+  }
+},
+{
+  "type": "node",
+  "id": 225119903,
+  "lat": 49.0097687,
+  "lon": 2.5612836,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Aéroport Charles de Gaulle 1",
+    "railway": "station",
+    "ref:FR:RATP": "1669",
+    "type:RATP": "rer",
+    "uic_ref": "8727146",
+    "wikipedia": "fr:Gare Aéroport Charles-de-Gaulle 1"
+  }
+},
+{
+  "type": "node",
+  "id": 231286269,
+  "lat": 48.8851789,
+  "lon": 2.1562111,
+  "tags": {
+    "STIF:zone": "4",
+    "is_in": "Chatou",
+    "name": "Chatou - Croissy",
+    "railway": "station",
+    "ref:FR:RATP": "1956",
+    "start_date": "1837-08-26",
+    "type:RATP": "rer",
+    "uic_ref": "8775806",
+    "wikipedia": "fr:Gare de Chatou - Croissy"
+  }
+},
+{
+  "type": "node",
+  "id": 237931210,
+  "lat": 48.7956697,
+  "lon": 2.6503883,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Roissy-en-Brie",
+    "railway": "station",
+    "ref:FR:RATP": "58000",
+    "type:RATP": "rer",
+    "uic_ref": "8711603",
+    "usage": "main",
+    "wikipedia": "fr:Gare de Roissy-en-Brie"
+  }
+},
+{
+  "type": "node",
+  "id": 237931216,
+  "lat": 48.8061102,
+  "lon": 2.6184322,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Émerainville — Pontault-Combault",
+    "railway": "station",
+    "ref:FR:RATP": "57999",
+    "type:RATP": "rer",
+    "uic_ref": "8711604",
+    "usage": "main",
+    "wikipedia": "fr:Gare d'Émerainville - Pontault-Combault"
+  }
+},
+{
+  "type": "node",
+  "id": 237931246,
+  "lat": 48.8230136,
+  "lon": 2.5801235,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Les Yvris Noisy-le-Grand",
+    "railway": "station",
+    "ref:FR:RATP": "57998",
+    "type:RATP": "rer",
+    "uic_ref": "8711380",
+    "usage": "main",
+    "wikipedia": "fr:Gare des Yvris - Noisy-le-Grand"
+  }
+},
+{
+  "type": "node",
+  "id": 237931296,
+  "lat": 48.8248565,
+  "lon": 2.5118850,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Les Boullereaux - Champigny",
+    "railway": "station",
+    "ref:FR:RATP": "51934",
+    "type:RATP": "rer",
+    "uic_ref": "8711377",
+    "usage": "main",
+    "wikipedia": "fr:Gare des Boullereaux - Champigny"
+  }
+},
+{
+  "type": "node",
+  "id": 239822735,
+  "lat": 48.8407958,
+  "lon": 2.5477591,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Noisy-le-Grand — Mont d’Est",
+    "railway": "station",
+    "ref:FR:RATP": "1766",
+    "type:RATP": "rer",
+    "uic_ref": "8775833",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Noisy-le-Grand - Mont d'Est"
+  }
+},
+{
+  "type": "node",
+  "id": 241926523,
+  "lat": 48.8697839,
+  "lon": 2.7822973,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Marne-la-Vallée Chessy - Parc Disneyland (RER)",
+    "operator": "RATP",
+    "railway": "station",
+    "ref:FR:RATP": "1830",
+    "type:RATP": "rer",
+    "uic_ref": "8775499",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Marne-la-Vallée - Chessy"
+  }
+},
+{
+  "type": "node",
+  "id": 241929128,
+  "lat": 48.8437078,
+  "lon": 2.4637379,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Fontenay-sous-Bois",
+    "operator": "RATP",
+    "platforms": "2",
+    "public_transport": "stop_position",
+    "rail": "yes",
+    "railway": "station",
+    "ref:FR:RATP": "1922",
+    "start_date": "1969-12-14",
+    "type:RATP": "rer",
+    "uic_ref": "8775812",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare de Fontenay-sous-Bois"
+  }
+},
+{
+  "type": "node",
+  "id": 242335017,
+  "lat": 48.7525892,
+  "lon": 2.5047511,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Boissy-Saint-Léger",
+    "operator": "RATP",
+    "public_transport": "stop_position",
+    "rail": "yes",
+    "ref:FR:RATP": "2013",
+    "start_date": "1874-07-09",
+    "type:RATP": "rer",
+    "uic_ref": "8775820",
+    "wikipedia": "fr:Gare de Boissy-Saint-Léger"
+  }
+},
+{
+  "type": "node",
+  "id": 243050068,
+  "lat": 48.8703405,
+  "lon": 2.4858470,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Rosny-sous-Bois",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "51932",
+    "ref:FR:uic8": "87113704",
+    "type:RATP": "rer",
+    "uic_ref": "8711370",
+    "usage": "main",
+    "wikipedia": "fr:Gare de Rosny-sous-Bois"
+  }
+},
+{
+  "type": "node",
+  "id": 243050251,
+  "lat": 48.8825092,
+  "lon": 2.4812324,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Rosny - Bois-Perrier",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "51931",
+    "ref:FR:uic8": "87113696",
+    "type:RATP": "rer",
+    "uic_ref": "8711369",
+    "usage": "main",
+    "wikipedia": "fr:Gare de Rosny - Bois-Perrier"
+  }
+},
+{
+  "type": "node",
+  "id": 245282439,
+  "lat": 48.8395530,
+  "lon": 2.6543891,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Torcy",
+    "railway": "station",
+    "ref:FR:RATP": "1637",
+    "type:RATP": "rer",
+    "uic_ref": "8775837",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Torcy"
+  }
+},
+{
+  "type": "node",
+  "id": 246806932,
+  "lat": 48.6949696,
+  "lon": 2.1526331,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "La Hacquinière",
+    "railway": "station",
+    "ref:FR:RATP": "1873",
+    "type:RATP": "rer",
+    "uic_ref": "8775886",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de La Hacquinière"
+  }
+},
+{
+  "type": "node",
+  "id": 247312316,
+  "lat": 48.6344947,
+  "lon": 2.4522297,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Évry Val de Seine",
+    "official_name": "EVRY - VAL DE SEINE",
+    "old_name": "Évry",
+    "operator": "SNCF",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "RER D",
+    "route_ref:FR:RER_D": "ROVO; SOVA; UOVA; LOVA; FOVA; VOVA; DOVA",
+    "train": "yes",
+    "type:RATP": "rer"
+  }
+},
+{
+  "type": "node",
+  "id": 247313295,
+  "lat": 48.6141194,
+  "lon": 2.4738942,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Corbeil-Essonnes",
+    "official_name": "CORBEIL ESSONNES",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "20974",
+    "route_ref:FR:RER_D": "ZOPO; ROVO; RIPE; BIPE; BIPO; ZIPE; ROPO; TIPE; RIPO; BOPO; ZIPO",
+    "source": "survey",
+    "type:RATP": "rer",
+    "uic_ref": "8768100",
+    "wikipedia": "fr:Gare de Corbeil-Essonnes"
+  }
+},
+{
+  "type": "node",
+  "id": 247381687,
+  "lat": 48.3936669,
+  "lon": 2.3934698,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Maisse",
+    "official_name": "MAISSE",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "20980",
+    "type:RATP": "rer",
+    "uic_ref": "8768148",
+    "wikipedia": "fr:Gare de Maisse"
+  }
+},
+{
+  "type": "node",
+  "id": 247381699,
+  "lat": 48.3708470,
+  "lon": 2.3871153,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Buno - Gironville",
+    "note:fr": "Station sans gare",
+    "official_name": "BUNO GIRONVILLE",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "20981",
+    "type:RATP": "rer",
+    "uic_ref": "8768151",
+    "wikipedia": "fr:Gare de Buno - Gironville"
+  }
+},
+{
+  "type": "node",
+  "id": 247800932,
+  "lat": 48.5321637,
+  "lon": 2.3711049,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Ballancourt-sur-Essonne",
+    "official_name": "BALLANCOURT",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "20977",
+    "type:RATP": "rer",
+    "uic_ref": "8768143",
+    "wikipedia": "fr:Gare de Ballancourt"
+  }
+},
+{
+  "type": "node",
+  "id": 248037991,
+  "lat": 48.5862473,
+  "lon": 2.4734753,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Moulin-Galant",
+    "official_name": "MOULIN GALANT",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "20975",
+    "type:RATP": "rer",
+    "uic_ref": "8768140",
+    "wikipedia": "fr:Gare de Moulin-Galant"
+  }
+},
+{
+  "type": "node",
+  "id": 248052158,
+  "lat": 48.6056156,
+  "lon": 2.4626195,
+  "tags": {
+    "STIF:zone": "5",
+    "alt_name": "Essonnes-Robinson",
+    "name": "Essonnes Robinson",
+    "official_name": "ESSONNES ROBINSON",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "109708",
+    "route_ref:FR:RER_D": "ZOPO; ZIPE; ZIPO",
+    "source": "survey",
+    "type:RATP": "rer",
+    "uic_ref": "8768160",
+    "wikipedia": "fr:Gare d'Essonnes - Robinson"
+  }
+},
+{
+  "type": "node",
+  "id": 248434902,
+  "lat": 48.5661679,
+  "lon": 2.4924649,
+  "tags": {
+    "STIF:zone": "5",
+    "alt_name": "Coudray-Montceaux",
+    "name": "Le Coudray Montceaux",
+    "official_name": "LE COUDRAY MONTCEAUX",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "109711",
+    "route_ref:FR:RER_D": "ZOPO; ZIPE; ZIPO",
+    "type:RATP": "rer",
+    "uic_ref": "8768163",
+    "wikipedia": "fr:Gare du Coudray-Montceaux"
+  }
+},
+{
+  "type": "node",
+  "id": 248667980,
+  "lat": 48.5644973,
+  "lon": 2.5426572,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Saint-Fargeau",
+    "official_name": "SAINT-FARGEAU",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "109712",
+    "route_ref:FR:RER_D": "ZOPO; ZIPE; ZIPO",
+    "type:RATP": "rer",
+    "uic_ref": "8768254",
+    "wikipedia": "fr:Gare de Saint-Fargeau"
+  }
+},
+{
+  "type": "node",
+  "id": 248668008,
+  "lat": 48.5349663,
+  "lon": 2.5450384,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Ponthierry Pringy",
+    "official_name": "PONTHIERRY PRINGY",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "109713",
+    "route_ref:FR:RER_D": "ZOPO; ZIPE; ZIPO",
+    "source": "survey",
+    "type:RATP": "rer",
+    "uic_ref": "8768252",
+    "wikipedia": "fr:Gare de Ponthierry - Pringy"
+  }
+},
+{
+  "type": "node",
+  "id": 248812250,
+  "lat": 48.5276049,
+  "lon": 2.6554900,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Melun",
+    "name:zh": "默伦",
+    "official_name": "MELUN",
+    "operator": "SNCF",
+    "railway": "station",
+    "railway:traffic_mode": "passenger",
+    "ref:FR:RATP": "20993",
+    "route_ref:FR:RER_D": "ZOPO; ZUPO; ZIPE; ZIPO; ZECO",
+    "source": "survey",
+    "type:RATP": "rer",
+    "uic_ref": "8768200",
+    "wikipedia": "fr:Gare de Melun"
+  }
+},
+{
+  "type": "node",
+  "id": 253868629,
+  "lat": 48.7178575,
+  "lon": 2.2464627,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Palaiseau",
+    "railway": "station",
+    "ref:FR:RATP": "1775",
+    "type:RATP": "rer",
+    "uic_ref": "8739357",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Palaiseau"
+  }
+},
+{
+  "type": "node",
+  "id": 260040829,
+  "lat": 48.8422994,
+  "lon": 2.3653504,
+  "tags": {
+    "SNCF:hackess:completeness": "4",
+    "STIF:zone": "1",
+    "name": "Gare d'Austerlitz",
+    "name:de": "Austerlitzer Bahnhof",
+    "name:ru": "Гар д'Остерлиц",
+    "official_name": "PARIS AUSTERLITZ RER C",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "RER C; Métro 5",
+    "ref:FR:RATP": "5605;1838;226221",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "station": "subway",
+    "type:RATP": "metro;rer",
+    "uic_ref": "87547026",
+    "wheelchair": "no",
+    "wikipedia": "fr:Gare d'Austerlitz (métro de Paris)"
+  }
+},
+{
+  "type": "node",
+  "id": 261611873,
+  "lat": 48.8939640,
+  "lon": 2.3144204,
+  "tags": {
+    "SNCF:hackess:completeness": "2",
+    "STIF:zone": "1",
+    "name": "Porte de Clichy",
+    "note": "mappée par Ratzillas à saisir !",
+    "operator": "Metro-RER",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "ref:FR:RATP": "1725;5581",
+    "ref:FR:uic8": "87111278",
+    "station": "subway",
+    "type:RATP": "metro;rer",
+    "uic_ref": "8711127",
+    "wheelchair": "no",
+    "wikipedia": "fr:Porte de Clichy (métro de Paris)"
+  }
+},
+{
+  "type": "node",
+  "id": 267384718,
+  "lat": 48.9051552,
+  "lon": 2.3225929,
+  "tags": {
+    "SNCF:hackess:completeness": "1",
+    "STIF:zone": "2",
+    "name": "Saint-Ouen",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "ref:FR:RATP": "5580",
+    "ref:FR:uic8": "87271247",
+    "type:RATP": "rer",
+    "uic_ref": "8727124",
+    "wikipedia": "fr:Gare de Saint-Ouen"
+  }
+},
+{
+  "type": "node",
+  "id": 267619085,
+  "lat": 48.8565598,
+  "lon": 2.2751570,
+  "tags": {
+    "SNCF:hackess:completeness": "4",
+    "STIF:zone": "1",
+    "name": "Boulainvilliers",
+    "note": "compléter les équipements de quais",
+    "operator": "RER",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "ref:FR:RATP": "5586",
+    "ref:FR:uic8": "87543181",
+    "type:RATP": "rer",
+    "uic_ref": "8754318",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Boulainvilliers"
+  }
+},
+{
+  "type": "node",
+  "id": 270191328,
+  "lat": 48.8626043,
+  "lon": 2.3006830,
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "1",
+    "name": "Pont de l'Alma",
+    "official_name": "PONT DE L ALMA",
+    "opening_hours": "Mo-Su 00:00-00:40,05:00-24:00",
+    "operator": "SNCF",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "RER C",
+    "ref:FR:RATP": "5601",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "type:RATP": "rer",
+    "uic_ref": "8739304",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare du Pont de l'Alma"
+  }
+},
+{
+  "type": "node",
+  "id": 270191809,
+  "lat": 48.8533983,
+  "lon": 2.3454864,
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "1",
+    "name": "Saint-Michel Notre-Dame",
+    "official_name": "ST MICHEL NOTRE DAME",
+    "operator": "SNCF, RATP",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "ref": "RER B, C",
+    "ref:FR:RATP": "5604",
+    "ref:FR:uic8": "87547315;87785436",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "type:RATP": "rer",
+    "uic_ref": "8754731;8778543",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare Saint-Michel - Notre-Dame"
+  }
+},
+{
+  "type": "node",
+  "id": 281747472,
+  "lat": 48.9766899,
+  "lon": 2.3906474,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Garges - Sarcelles",
+    "official_name": "GARGES SARCELLES",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5562",
+    "route_ref:FR:RER_D": "SOVA; FUCA; VIPE; LOVA; VUCA; FOVA; LUCA; VOVA; SUCA; VOPA; FOPA; LOPA",
+    "type:RATP": "rer",
+    "uic_ref": "8727619",
+    "wikipedia": "fr:Gare de Garges - Sarcelles"
+  }
+},
+{
+  "type": "node",
+  "id": 286909340,
+  "lat": 48.8982337,
+  "lon": 2.1219410,
+  "tags": {
+    "STIF:zone": "4",
+    "is_in": "Le Pecq",
+    "name": "Le Vesinet - Le Pecq",
+    "railway": "station",
+    "ref:FR:RATP": "15523",
+    "start_date": "1837-08-26",
+    "type:RATP": "rer",
+    "uic_ref": "8775808",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare du Vésinet - Le Pecq"
+  }
+},
+{
+  "type": "node",
+  "id": 292422755,
+  "lat": 48.6232324,
+  "lon": 2.4507665,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Le Bras-de-Fer - Evry - Génopole",
+    "official_name": "LE BRAS DE FER (EVRY GENOPOLE)",
+    "railway": "station",
+    "ref:FR:RATP": "20973",
+    "type:RATP": "rer",
+    "uic_ref": "8768139",
+    "wikipedia": "fr:Gare du Bras de Fer - Évry - Génopole"
+  }
+},
+{
+  "type": "node",
+  "id": 292422756,
+  "lat": 48.6259877,
+  "lon": 2.4289083,
+  "tags": {
+    "STIF:zone": "5",
+    "layer": "-1",
+    "level": "-1",
+    "name": "Évry Courcouronnes-Centre",
+    "official_name": "EVRY COURCOURONNES CENTRE",
+    "old_name": "Évry-Courcouronnes",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "20972",
+    "source": "survey",
+    "type:RATP": "rer",
+    "uic_ref": "8768138",
+    "wikipedia": "fr:Gare d'Évry - Courcouronnes"
+  }
+},
+{
+  "type": "node",
+  "id": 292422757,
+  "lat": 48.6363475,
+  "lon": 2.4077596,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Orangis - Bois de l'Épine",
+    "official_name": "ORANGIS BOIS DE L'EPINE",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "20971",
+    "source": "survey",
+    "type:RATP": "rer",
+    "uic_ref": "8768134",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare d'Orangis - Bois de l'Épine"
+  }
+},
+{
+  "type": "node",
+  "id": 295984594,
+  "lat": 48.4847616,
+  "lon": 2.3517701,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "La Ferté-Alais",
+    "official_name": "LA FERTE ALAIS",
+    "operator": "SNCF",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "ref:FR:RATP": "20978",
+    "type:RATP": "rer",
+    "uic_ref": "8768145",
+    "wikipedia": "fr:Gare de La Ferté-Alais"
+  }
+},
+{
+  "type": "node",
+  "id": 299462418,
+  "lat": 48.8434831,
+  "lon": 2.6163935,
+  "tags": {
+    "STIF:zone": "5",
+    "alt_name": "Noisiel - Le Luzard",
+    "name": "Noisiel",
+    "railway": "station",
+    "ref:FR:RATP": "1764",
+    "type:RATP": "rer",
+    "uic_ref": "8775835",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Noisiel"
+  }
+},
+{
+  "type": "node",
+  "id": 299463295,
+  "lat": 48.8391017,
+  "lon": 2.6336867,
+  "tags": {
+    "STIF:zone": "5",
+    "layer": "1",
+    "name": "Lognes - Le Mandinet",
+    "operator": "RATP",
+    "railway": "station",
+    "ref:FR:RATP": "1805",
+    "type:RATP": "rer",
+    "uic_ref": "8775836",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Lognes"
+  }
+},
+{
+  "type": "node",
+  "id": 305117676,
+  "lat": 48.9204523,
+  "lon": 2.3140268,
+  "tags": {
+    "SNCF:hackess:completeness": "4",
+    "STIF:zone": "3",
+    "name": "Les Grésillons",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "ref:FR:RATP": "5579",
+    "ref:FR:uic8": "87272146",
+    "type:RATP": "rer",
+    "uic_ref": "8727214",
+    "wikipedia": "fr:Gare des Grésillons"
+  }
+},
+{
+  "type": "node",
+  "id": 315059834,
+  "lat": 48.9458096,
+  "lon": 2.1445481,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Maisons-Laffitte",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "1823",
+    "type:RATP": "rer",
+    "uic_ref": "8738642",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Maisons-Laffitte"
+  }
+},
+{
+  "type": "node",
+  "id": 317523333,
+  "lat": 48.9177476,
+  "lon": 2.3504555,
+  "tags": {
+    "STIF:zone": "2",
+    "name": "Stade de France - Saint-Denis",
+    "official_name": "STADE DE FRANCE SAINT-DENIS",
+    "railway": "station",
+    "ref": "RER D",
+    "ref:FR:RATP": "49183",
+    "route_ref:FR:RER_D": "SOVA; FUCA; UOVA; VIPE; LOVA; VUCA; FOVA; LUCA; VOVA; UUCA; SUCA; VOPA; FOPA; LOPA",
+    "type:RATP": "rer",
+    "uic_ref": "8716478",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare du Stade de France - Saint-Denis"
+  }
+},
+{
+  "type": "node",
+  "id": 317523448,
+  "lat": 48.9182399,
+  "lon": 2.3624012,
+  "tags": {
+    "STIF:zone": "2",
+    "name": "La Plaine - Stade de France RER",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref": "RER B",
+    "ref:FR:RATP": "1877",
+    "type:RATP": "rer",
+    "uic_ref": "8716479",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de La Plaine - Stade de France"
+  }
+},
+{
+  "type": "node",
+  "id": 319204524,
+  "lat": 48.8390089,
+  "lon": 2.4942347,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Nogent – Le Perreux",
+    "railway": "station",
+    "ref:FR:RATP": "51933",
+    "ref:FR:uic8": "87113746",
+    "type:RATP": "rer",
+    "uic_ref": "8711374",
+    "usage": "main",
+    "wikipedia": "fr:Gare de Nogent - Le Perreux"
+  }
+},
+{
+  "type": "node",
+  "id": 319209149,
+  "lat": 48.8771405,
+  "lon": 2.5531493,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Le Chénay — Gagny",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "54339",
+    "ref:FR:uic8": "87113522",
+    "type:RATP": "rer",
+    "uic_ref": "8711352",
+    "usage": "main",
+    "wikipedia": "fr:Gare du Chénay - Gagny"
+  }
+},
+{
+  "type": "node",
+  "id": 323213982,
+  "lat": 48.6542503,
+  "lon": 2.3963647,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Grigny-Centre",
+    "official_name": "GRIGNY CENTRE",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "20967",
+    "source": "survey",
+    "type:RATP": "rer",
+    "uic_ref": "8768137",
+    "wikipedia": "fr:Gare de Grigny-Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 327432580,
+  "lat": 48.8399322,
+  "lon": 2.3370615,
+  "tags": {
+    "STIF:zone": "1",
+    "name": "Port Royal",
+    "operator": "RATP",
+    "railway": "station",
+    "ref": "RER B",
+    "ref:FR:RATP": "1713",
+    "type:RATP": "rer",
+    "uic_ref": "8775862",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Port-Royal"
+  }
+},
+{
+  "type": "node",
+  "id": 327432589,
+  "lat": 48.8463800,
+  "lon": 2.3402926,
+  "tags": {
+    "STIF:zone": "1",
+    "name": "Luxembourg",
+    "operator": "RATP",
+    "railway": "station",
+    "ref": "RER B",
+    "ref:FR:RATP": "1811",
+    "type:RATP": "rer",
+    "uic_ref": "8775861",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare du Luxembourg"
+  }
+},
+{
+  "type": "node",
+  "id": 327613695,
+  "lat": 48.8808851,
+  "lon": 2.3573548,
+  "tags": {
+    "STIF:zone": "1",
+    "alt_name": "Paris Nord RER",
+    "layer": "-2",
+    "name": "Gare du Nord (RER)",
+    "official_name": "PARIS NORD (GARE DU NORD)",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref": "RER B,D",
+    "ref:FR:RATP": "1843",
+    "route_ref:FR:RER_D": "SOVA; FUCA; UOVA; VIPE; LOVA; VUCA; FOVA; LUCA; VOVA; UUCA; SUCA; VOPA; FOPA; LOPA",
+    "short_name": "Gare du Nord",
+    "train": "yes",
+    "type:RATP": "rer",
+    "uic_ref": "8727103",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare du Nord (métro de Paris)"
+  }
+},
+{
+  "type": "node",
+  "id": 327647338,
+  "lat": 48.9244564,
+  "lon": 2.3865330,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "La Courneuve - Aubervilliers",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "1991",
+    "type:RATP": "rer",
+    "uic_ref": "8727130",
+    "wikipedia": "fr:Gare de La Courneuve - Aubervilliers"
+  }
+},
+{
+  "type": "node",
+  "id": 329974472,
+  "lat": 48.8800561,
+  "lon": 2.3581041,
+  "tags": {
+    "STIF:zone": "1",
+    "layer": "-3",
+    "name": "Magenta",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref": "RER E",
+    "ref:FR:RATP": "51923",
+    "train": "yes",
+    "type:RATP": "rer",
+    "uic_ref": "8728187",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare de Magenta"
+  }
+},
+{
+  "type": "node",
+  "id": 329974475,
+  "lat": 48.8747218,
+  "lon": 2.3271274,
+  "tags": {
+    "STIF:zone": "1",
+    "layer": "-3",
+    "name": "Haussmann - Saint-Lazare",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref": "RER E",
+    "ref:FR:RATP": "51922",
+    "type:RATP": "rer",
+    "uic_ref": "8728189",
+    "wheelchair": "no",
+    "wikipedia": "fr:Gare Haussmann - Saint-Lazare"
+  }
+},
+{
+  "type": "node",
+  "id": 330011569,
+  "lat": 48.8964424,
+  "lon": 2.4587557,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Noisy-le-Sec",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "51925",
+    "type:RATP": "rer",
+    "uic_ref": "8711321",
+    "wikipedia": "fr:Gare de Noisy-le-Sec"
+  }
+},
+{
+  "type": "node",
+  "id": 330020300,
+  "lat": 48.8979517,
+  "lon": 2.4004902,
+  "tags": {
+    "STIF:zone": "2",
+    "name": "Pantin",
+    "railway": "station",
+    "ref": "RER E",
+    "ref:FR:RATP": "51924",
+    "type:RATP": "rer",
+    "uic_ref": "8711320",
+    "usage": "main",
+    "wheelchair": "no",
+    "wikipedia": "fr:Gare de Pantin"
+  }
+},
+{
+  "type": "node",
+  "id": 331409769,
+  "lat": 48.9759501,
+  "lon": 2.6422263,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Mitry-Claye",
+    "official_name": "Mitry-Claye",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "1748",
+    "type:RATP": "rer",
+    "uic_ref": "8727152",
+    "wikipedia": "fr:Gare de Mitry - Claye"
+  }
+},
+{
+  "type": "node",
+  "id": 331850678,
+  "lat": 48.9327015,
+  "lon": 2.4545327,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Drancy",
+    "railway": "station",
+    "ref:FR:RATP": "1905",
+    "type:RATP": "rer",
+    "uic_ref": "8727140",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare de Drancy"
+  }
+},
+{
+  "type": "node",
+  "id": 331938436,
+  "lat": 49.0991631,
+  "lon": 2.5255538,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Survilliers - Fosses",
+    "official_name": "SURVILLIERS FOSSES",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5567",
+    "route_ref:FR:RER_D": "LOVA; LUCA; SUCA; LOPA; SOVA",
+    "type:RATP": "rer",
+    "uic_ref": "8727626",
+    "wikipedia": "fr:Gare de Survilliers - Fosses"
+  }
+},
+{
+  "type": "node",
+  "id": 331938645,
+  "lat": 49.1876272,
+  "lon": 2.4594965,
+  "tags": {
+    "name": "Chantilly - Gouvieux",
+    "official_name": "CHANTILLY GOUVIEUX",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "16539",
+    "route_ref": "TER Picardie; RER D",
+    "route_ref:FR:RER_D": "SOVA; SUCA",
+    "type:RATP": "rer",
+    "uic_ref": "8727611",
+    "wikidata": "Q800617",
+    "wikipedia": "fr:Gare de Chantilly - Gouvieux"
+  }
+},
+{
+  "type": "node",
+  "id": 331939553,
+  "lat": 49.1381600,
+  "lon": 2.4903877,
+  "tags": {
+    "name": "Orry-la-Ville - Coye",
+    "official_name": "ORRY LA VILLE COYE LA FORET",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "8338",
+    "route_ref:FR:RER_D": "LOVA; LUCA; SUCA; LOPA; SOVA",
+    "type:RATP": "rer",
+    "uic_ref": "8727627",
+    "wikipedia": "fr:Gare d'Orry-la-Ville - Coye"
+  }
+},
+{
+  "type": "node",
+  "id": 331939785,
+  "lat": 49.1269850,
+  "lon": 2.5058656,
+  "tags": {
+    "line:sncf": "D",
+    "name": "La Borne Blanche",
+    "official_name": "LA BORNE BLANCHE",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "8337",
+    "route_ref:FR:RER_D": "LOVA; LUCA; SUCA; LOPA; SOVA",
+    "type:RATP": "rer",
+    "uic_ref": "8727628",
+    "wikipedia": "fr:Gare de La Borne Blanche"
+  }
+},
+{
+  "type": "node",
+  "id": 331940217,
+  "lat": 49.2638320,
+  "lon": 2.4688052,
+  "tags": {
+    "name": "Creil",
+    "official_name": "CREIL",
+    "operator": "SNCF",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref:FR:RATP": "16540",
+    "route_ref": "TER Picardie; Intercités; RER D; transilien H",
+    "route_ref:FR:RER_D": "SOVA; SUCA",
+    "source": "survey 2013",
+    "train": "yes",
+    "type:RATP": "rer",
+    "uic_ref": "8727600",
+    "wikidata": "Q664142",
+    "wikipedia": "fr:Gare de Creil"
+  }
+},
+{
+  "type": "node",
+  "id": 331941535,
+  "lat": 48.7454489,
+  "lon": 2.7285636,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Gretz-Armainvilliers",
+    "railway": "station",
+    "ref:FR:RATP": "58002",
+    "type:RATP": "rer",
+    "uic_ref": "8711601",
+    "usage": "main",
+    "wikipedia": "fr:Gare de Gretz-Armainvilliers"
+  }
+},
+{
+  "type": "node",
+  "id": 331941692,
+  "lat": 48.7395280,
+  "lon": 2.7587137,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Tournan",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "58003",
+    "type:RATP": "rer",
+    "uic_ref": "8711621",
+    "usage": "main",
+    "wikipedia": "fr:Gare de Tournan"
+  }
+},
+{
+  "type": "node",
+  "id": 331997723,
+  "lat": 48.9323764,
+  "lon": 2.4773723,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Le Blanc-Mesnil",
+    "railway": "station",
+    "ref:FR:RATP": "2008",
+    "type:RATP": "rer",
+    "uic_ref": "8727147",
+    "wikipedia": "fr:Gare du Blanc-Mesnil"
+  }
+},
+{
+  "type": "node",
+  "id": 336028430,
+  "lat": 48.9734145,
+  "lon": 2.5143907,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Parc des Expositions",
+    "railway": "station",
+    "ref:FR:RATP": "1777",
+    "type:RATP": "rer",
+    "uic_ref": "8727148",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare du Parc des Expositions"
+  }
+},
+{
+  "type": "node",
+  "id": 339888038,
+  "lat": 48.4348564,
+  "lon": 2.3762291,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Boutigny",
+    "official_name": "BOUTIGNY",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "20979",
+    "type:RATP": "rer",
+    "uic_ref": "8768147",
+    "wikipedia": "fr:Gare de Boutigny"
+  }
+},
+{
+  "type": "node",
+  "id": 354969611,
+  "lat": 48.8731477,
+  "lon": 2.3295277,
+  "tags": {
+    "STIF:zone": "1",
+    "name": "Auber",
+    "name:ru": "Обер",
+    "railway": "station",
+    "ref:FR:RATP": "1990",
+    "start_date": "1971-11-23",
+    "type:RATP": "rer",
+    "uic_ref": "8775859",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare Auber"
+  }
+},
+{
+  "type": "node",
+  "id": 365656158,
+  "lat": 48.6480610,
+  "lon": 2.4359515,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Grand Bourg",
+    "official_name": "GRAND BOURG",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref": "D",
+    "ref:FR:RATP": "20965",
+    "route_ref:FR:RER_D": "ROVO; SOVA; UOVA; LOVA; FOVA; VOVA; DOVA",
+    "type:RATP": "rer",
+    "uic_ref": "8768135",
+    "wikipedia": "fr:Gare de Grand Bourg"
+  }
+},
+{
+  "type": "node",
+  "id": 369875679,
+  "lat": 48.9934276,
+  "lon": 2.2350311,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Franconville - Le Plessis-Bouchard",
+    "railway": "station",
+    "ref:FR:RATP": "5573",
+    "ref:FR:uic8": "87276071",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009",
+    "type:RATP": "rer",
+    "uic_ref": "8727607",
+    "wikipedia": "fr:Gare de Franconville - Le Plessis-Bouchard"
+  }
+},
+{
+  "type": "node",
+  "id": 370833762,
+  "lat": 48.8872350,
+  "lon": 2.1715571,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Rueil-Malmaison",
+    "railway": "station",
+    "ref:FR:RATP": "1675",
+    "start_date": "1837-08-26",
+    "type:RATP": "rer",
+    "uic_ref": "8775805",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Rueil-Malmaison"
+  }
+},
+{
+  "type": "node",
+  "id": 395034985,
+  "lat": 48.9851704,
+  "lon": 2.2570082,
+  "tags": {
+    "SNCF:hackess:completeness": "3",
+    "STIF:zone": "4",
+    "name": "Cernay",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "ref:FR:RATP": "5574",
+    "ref:FR:uic8": "87276063",
+    "type:RATP": "rer",
+    "uic_ref": "8727606",
+    "wikipedia": "fr:Gare de Cernay (Val-d'Oise)"
+  }
+},
+{
+  "type": "node",
+  "id": 409099263,
+  "lat": 48.5710339,
+  "lon": 2.4331190,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Mennecy",
+    "network": "Transilien",
+    "official_name": "MENNECY",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "20976",
+    "type:RATP": "rer",
+    "uic_ref": "8768141",
+    "wikipedia": "fr:Gare de Mennecy"
+  }
+},
+{
+  "type": "node",
+  "id": 471537554,
+  "lat": 48.8924772,
+  "lon": 2.2373889,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "La Défense - Grande Arche",
+    "name:es": "Estación de La Défense",
+    "railway": "station",
+    "ref:FR:RATP": "1871",
+    "start_date": "1970-02-20",
+    "type:RATP": "rer",
+    "uic_ref": "8775801",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de la Défense"
+  }
+},
+{
+  "type": "node",
+  "id": 471542184,
+  "lat": 48.8970376,
+  "lon": 2.2230011,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Nanterre Préfecture",
+    "operator": "RATP",
+    "railway": "station",
+    "ref:FR:RATP": "1755",
+    "start_date": "1973-10-01",
+    "type:RATP": "rer",
+    "uic_ref": "8775802",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Nanterre-Préfecture"
+  }
+},
+{
+  "type": "node",
+  "id": 475552824,
+  "lat": 48.5955618,
+  "lon": 2.5839163,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Savigny-le-Temple - Nandy",
+    "official_name": "SAVIGNY LE TEMPLE NANDY",
+    "operator": "SNCF",
+    "railway": "station",
+    "railway:traffic_mode": "passenger",
+    "ref:FR:RATP": "20990",
+    "route_ref:FR:RER_D": "ZUCO; ZECO",
+    "type:RATP": "rer",
+    "uic_ref": "8768218",
+    "wikipedia": "fr:Gare de Savigny-le-Temple - Nandy"
+  }
+},
+{
+  "type": "node",
+  "id": 475552978,
+  "lat": 48.6282460,
+  "lon": 2.5695709,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Lieusaint - Moissy",
+    "official_name": "LIEUSAINT-MOISSY",
+    "operator": "SNCF",
+    "railway": "stop",
+    "railway:traffic_mode": "passenger",
+    "ref:FR:RATP": "20989",
+    "route_ref:FR:RER_D": "ZUCO; ZECO",
+    "type:RATP": "rer",
+    "uic_ref": "8768215",
+    "wikipedia": "fr:Gare de Lieusaint - Moissy"
+  }
+},
+{
+  "type": "node",
+  "id": 475558621,
+  "lat": 48.6809459,
+  "lon": 2.5329132,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Boussy-Saint-Antoine",
+    "official_name": "BOUSSY SAINT-ANTOINE",
+    "operator": "SNCF",
+    "railway": "station",
+    "railway:traffic_mode": "passenger",
+    "ref:FR:RATP": "20987",
+    "route_ref:FR:RER_D": "ZUCO; NUCO; ZECO",
+    "type:RATP": "rer",
+    "uic_ref": "8768213",
+    "wikipedia": "fr:Gare de Boussy-Saint-Antoine"
+  }
+},
+{
+  "type": "node",
+  "id": 475558623,
+  "lat": 48.6675439,
+  "lon": 2.5478602,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Combs-la-Ville - Quincy",
+    "official_name": "COMBS LA VILLE QUINCY",
+    "operator": "SNCF",
+    "railway": "station",
+    "railway:traffic_mode": "passenger",
+    "ref:FR:RATP": "20988",
+    "route_ref:FR:RER_D": "ZUCO; NUCO; ZECO",
+    "type:RATP": "rer",
+    "uic_ref": "8768214",
+    "wikipedia": "fr:Gare de Combs-la-Ville - Quincy"
+  }
+},
+{
+  "type": "node",
+  "id": 475559855,
+  "lat": 48.5385843,
+  "lon": 2.6257568,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Le Mée-sur-Seine",
+    "name:uk": "Ле-Ме-сюр-Сен",
+    "official_name": "LE MEE",
+    "operator": "SNCF",
+    "railway": "station",
+    "railway:traffic_mode": "passenger",
+    "ref:FR:RATP": "20992",
+    "route_ref:FR:RER_D": "ZUCO; ZECO",
+    "type:RATP": "rer",
+    "uic_ref": "8768217",
+    "wikipedia": "fr:Le Mée-sur-Seine"
+  }
+},
+{
+  "type": "node",
+  "id": 475561228,
+  "lat": 48.7082768,
+  "lon": 2.4144646,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Vigneux-sur-Seine",
+    "official_name": "VIGNEUX SUR SEINE",
+    "operator": "SNCF",
+    "railway": "station",
+    "railway:traffic_mode": "passenger",
+    "ref:FR:RATP": "20958",
+    "type:RATP": "rer",
+    "uic_ref": "8768130",
+    "wikipedia": "fr:Gare de Vigneux-sur-Seine"
+  }
+},
+{
+  "type": "node",
+  "id": 482515811,
+  "lat": 48.5928817,
+  "lon": 2.4614421,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Villabé",
+    "official_name": "VILLABE",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "109709",
+    "route_ref:FR:RER_D": "ZOPO; ZIPE; ZIPO",
+    "source": "survey",
+    "type:RATP": "rer",
+    "uic_ref": "8768161",
+    "wikipedia": "fr:Gare de Villabé"
+  }
+},
+{
+  "type": "node",
+  "id": 575955254,
+  "lat": 48.6990338,
+  "lon": 2.5066895,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Brunoy",
+    "official_name": "BRUNOY",
+    "operator": "SNCF",
+    "railway": "station",
+    "railway:traffic_mode": "passenger",
+    "ref:FR:RATP": "20986",
+    "route_ref:FR:RER_D": "ZUCO; NUCO; ZECO",
+    "type:RATP": "rer",
+    "uic_ref": "8768212",
+    "wikipedia": "fr:Gare de Brunoy"
+  }
+},
+{
+  "type": "node",
+  "id": 616362186,
+  "lat": 48.5655032,
+  "lon": 2.5942856,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Cesson",
+    "official_name": "CESSON",
+    "operator": "SNCF",
+    "railway": "station",
+    "railway:traffic_mode": "passenger",
+    "ref:FR:RATP": "20991",
+    "route_ref:FR:RER_D": "ZUCO; ZECO",
+    "type:RATP": "rer",
+    "uic_ref": "8768216",
+    "wikipedia": "fr:Gare de Cesson"
+  }
+},
+{
+  "type": "node",
+  "id": 622397267,
+  "lat": 48.7082188,
+  "lon": 2.4622774,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Montgeron - Crosne",
+    "network": "Transilien",
+    "official_name": "MONTGERON CROSNE",
+    "operator": "SNCF",
+    "railway": "station",
+    "railway:traffic_mode": "passenger",
+    "ref:FR:RATP": "20984",
+    "route_ref:FR:RER_D": "ZUCO; NUCO; ZECO",
+    "type:RATP": "rer",
+    "uic_ref": "8768210",
+    "wikipedia": "fr:Gare de Montgeron - Crosne"
+  }
+},
+{
+  "type": "node",
+  "id": 772545201,
+  "lat": 48.5735652,
+  "lon": 2.4795860,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Le Plessis-Chenet - IBM",
+    "official_name": "LE PLESSIS CHENET",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "109710",
+    "route_ref:FR:RER_D": "ZOPO; ZIPE; ZIPO",
+    "source": "survey",
+    "type:RATP": "rer",
+    "uic_ref": "8768162",
+    "wikipedia": "fr:Gare du Plessis-Chenet"
+  }
+},
+{
+  "type": "node",
+  "id": 818899103,
+  "lat": 48.2934325,
+  "lon": 2.4012177,
+  "tags": {
+    "name": "Malesherbes",
+    "official_name": "MALESHERBES",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "20983",
+    "type:RATP": "rer",
+    "uic_ref": "8768441",
+    "wikipedia": "fr:Gare de Malesherbes"
+  }
+},
+{
+  "type": "node",
+  "id": 829658160,
+  "lat": 48.9016104,
+  "lon": 2.2149357,
+  "tags": {
+    "STIF:zone": "3",
+    "alt_name": "Nanterre-Université",
+    "name": "Nanterre Université SNCF",
+    "note:fr": "Attention à la confusion ceci est le coté SNCF",
+    "official_name": "NANTERRE U SNCF",
+    "railway": "station",
+    "ref": "Transilien L",
+    "ref:FR:RATP": "1756",
+    "ref:SNCF": "Transilien",
+    "ref:SNCF:Transilien": "L",
+    "source": "survey;knowledge",
+    "type:RATP": "rer",
+    "uic_ref": "8738631",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Nanterre-Université"
+  }
+},
+{
+  "type": "node",
+  "id": 1039320594,
+  "lat": 48.7800909,
+  "lon": 2.2812665,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Robinson",
+    "railway": "station",
+    "ref:FR:RATP": "1668",
+    "type:RATP": "rer",
+    "uic_ref": "8775872",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Robinson"
+  }
+},
+{
+  "type": "node",
+  "id": 1039322015,
+  "lat": 48.7803647,
+  "lon": 2.3123769,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Bourg-la-Reine",
+    "railway": "station",
+    "ref:FR:RATP": "2020",
+    "type:RATP": "rer",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Bourg-la-Reine"
+  }
+},
+{
+  "type": "node",
+  "id": 1059567460,
+  "lat": 48.8555432,
+  "lon": 2.7736418,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Val d'Europe",
+    "railway": "station",
+    "ref:FR:RATP": "53960",
+    "type:RATP": "rer",
+    "uic_ref": "8773006",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare du Val d'Europe"
+  }
+},
+{
+  "type": "node",
+  "id": 1116335802,
+  "lat": 48.9014106,
+  "lon": 2.2149325,
+  "tags": {
+    "STIF:zone": "3",
+    "alt_name": "Nanterre-Université",
+    "name": "Nanterre-Université",
+    "official_name": "NANTERRE U RATP",
+    "railway": "station",
+    "ref:FR:RATP": "1756",
+    "source": "RATP - 07/2012",
+    "type:RATP": "rer",
+    "uic_ref": "8775803",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Nanterre-Université"
+  }
+},
+{
+  "type": "node",
+  "id": 1141496059,
+  "lat": 48.7435241,
+  "lon": 2.2965843,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Fontaine-Michalon",
+    "railway": "station",
+    "ref:FR:RATP": "1920",
+    "type:RATP": "rer",
+    "uic_ref": "8775876",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Fontaine Michalon"
+  }
+},
+{
+  "type": "node",
+  "id": 1308998006,
+  "lat": 48.8435226,
+  "lon": 2.3744523,
+  "tags": {
+    "name": "Gare de Lyon RER D",
+    "official_name": "PARIS GARE DE LYON",
+    "operator": "SNCF",
+    "railway": "station",
+    "route_ref:FR:RER_D": "SOVA; FUCA; UOVA; VIPE; LOVA; VUCA; FOVA; LUCA; VOVA; MIPE; UUCA; SUCA; VOPA; MOPA; MIPA; FOPA; LOPA",
+    "start_date": "1995-09-24",
+    "type:RATP": "rer",
+    "uic_ref": "8768603",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1309031698,
+  "lat": 48.8437844,
+  "lon": 2.3740909,
+  "tags": {
+    "STIF:zone": "1",
+    "name": "Gare de Lyon RER A",
+    "railway": "station",
+    "ref:FR:RATP": "1840;20952",
+    "start_date": "1977-12-09",
+    "type:RATP": "rer",
+    "uic_ref": "8775858",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Paris-Gare de Lyon#RER"
+  }
+},
+{
+  "type": "node",
+  "id": 1327390732,
+  "lat": 48.8537309,
+  "lon": 2.4881247,
+  "tags": {
+    "STIF:zone": "3",
+    "layer": "-2",
+    "name": "Val-de-Fontenay (RER A)",
+    "platforms": "2",
+    "railway": "station",
+    "ref:FR:RATP": "1642",
+    "source": "local_knowledge",
+    "type:RATP": "rer",
+    "uic_ref": "8775830",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare du Val de Fontenay"
+  }
+},
+{
+  "type": "node",
+  "id": 1333685615,
+  "lat": 48.8153713,
+  "lon": 2.3408362,
+  "tags": {
+    "STIF:zone": "2",
+    "name": "Gentilly",
+    "railway": "station",
+    "ref:FR:RATP": "1845",
+    "type:RATP": "rer",
+    "uic_ref": "8775865",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Gentilly"
+  }
+},
+{
+  "type": "node",
+  "id": 1344112356,
+  "lat": 48.8351671,
+  "lon": 2.4718177,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Nogent-sur-Marne",
+    "name:fr": "Nogent-sur-Marne",
+    "name:ru": "Ножан-сюр-Марн",
+    "name:zh": "马恩河畔诺让站",
+    "operator": "RATP",
+    "public_transport": "stop_position",
+    "rail": "yes",
+    "railway": "station",
+    "ref:FR:RATP": "1763",
+    "start_date": "1859-09-22",
+    "type:RATP": "rer",
+    "uic_ref": "8775813",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Nogent-sur-Marne"
+  }
+},
+{
+  "type": "node",
+  "id": 1468452896,
+  "lat": 48.8941030,
+  "lon": 2.4792543,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Bondy",
+    "railway": "station",
+    "ref:FR:RATP": "51926",
+    "type:RATP": "rer",
+    "uic_ref": "8711340",
+    "wikipedia": "fr:Gare de Bondy"
+  }
+},
+{
+  "type": "node",
+  "id": 1524902066,
+  "lat": 49.0453009,
+  "lon": 2.1059469,
+  "tags": {
+    "SNCF:hackess:completeness": "1",
+    "STIF:zone": "5",
+    "name": "Saint-Ouen-l'Aumône",
+    "public_transport": "stop_area",
+    "railway": "station",
+    "ref:FR:RATP": "54087",
+    "ref:FR:uic8": "87276105",
+    "type:RATP": "rer",
+    "uic_ref": "8727610",
+    "wikipedia": "fr:Gare de Saint-Ouen-l'Aumône"
+  }
+},
+{
+  "type": "node",
+  "id": 1573489397,
+  "lat": 48.7643737,
+  "lon": 2.4112139,
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "3",
+    "name": "Choisy-le-Roi",
+    "opening_hours": "Mo-Su 00:00-01:10,04:30-24:00",
+    "operator": "SNCF",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "ref:FR:RATP": "5610",
+    "ref:FR:uic8": "87545285",
+    "type:RATP": "rer",
+    "uic_ref": "8754528",
+    "wikipedia": "fr:Gare de Choisy-le-Roi"
+  }
+},
+{
+  "type": "node",
+  "id": 1730998187,
+  "lat": 48.8473177,
+  "lon": 2.4334904,
+  "tags": {
+    "STIF:zone": "2",
+    "name": "Vincennes",
+    "railway": "station",
+    "ref:FR:RATP": "1655",
+    "source": "survey",
+    "start_date": "1859-09-22",
+    "type:RATP": "rer",
+    "uic_ref": "8775811",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Vincennes"
+  }
+},
+{
+  "type": "node",
+  "id": 1731763792,
+  "lat": 48.8740658,
+  "lon": 2.2951493,
+  "tags": {
+    "STIF:zone": "1",
+    "name": "Charles de Gaulle — Étoile (RER)",
+    "name:ru": "Шарль де Голль — Этуаль",
+    "note": "Limited to RER",
+    "railway": "station",
+    "ref:FR:RATP": "1954",
+    "start_date": "1970-01-19",
+    "type:RATP": "rer",
+    "uic_ref": "8775800",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare Charles-de-Gaulle - Étoile"
+  }
+},
+{
+  "type": "node",
+  "id": 1731763794,
+  "lat": 48.8484292,
+  "lon": 2.3953699,
+  "tags": {
+    "STIF:zone": "1",
+    "alt_name": "Nation",
+    "name": "Nation (RER)",
+    "name:ru": "Насьон",
+    "railway": "station",
+    "ref:FR:RATP": "1759",
+    "start_date": "1969-12-14",
+    "type:RATP": "rer",
+    "uic_ref": "8775810",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Nation"
+  }
+},
+{
+  "type": "node",
+  "id": 1769544702,
+  "lat": 48.7829308,
+  "lon": 2.4090445,
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "3",
+    "level": "0",
+    "name": "Les Ardoines",
+    "railway": "station",
+    "ref:FR:RATP": "5609",
+    "ref:FR:uic8": "87492108",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+    "type:RATP": "rer",
+    "uic_ref": "8749210",
+    "wheelchair": "no",
+    "wikipedia": "fr:Gare des Ardoines"
+  }
+},
+{
+  "type": "node",
+  "id": 1787031974,
+  "lat": 48.8837446,
+  "lon": 2.5254233,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Gagny",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "ref:FR:RATP": "51928",
+    "type:RATP": "rer",
+    "uic_ref": "8711351",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Gagny"
+  }
+},
+{
+  "type": "node",
+  "id": 1789920402,
+  "lat": 48.7530368,
+  "lon": 2.5052633,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Boissy-Saint-Léger",
+    "operator": "RATP",
+    "rail": "yes",
+    "railway": "station",
+    "ref:FR:RATP": "2013",
+    "ref:FR:uic8": "87758201",
+    "start_date": "1874-07-09",
+    "type:RATP": "rer",
+    "uic_ref": "8775820",
+    "wikipedia": "fr:Gare de Boissy-Saint-Léger"
+  }
+},
+{
+  "type": "node",
+  "id": 1806123617,
+  "lat": 48.8900879,
+  "lon": 2.1345954,
+  "tags": {
+    "STIF:zone": "4",
+    "is_in": "Le Vesinet",
+    "name": "Le Vésinet Centre",
+    "railway": "station",
+    "ref:FR:RATP": "15524",
+    "start_date": "1837-08-26",
+    "type:RATP": "rer",
+    "uic_ref": "8775807",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare du Vésinet-Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 1851593555,
+  "lat": 48.8210037,
+  "lon": 2.4638620,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Joinville-le-Pont",
+    "railway": "station",
+    "ref:FR:RATP": "1863",
+    "start_date": "1859-09-22",
+    "type:RATP": "rer",
+    "uic_ref": "8775814",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Joinville-le-Pont"
+  }
+},
+{
+  "type": "node",
+  "id": 1851623288,
+  "lat": 48.8741440,
+  "lon": 2.5827315,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Chelles Gournay",
+    "railway": "station",
+    "ref:FR:RATP": "51930",
+    "type:RATP": "rer",
+    "uic_ref": "8711611",
+    "wikipedia": "fr:Gare de Chelles - Gournay"
+  }
+},
+{
+  "type": "node",
+  "id": 1903641987,
+  "lat": 48.9803322,
+  "lon": 2.2712294,
+  "tags": {
+    "SNCF:hackess:completeness": "1",
+    "STIF:zone": "4",
+    "name": "Ermont - Eaubonne",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5575",
+    "ref:FR:uic8": "87276055",
+    "ref:SNCF:Transilien": "J; H",
+    "type:RATP": "rer",
+    "uic_ref": "8727605",
+    "wikipedia": "fr:Gare d'Ermont - Eaubonne"
+  }
+},
+{
+  "type": "node",
+  "id": 2156465759,
+  "lat": 48.8078599,
+  "lon": 2.3337534,
+  "tags": {
+    "STIF:zone": "2",
+    "name": "Laplace",
+    "operator": "RER",
+    "railway": "station",
+    "ref": "RER B",
+    "ref:FR:RATP": "1880",
+    "type:RATP": "rer",
+    "uic_ref": "8775866",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Laplace"
+  }
+},
+{
+  "type": "node",
+  "id": 2320446016,
+  "lat": 48.9702027,
+  "lon": 2.0777351,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Achères - Ville",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "15520",
+    "ref:SNCF:Transilien": "L",
+    "source": "survey",
+    "start_date": "1976-05",
+    "type:RATP": "rer",
+    "type:SNCF": "Transilien",
+    "uic_ref": "8738165",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare d'Achères-Ville"
+  }
+},
+{
+  "type": "node",
+  "id": 2320446017,
+  "lat": 49.0487859,
+  "lon": 2.0123707,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Cergy Le Haut",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "16814",
+    "ref:SNCF:Transilien": "L",
+    "source": "survey",
+    "start_date": "1994-08-29",
+    "type:RATP": "rer",
+    "type:SNCF": "Transilien",
+    "uic_ref": "8738265",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Cergy-Le Haut"
+  }
+},
+{
+  "type": "node",
+  "id": 2320446018,
+  "lat": 49.0365550,
+  "lon": 2.0794140,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Cergy Préfecture",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "15518",
+    "ref:SNCF:Transilien": "L",
+    "source": "survey",
+    "type:RATP": "rer",
+    "type:SNCF": "Transilien",
+    "uic_ref": "8738190",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Cergy-Préfecture"
+  }
+},
+{
+  "type": "node",
+  "id": 2320446019,
+  "lat": 49.0496017,
+  "lon": 2.0346919,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Cergy Saint-Christophe",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "15517",
+    "ref:SNCF:Transilien": "L",
+    "source": "survey",
+    "start_date": "1985-09-22",
+    "type:RATP": "rer",
+    "type:SNCF": "Transilien",
+    "uic_ref": "8738249",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Cergy-Saint-Christophe"
+  }
+},
+{
+  "type": "node",
+  "id": 2320446020,
+  "lat": 48.9899239,
+  "lon": 2.0741158,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Conflans-Fin-d'Oise",
+    "official_name": "CONFLANS FIN D'OISE",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "15519",
+    "source": "survey",
+    "start_date": "1984",
+    "type:RATP": "rer",
+    "uic_ref": "8738145",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Conflans-Fin-d'Oise"
+  }
+},
+{
+  "type": "node",
+  "id": 2320446021,
+  "lat": 49.0142697,
+  "lon": 2.0782873,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Neuville Université",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "16817",
+    "ref:SNCF:Transilien": "L",
+    "source": "survey",
+    "type:RATP": "rer",
+    "type:SNCF": "Transilien",
+    "uic_ref": "8733448",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Neuville-Université"
+  }
+},
+{
+  "type": "node",
+  "id": 2354924654,
+  "lat": 48.9807215,
+  "lon": 2.2712262,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Ermont-Eaubonne",
+    "operator": "SNCF",
+    "public_transport": "stop_position",
+    "type:RATP": "rer",
+    "uic_ref": "8727605"
+  }
+},
+{
+  "type": "node",
+  "id": 2355083137,
+  "lat": 48.9638500,
+  "lon": 2.2852920,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Saint-Gratien",
+    "railway": "station",
+    "ref:FR:RATP": "5576",
+    "ref:FR:uic8": "87276170",
+    "type:RATP": "rer",
+    "uic_ref": "8727617",
+    "wikipedia": "fr:Gare de Saint-Gratien"
+  }
+},
+{
+  "type": "node",
+  "id": 2355666875,
+  "lat": 48.8535755,
+  "lon": 2.2795901,
+  "tags": {
+    "SNCF:hackess:completeness": "4",
+    "STIF:zone": "1",
+    "name": "Avenue du Président Kennedy",
+    "old_name": "Kennedy Radio-France",
+    "operator": "RER",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:FR:RATP": "5587",
+    "ref:FR:uic8": "87543207",
+    "type:RATP": "rer",
+    "uic_ref": "8754320",
+    "wikipedia": "fr:Gare de l'avenue du Président Kennedy"
+  }
+},
+{
+  "type": "node",
+  "id": 2355666876,
+  "lat": 49.0467275,
+  "lon": 2.0951961,
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "5",
+    "name": "Pontoise",
+    "operator": "SNCF",
+    "public_transport": "stop_area",
+    "railway": "station",
+    "ref": "Transilien J",
+    "ref:FR:RATP": "54086",
+    "ref:FR:uic8": "87276139",
+    "ref:SNCF:Transilien": "J",
+    "type:RATP": "rer",
+    "type:SNCF": "Transilien",
+    "uic_ref": "8727613",
+    "wikipedia": "fr:Gare de Pontoise"
+  }
+},
+{
+  "type": "node",
+  "id": 2367372622,
+  "lat": 48.8296241,
+  "lon": 2.2634899,
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "2",
+    "name": "Issy - Val-de-Seine",
+    "official_name": "ISSY VAL DE SEINE",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref": "RER C",
+    "ref:FR:RATP": "5597",
+    "ref:FR:uic8": "87393306",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "type:RATP": "rer",
+    "uic_ref": "8739330",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare d'Issy - Val de Seine"
+  }
+},
+{
+  "type": "node",
+  "id": 2379542204,
+  "lat": 48.8605833,
+  "lon": 2.3261037,
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "1",
+    "name": "Musée d'Orsay",
+    "official_name": "MUSEE D ORSAY",
+    "operator": "RER",
+    "public_transport": "station",
+    "railway": "station",
+    "ref": "RER C",
+    "ref:FR:RATP": "5603",
+    "ref:FR:uic8": "87547307",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "type:RATP": "rer",
+    "uic_ref": "8754730",
+    "wheelchair": "no",
+    "wikipedia": "fr:Gare du Musée d'Orsay"
+  }
+},
+{
+  "type": "node",
+  "id": 2489176454,
+  "lat": 48.8002576,
+  "lon": 2.1291850,
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "4",
+    "alt_name": "Versailles Rive Gauche - Château de Versailles",
+    "name": "Versailles Rive Gauche Château",
+    "old_name": "Versailles Rive Gauche",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref": "RER C",
+    "ref:FR:RATP": "5591",
+    "ref:FR:uic8": "87393157",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "source": "survey 2013",
+    "type:RATP": "rer",
+    "uic_ref": "8739315",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Versailles-Château-Rive-Gauche"
+  }
+},
+{
+  "type": "node",
+  "id": 2489972624,
+  "lat": 48.8465081,
+  "lon": 2.2771499,
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "1",
+    "name": "Javel",
+    "official_name": "JAVEL",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref": "RER C",
+    "ref:FR:RATP": "5599",
+    "ref:FR:uic8": "87393066",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "type:RATP": "rer",
+    "uic_ref": "8739306",
+    "wheelchair": "no",
+    "wikipedia": "fr:Gare de Javel"
+  }
+},
+{
+  "type": "node",
+  "id": 2507487838,
+  "lat": 48.9350610,
+  "lon": 2.3454394,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Saint-Denis",
+    "official_name": "SAINT-DENIS",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref": "Transilien H; RER D",
+    "ref:FR:RATP": "5560",
+    "ref:SNCF": "Transilien; RER",
+    "ref:SNCF:Transilien": "H",
+    "route_ref:FR:RER_D": "SOVA; FUCA; VIPE; LOVA; VUCA; FOVA; LUCA; VOVA; SUCA; VOPA; FOPA; LOPA",
+    "type:RATP": "rer",
+    "uic_ref": "8727101",
+    "wheelchair": "no",
+    "wikipedia": "fr:Gare de Saint-Denis"
+  }
+},
+{
+  "type": "node",
+  "id": 2509653764,
+  "lat": 48.7707933,
+  "lon": 2.6902360,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Ozoir-la-Ferrière",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "58001",
+    "type:RATP": "rer",
+    "uic_ref": "8711602",
+    "wikipedia": "fr:Gare d'Ozoir-la-Ferrière"
+  }
+},
+{
+  "type": "node",
+  "id": 2583127521,
+  "lat": 48.8954546,
+  "lon": 2.1963555,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Nanterre - Ville",
+    "official_name": "NANTERRE VILLE",
+    "railway": "station",
+    "ref:FR:RATP": "1757",
+    "start_date": "1837-08-26",
+    "type:RATP": "rer",
+    "uic_ref": "8775804",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Nanterre-Ville"
+  }
+},
+{
+  "type": "node",
+  "id": 2632290476,
+  "lat": 48.9475671,
+  "lon": 2.5247513,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Sevran - Beaudottes",
+    "railway": "station",
+    "ref:FR:RATP": "1703",
+    "type:RATP": "rer",
+    "uic_ref": "8727144",
+    "wikipedia": "fr:Gare de Sevran - Beaudottes"
+  }
+},
+{
+  "type": "node",
+  "id": 2656855599,
+  "lat": 48.8205877,
+  "lon": 2.3390071,
+  "tags": {
+    "STIF:zone": "1",
+    "name": "Cité Universitaire",
+    "operator": "RATP",
+    "railway": "station",
+    "ref": "RER B",
+    "ref:FR:RATP": "1970",
+    "type:RATP": "rer",
+    "uic_ref": "8775864",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Cité universitaire"
+  }
+},
+{
+  "type": "node",
+  "id": 3190767995,
+  "lat": 48.8620226,
+  "lon": 2.3465444,
+  "tags": {
+    "STIF:zone": "1",
+    "name": "Châtelet-les-Halles",
+    "official_name": "CHATELET LES HALLES",
+    "public_transport": "stop_position",
+    "ref:FR:RATP": "1967",
+    "start_date": "1977-12-09",
+    "subway": "yes",
+    "type:RATP": "rer",
+    "uic_ref": "8775860",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare de Châtelet - Les Halles"
+  }
+},
+{
+  "type": "node",
+  "id": 3190767996,
+  "lat": 48.8620802,
+  "lon": 2.3466656,
+  "tags": {
+    "STIF:zone": "1",
+    "name": "Châtelet-les-Halles",
+    "official_name": "CHATELET LES HALLES",
+    "public_transport": "stop_position",
+    "ref:FR:RATP": "1967",
+    "start_date": "1977-12-09",
+    "subway": "yes",
+    "type:RATP": "rer",
+    "uic_ref": "8775860",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare de Châtelet - Les Halles"
+  }
+},
+{
+  "type": "node",
+  "id": 3190767997,
+  "lat": 48.8620990,
+  "lon": 2.3467832,
+  "tags": {
+    "STIF:zone": "1",
+    "name": "Châtelet-les-Halles",
+    "official_name": "CHATELET LES HALLES",
+    "public_transport": "stop_position",
+    "ref:FR:RATP": "1967",
+    "route_ref:FR:RER_D": "SOVA; FUCA; UOVA; VIPE; LOVA; VUCA; FOVA; LUCA; VOVA; MIPE; UUCA; SUCA; VOPA; MOPA; MIPA; FOPA; LOPA",
+    "start_date": "1977-12-09",
+    "subway": "yes",
+    "type:RATP": "rer",
+    "uic_ref": "8775860",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare de Châtelet - Les Halles"
+  }
+},
+{
+  "type": "node",
+  "id": 3190767998,
+  "lat": 48.8621378,
+  "lon": 2.3469949,
+  "tags": {
+    "STIF:zone": "1",
+    "name": "Châtelet-les-Halles",
+    "official_name": "CHATELET LES HALLES",
+    "public_transport": "stop_position",
+    "ref:FR:RATP": "1967",
+    "route_ref:FR:RER_D": "SOVA; FUCA; UOVA; VIPE; LOVA; VUCA; FOVA; LUCA; VOVA; MIPE; UUCA; SUCA; VOPA; MOPA; MIPA; FOPA; LOPA",
+    "start_date": "1977-12-09",
+    "subway": "yes",
+    "type:RATP": "rer",
+    "uic_ref": "8775860",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare de Châtelet - Les Halles"
+  }
+},
+{
+  "type": "node",
+  "id": 3190767999,
+  "lat": 48.8621977,
+  "lon": 2.3470530,
+  "tags": {
+    "STIF:zone": "1",
+    "name": "Châtelet-les-Halles",
+    "official_name": "CHATELET LES HALLES",
+    "public_transport": "stop_position",
+    "ref:FR:RATP": "1967",
+    "route_ref:FR:RER_D": "SOVA; FUCA; UOVA; VIPE; LOVA; VUCA; FOVA; LUCA; VOVA; MIPE; UUCA; SUCA; VOPA; MOPA; MIPA; FOPA; LOPA",
+    "start_date": "1977-12-09",
+    "subway": "yes",
+    "type:RATP": "rer",
+    "uic_ref": "8775860",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare de Châtelet - Les Halles"
+  }
+},
+{
+  "type": "node",
+  "id": 3190768000,
+  "lat": 48.8621456,
+  "lon": 2.3472609,
+  "tags": {
+    "STIF:zone": "1",
+    "name": "Châtelet-les-Halles",
+    "official_name": "CHATELET LES HALLES",
+    "public_transport": "stop_position",
+    "ref:FR:RATP": "1967",
+    "route_ref:FR:RER_D": "SOVA; FUCA; UOVA; VIPE; LOVA; VUCA; FOVA; LUCA; VOVA; MIPE; UUCA; SUCA; VOPA; MOPA; MIPA; FOPA; LOPA",
+    "start_date": "1977-12-09",
+    "subway": "yes",
+    "type:RATP": "rer",
+    "uic_ref": "8775860",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare de Châtelet - Les Halles"
+  }
+},
+{
+  "type": "node",
+  "id": 3190883103,
+  "lat": 48.8621487,
+  "lon": 2.3467922,
+  "tags": {
+    "STIF:zone": "1",
+    "name": "Châtelet-les-Halles",
+    "official_name": "CHATELET LES HALLES",
+    "railway": "station",
+    "ref:FR:RATP": "1967",
+    "route_ref:FR:RER_D": "SOVA; FUCA; UOVA; VIPE; LOVA; VUCA; FOVA; LUCA; VOVA; MIPE; UUCA; SUCA; VOPA; MOPA; MIPA; FOPA; LOPA",
+    "start_date": "1977-12-09",
+    "subway": "yes",
+    "type:RATP": "rer",
+    "uic_ref": "8775860",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare de Châtelet - Les Halles"
+  }
+},
+{
+  "type": "node",
+  "id": 3268094343,
+  "lat": 48.8305069,
+  "lon": 2.3771516,
+  "tags": {
+    "STIF:zone": "2",
+    "conveying": "yes",
+    "entrance": "yes",
+    "exit_to": "Avenue de France",
+    "indoor": "yes",
+    "layer": "0;-2",
+    "level": "0",
+    "name": "Bibliothèque François Mitterrand - Sortie 2",
+    "operator": "SNCF",
+    "railway": "subway_entrance",
+    "ref": "2",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "steps:contrast": "yes",
+    "tactile_paving": "no",
+    "type:RATP": "rer;metro",
+    "type:SNCF": "rer;metro",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3268094344,
+  "lat": 48.8282667,
+  "lon": 2.3785000,
+  "tags": {
+    "STIF:zone": "2",
+    "conveying": "yes",
+    "exit_to": "Rue des Grands Moulins",
+    "indoor": "yes",
+    "layer": "0;-1",
+    "level": "0",
+    "name": "Bibliothèque François Mitterrand - Sortie 5",
+    "operator": "SNCF",
+    "railway": "subway_entrance",
+    "ref": "5",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "type:RATP": "rer",
+    "type:SNCF": "rer",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3268095064,
+  "lat": 48.8300096,
+  "lon": 2.3776097,
+  "tags": {
+    "STIF:zone": "2",
+    "exit_to": "Avenue de France",
+    "highway": "elevator",
+    "layer": "0;-2",
+    "level": "0;-1.5",
+    "name": "Bibliothèque François Mitterrand - Sortie 2",
+    "operator": "SNCF",
+    "railway": "subway_entrance",
+    "ref": "2",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "speech_output:fr": "yes",
+    "tactile_paving": "no",
+    "tactile_writing:braille:fr": "yes",
+    "type:RATP": "rer;metro",
+    "type:SNCF": "rer;metro",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3380425728,
+  "lat": 48.8621414,
+  "lon": 2.3468582,
+  "tags": {
+    "STIF:zone": "1",
+    "name": "Châtelet-les-Halles",
+    "official_name": "CHATELET LES HALLES",
+    "public_transport": "stop_position",
+    "ref:FR:RATP": "1967",
+    "route_ref:FR:RER_D": "SOVA; FUCA; UOVA; VIPE; LOVA; VUCA; FOVA; LUCA; VOVA; MIPE; UUCA; SUCA; VOPA; MOPA; MIPA; FOPA; LOPA",
+    "start_date": "1977-12-09",
+    "subway": "yes",
+    "type:RATP": "rer",
+    "uic_ref": "8775860",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare de Châtelet - Les Halles"
+  }
+},
+{
+  "type": "node",
+  "id": 3390297768,
+  "lat": 48.5294351,
+  "lon": 2.5728421,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Boissise-le-Roi",
+    "official_name": "BOISSISE LE ROI",
+    "railway": "station",
+    "ref:FR:RATP": "109714",
+    "route_ref:FR:RER_D": "ZOPO; ZIPE; ZIPO",
+    "type:RATP": "rer",
+    "uic_ref": "8768251",
+    "wikipedia": "fr:Gare de Boissise-le-Roi"
+  }
+},
+{
+  "type": "node",
+  "id": 3414068431,
+  "lat": 48.8298006,
+  "lon": 2.3758802,
+  "tags": {
+    "STIF:zone": "2",
+    "highway": "elevator",
+    "layer": "1;0;-2",
+    "level": "1;0;-1.5",
+    "name": "Bibliothèque François Mitterrand - Sortie 4",
+    "operator": "SNCF",
+    "railway": "subway_entrance",
+    "ref": "4",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "speech_output:fr": "yes",
+    "tactile_paving": "no",
+    "tactile_writing:braille:fr": "yes",
+    "type:RATP": "rer;metro",
+    "type:SNCF": "rer;metro",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3414141477,
+  "lat": 48.8560641,
+  "lon": 2.2895222,
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "1",
+    "name": "Champ de Mars - Tour Eiffel",
+    "name:de": "Marsfeld - Eiffelturm",
+    "official_name": "CHAMP DE MARS",
+    "operator": "SNCF",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "RER C",
+    "ref:FR:RATP": "5600",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "type:RATP": "rer",
+    "uic_ref": "8739305",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare du Champ de Mars - Tour Eiffel"
+  }
+},
+{
+  "type": "node",
+  "id": 3414141478,
+  "lat": 48.8567083,
+  "lon": 2.2897559,
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "1",
+    "name": "Champ de Mars - Tour Eiffel",
+    "name:de": "Marsfeld - Eiffelturm",
+    "official_name": "CHAMP DE MARS",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref": "RER C",
+    "ref:FR:RATP": "5600",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "type:RATP": "rer",
+    "uic_ref": "8739305",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare du Champ de Mars - Tour Eiffel"
+  }
+},
+{
+  "type": "node",
+  "id": 3414141479,
+  "lat": 48.8622005,
+  "lon": 2.2986178,
+  "tags": {
+    "name": "Pont de l'Alma",
+    "official_name": "PONT DE L ALMA",
+    "opening_hours": "Mo-Su 00:00-00:40,05:00-24:00",
+    "operator": "SNCF",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "RER C",
+    "ref:FR:RATP": "5601",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "type:RATP": "rer",
+    "uic_ref": "8739304",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare du Pont de l'Alma"
+  }
+},
+{
+  "type": "node",
+  "id": 3414141480,
+  "lat": 48.8625032,
+  "lon": 2.2999987,
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "1",
+    "name": "Pont de l'Alma",
+    "official_name": "PONT DE L ALMA",
+    "opening_hours": "Mo-Su 00:00-00:40,05:00-24:00",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref": "RER C",
+    "ref:FR:RATP": "5601",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "type:RATP": "rer",
+    "uic_ref": "8739304",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare du Pont de l'Alma"
+  }
+},
+{
+  "type": "node",
+  "id": 3419908161,
+  "lat": 48.8423078,
+  "lon": 2.3653119,
+  "tags": {
+    "SNCF:hackess:completeness": "4",
+    "STIF:zone": "1",
+    "name": "Gare d'Austerlitz",
+    "name:de": "Austerlitzer Bahnhof",
+    "name:ru": "Гар д'Остерлиц",
+    "official_name": "PARIS AUSTERLITZ RER C",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "RER C; Métro 5",
+    "ref:FR:RATP": "5605;1838;226221",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "station": "subway",
+    "type:RATP": "metro;rer",
+    "uic_ref": "87547026",
+    "wheelchair": "no",
+    "wikipedia": "fr:Gare d'Austerlitz (métro de Paris)"
+  }
+},
+{
+  "type": "node",
+  "id": 3432753244,
+  "lat": 48.5143361,
+  "lon": 2.2156384,
+  "tags": {
+    "SNCF:hackess:completeness": "3",
+    "STIF:zone": "5",
+    "name": "Chamarande",
+    "railway": "station",
+    "ref:FR:RATP": "5638",
+    "ref:FR:uic8": "87545152",
+    "type:RATP": "rer",
+    "uic_ref": "8754515",
+    "wikipedia": "fr:Gare de Chamarande"
+  }
+},
+{
+  "type": "node",
+  "id": 3441085434,
+  "lat": 48.8297421,
+  "lon": 2.3760021,
+  "tags": {
+    "STIF:zone": "2",
+    "layer": "1;0;-2",
+    "level": "0",
+    "name": "Bibliothèque François Mitterrand - Sortie 1",
+    "operator": "SNCF",
+    "railway": "subway_entrance",
+    "ref": "1",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "tactile_paving": "no",
+    "type:RATP": "rer;metro",
+    "type:SNCF": "rer;metro",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3470994301,
+  "lat": 48.8296806,
+  "lon": 2.3778522,
+  "tags": {
+    "STIF:zone": "2",
+    "entrance": "yes",
+    "exit_to": "Rue Goscinny",
+    "layer": "0;-2",
+    "name": "Bibliothèque François Mitterrand - Sortie 3",
+    "operator": "SNCF",
+    "railway": "subway_entrance",
+    "ref": "3",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "type:RATP": "rer;metro",
+    "type:SNCF": "rer;metro",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3484229324,
+  "lat": 48.7254534,
+  "lon": 2.4194543,
+  "tags": {
+    "name": "Ablon",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:FR:uic8": "87545269",
+    "type:RATP": "rer",
+    "uic_ref": "8754526",
+    "wikipedia": "fr:Gare d'Ablon"
+  }
+},
+{
+  "type": "node",
+  "id": 3484229325,
+  "lat": 48.7126170,
+  "lon": 2.4036055,
+  "tags": {
+    "name": "Athis-Mons",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:FR:RATP": "5619",
+    "ref:FR:uic8": "87545251",
+    "type:RATP": "rer",
+    "uic_ref": "8754525",
+    "wikipedia": "fr:Gare d'Athis-Mons"
+  }
+},
+{
+  "type": "node",
+  "id": 3484229326,
+  "lat": 48.6901705,
+  "lon": 2.3837241,
+  "tags": {
+    "alt_name": "Juvisy",
+    "name": "Juvisy-sur-Orge",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:FR:RATP": "5620",
+    "ref:FR:uic8": "87545244",
+    "type:RATP": "rer",
+    "uic_ref": "8754524",
+    "wikipedia": "fr:Gare de Juvisy"
+  }
+},
+{
+  "type": "node",
+  "id": 3484229327,
+  "lat": 48.6760940,
+  "lon": 2.3520556,
+  "tags": {
+    "name": "Savigny-sur-Orge",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:FR:RATP": "5620",
+    "ref:FR:uic8": "87545236",
+    "type:RATP": "rer",
+    "uic_ref": "8754523",
+    "wikipedia": "fr:Gare de Savigny-sur-Orge"
+  }
+},
+{
+  "type": "node",
+  "id": 3484229328,
+  "lat": 48.7065517,
+  "lon": 2.4834728,
+  "tags": {
+    "STIF:zone": "4",
+    "building": "train_station",
+    "name": "Yerres",
+    "network": "Transilien",
+    "official_name": "YERRES",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:traffic_mode": "passenger",
+    "ref:FR:RATP": "20985",
+    "route_ref:FR:RER_D": "ZUCO; NUCO; ZECO",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "type:RATP": "rer",
+    "uic_ref": "8768211",
+    "wikipedia": "fr:Gare d'Yerres"
+  }
+},
+{
+  "type": "node",
+  "id": 3484229331,
+  "lat": 48.6693334,
+  "lon": 2.3318791,
+  "tags": {
+    "name": "Épinay-sur-Orge",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:FR:RATP": "5622",
+    "ref:FR:uic8": "87545228",
+    "type:RATP": "rer",
+    "uic_ref": "8754522",
+    "wikipedia": "fr:Gare d'Épinay-sur-Orge"
+  }
+},
+{
+  "type": "node",
+  "id": 3484287061,
+  "lat": 48.5332249,
+  "lon": 2.2903726,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Bouray-sur-Juine",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5636",
+    "type:RATP": "rer",
+    "uic_ref": "8754517",
+    "wikipedia": "fr:Gare de Bouray"
+  }
+},
+{
+  "type": "node",
+  "id": 3484287062,
+  "lat": 48.6068032,
+  "lon": 2.3020586,
+  "tags": {
+    "name": "Brétigny-sur-Orge",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:FR:uic8": "87545194",
+    "type:RATP": "rer",
+    "uic_ref": "8754519",
+    "wikipedia": "fr:Gare de Brétigny-sur-Orge"
+  }
+},
+{
+  "type": "node",
+  "id": 3484287063,
+  "lat": 48.5916376,
+  "lon": 2.2672615,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "La Norville - Saint-Germain-lès-Arpajon",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:FR:RATP": "5626",
+    "ref:FR:uic8": "87545459",
+    "type:RATP": "rer",
+    "uic_ref": "8754545",
+    "wikipedia": "fr:Gare de La Norville - Saint-Germain-lès-Arpajon"
+  }
+},
+{
+  "type": "node",
+  "id": 3484287064,
+  "lat": 48.5207410,
+  "lon": 2.2555159,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Lardy",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:FR:RATP": "5637",
+    "ref:FR:uic8": "87545160",
+    "type:RATP": "rer",
+    "uic_ref": "8754516",
+    "wikipedia": "fr:Gare de Lardy"
+  }
+},
+{
+  "type": "node",
+  "id": 3484287065,
+  "lat": 48.5651268,
+  "lon": 2.2909455,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Marolles-en-Hurepoix",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:FR:RATP": "5635",
+    "type:RATP": "rer",
+    "uic_ref": "8754518",
+    "wikipedia": "fr:Gare de Marolles-en-Hurepoix"
+  }
+},
+{
+  "type": "node",
+  "id": 3484287066,
+  "lat": 48.4274675,
+  "lon": 2.1452675,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Saint-Martin d'Étampes",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5641",
+    "type:RATP": "rer",
+    "uic_ref": "87545350",
+    "wikipedia": "fr:Gare de Saint-Martin-d'Étampes"
+  }
+},
+{
+  "type": "node",
+  "id": 3484287067,
+  "lat": 48.6357648,
+  "lon": 2.3067751,
+  "tags": {
+    "name": "Saint-Michel-sur-Orge",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5624",
+    "ref:FR:uic8": "87545202",
+    "type:RATP": "rer",
+    "uic_ref": "8754520",
+    "wikipedia": "fr:Gare de Saint-Michel-sur-Orge"
+  }
+},
+{
+  "type": "node",
+  "id": 3484287068,
+  "lat": 48.6531190,
+  "lon": 2.3132967,
+  "tags": {
+    "name": "Sainte-Geneviève-des-Bois",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:FR:RATP": "5623",
+    "ref:FR:uic8": "87545210",
+    "type:RATP": "rer",
+    "uic_ref": "8754521",
+    "wikipedia": "fr:Gare de Sainte-Geneviève-des-Bois"
+  }
+},
+{
+  "type": "node",
+  "id": 3484287069,
+  "lat": 48.4936692,
+  "lon": 2.1945652,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Étréchy",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5639",
+    "ref:FR:uic8": "87545145",
+    "type:RATP": "rer",
+    "uic_ref": "8754514",
+    "wikipedia": "fr:Gare d'Étréchy"
+  }
+},
+{
+  "type": "node",
+  "id": 3484326008,
+  "lat": 48.5774260,
+  "lon": 2.1918832,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Breuillet - Bruyères-le-Châtel",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:FR:uic8": "87545483",
+    "type:RATP": "rer",
+    "uic_ref": "8754548",
+    "wikipedia": "fr:Gare de Breuillet - Bruyères-le-Châtel"
+  }
+},
+{
+  "type": "node",
+  "id": 3484326009,
+  "lat": 48.5645094,
+  "lon": 2.1707596,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Breuillet - Village",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:FR:RATP": "5631",
+    "ref:FR:uic8": "87545491",
+    "type:RATP": "rer",
+    "uic_ref": "8754549",
+    "wikipedia": "fr:Gare de Breuillet - Village"
+  }
+},
+{
+  "type": "node",
+  "id": 3484326010,
+  "lat": 48.5336054,
+  "lon": 2.0096132,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Dourdan",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:FR:RATP": "5634",
+    "ref:FR:uic8": "87545525",
+    "type:RATP": "rer",
+    "uic_ref": "8754552",
+    "wikipedia": "fr:Gare de Dourdan"
+  }
+},
+{
+  "type": "node",
+  "id": 3484326011,
+  "lat": 48.5354041,
+  "lon": 1.9953841,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Dourdan-la-Forêt",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "type:RATP": "rer",
+    "uic_ref": "8754017",
+    "wikipedia": "fr:Gare de Dourdan-la-Forêt"
+  }
+},
+{
+  "type": "node",
+  "id": 3484326012,
+  "lat": 48.5511055,
+  "lon": 2.1257340,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Saint-Chéron",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:FR:RATP": "5632",
+    "ref:FR:uic8": "87545509",
+    "type:RATP": "rer",
+    "uic_ref": "8754550",
+    "wikipedia": "fr:Gare de Saint-Chéron"
+  }
+},
+{
+  "type": "node",
+  "id": 3484326013,
+  "lat": 48.5355294,
+  "lon": 2.0687786,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Sermaise",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:FR:RATP": "5633",
+    "ref:FR:uic8": "87545517",
+    "type:RATP": "rer",
+    "uic_ref": "8754551",
+    "wikipedia": "fr:Gare de Sermaise"
+  }
+},
+{
+  "type": "node",
+  "id": 3484326014,
+  "lat": 48.5825234,
+  "lon": 2.2225767,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Égly",
+    "network": "Transilien",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:uic8": "87545475",
+    "type:RATP": "rer",
+    "uic_ref": "8754547",
+    "wikipedia": "fr:Gare d'Égly"
+  }
+},
+{
+  "type": "node",
+  "id": 3497428394,
+  "lat": 49.0338707,
+  "lon": 2.1279345,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Saint-Ouen-l'Aumône Liesse",
+    "railway": "station",
+    "ref:FR:RATP": "55488",
+    "ref:FR:uic8": "87337980",
+    "type:RATP": "rer",
+    "uic_name": "St Ouen l'Aumône Liesse",
+    "uic_ref": "8733798",
+    "wikipedia": "fr:Gare de Saint-Ouen-l'Aumône-Liesse"
+  }
+},
+{
+  "type": "node",
+  "id": 3521306585,
+  "lat": 48.7624762,
+  "lon": 2.3046232,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "La Croix de Berny",
+    "railway": "station",
+    "ref:FR:RATP": "1870",
+    "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+    "type:RATP": "rer",
+    "uic_ref": "8775874",
+    "wikipedia": "fr:Gare de La Croix de Berny"
+  }
+},
+{
+  "type": "node",
+  "id": 3530835622,
+  "lat": 48.7549273,
+  "lon": 2.3009651,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Antony",
+    "railway": "station",
+    "ref:FR:RATP": "1983;11037",
+    "type:RATP": "rer",
+    "uic_ref": "8775875",
+    "wikipedia": "fr:Gare d'Antony"
+  }
+},
+{
+  "type": "node",
+  "id": 3530856300,
+  "lat": 48.8366482,
+  "lon": 2.7098771,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Bussy Saint-Georges",
+    "railway": "station",
+    "ref:FR:RATP": "1935",
+    "type:RATP": "rer",
+    "uic_ref": "8775498",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Bussy-Saint-Georges"
+  }
+},
+{
+  "type": "node",
+  "id": 3530901974,
+  "lat": 48.7027301,
+  "lon": 2.0709126,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Saint-Rémy-lès-Chevreuse",
+    "railway": "station",
+    "ref:FR:RATP": "1626",
+    "source": "RATP - 07/2012",
+    "type:RATP": "rer",
+    "uic_ref": "8775889",
+    "wikipedia": "fr:Gare de Saint-Rémy-lès-Chevreuse"
+  }
+},
+{
+  "type": "node",
+  "id": 3530909557,
+  "lat": 49.0034548,
+  "lon": 2.5707275,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Aéroport Charles-de-Gaulle 2 TGV",
+    "name:pl": "Dworzec kolejowy Aéroport Charles-de-Gaulle 2 TGV",
+    "railway": "station",
+    "ref:FR:RATP": "16815",
+    "type:RATP": "rer",
+    "uic_ref": "8727149",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare Aéroport Charles-de-Gaulle 2 TGV"
+  }
+},
+{
+  "type": "node",
+  "id": 3530910105,
+  "lat": 48.7874524,
+  "lon": 2.0445253,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Saint-Quentin-en-Yvelines",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5588",
+    "ref:FR:uic8": "87393843",
+    "type:RATP": "rer",
+    "uic_ref": "8739384",
+    "wikipedia": "fr:Gare de Saint-Quentin-en-Yvelines - Montigny-le-Bretonneux"
+  }
+},
+{
+  "type": "node",
+  "id": 3530939197,
+  "lat": 48.8939640,
+  "lon": 2.3144204,
+  "tags": {
+    "SNCF:hackess:completeness": "2",
+    "STIF:zone": "1",
+    "name": "Porte de Clichy",
+    "note": "mappée par Ratzillas à saisir !",
+    "operator": "SNCF",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "ref:FR:RATP": "1725;5581",
+    "ref:FR:uic8": "87111278",
+    "station": "subway",
+    "type:RATP": "metro;rer",
+    "uic_ref": "8711127",
+    "wheelchair": "no",
+    "wikipedia": "fr:Porte de Clichy (métro de Paris)"
+  }
+},
+{
+  "type": "node",
+  "id": 3530939199,
+  "lat": 48.9051552,
+  "lon": 2.3225929,
+  "tags": {
+    "SNCF:hackess:completeness": "1",
+    "STIF:zone": "2",
+    "name": "Saint-Ouen",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "ref:FR:RATP": "5580",
+    "ref:FR:uic8": "87271247",
+    "type:RATP": "rer",
+    "uic_ref": "8727124",
+    "wikipedia": "fr:Gare de Saint-Ouen"
+  }
+},
+{
+  "type": "node",
+  "id": 3530983828,
+  "lat": 48.8144007,
+  "lon": 2.3911273,
+  "tags": {
+    "STIF:zone": "2",
+    "alt_name": "Gare d'Ivry-sur-Seine",
+    "name": "Ivry-sur-Seine",
+    "official_name": "IVRY SUR SEINE",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref": "RER C",
+    "ref:FR:RATP": "5607",
+    "ref:FR:uic8": "87545301",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "type:RATP": "rer",
+    "uic_ref": "8754530",
+    "wikipedia": "fr:Gare d'Ivry-sur-Seine"
+  }
+},
+{
+  "type": "node",
+  "id": 3531009091,
+  "lat": 48.8006088,
+  "lon": 2.4024623,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Vitry sur Seine",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5607;5608",
+    "ref:FR:uic8": "87545293",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "type:RATP": "rer",
+    "uic_ref": "8754529",
+    "wikipedia": "fr:Gare de Vitry-sur-Seine"
+  }
+},
+{
+  "type": "node",
+  "id": 3531015276,
+  "lat": 48.8020392,
+  "lon": 2.4265601,
+  "tags": {
+    "STIF:zone": "3",
+    "alt_name": "Maisons Alfort Alfortville",
+    "name": "Maisons-Alfort - Alfortville",
+    "official_name": "MAISONS ALFORT ALFORTVILLE",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "20953",
+    "ref:FR:uic8": "87681155",
+    "route_ref:FR:RER_D": "ZOPO; ROVO; ZUCO; NUCO; ROPO; BOPO",
+    "type:RATP": "rer",
+    "uic_ref": "8768115",
+    "wikipedia": "fr:Gare de Maisons-Alfort - Alfortville"
+  }
+},
+{
+  "type": "node",
+  "id": 3531041775,
+  "lat": 48.7454842,
+  "lon": 2.4174857,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Les Saules",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5611",
+    "ref:FR:uic8": "87546226",
+    "type:RATP": "rer",
+    "uic_ref": "8754622",
+    "wikipedia": "fr:Gare des Saules"
+  }
+},
+{
+  "type": "node",
+  "id": 3531047716,
+  "lat": 48.7417664,
+  "lon": 2.4029000,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Orly Ville",
+    "railway": "station",
+    "ref:FR:RATP": "5612",
+    "ref:FR:uic8": "87546200",
+    "type:RATP": "rer",
+    "uic_ref": "8754620",
+    "wikipedia": "fr:Gare d'Orly-Ville"
+  }
+},
+{
+  "type": "node",
+  "id": 3531059276,
+  "lat": 48.7398541,
+  "lon": 2.4263833,
+  "tags": {
+    "name": "Villeneuve-le-Roi",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5617",
+    "ref:FR:uic8": "87545277",
+    "type:RATP": "rer",
+    "uic_ref": "8754527",
+    "wikipedia": "fr:Gare de Villeneuve-le-Roi"
+  }
+},
+{
+  "type": "node",
+  "id": 3531059798,
+  "lat": 48.7481834,
+  "lon": 2.3728756,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Pont de Rungis Aéroport d'Orly",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5613",
+    "ref:FR:uic8": "87546192",
+    "type:RATP": "rer",
+    "uic_ref": "8754619",
+    "wikipedia": "fr:Gare du Pont de Rungis - Aéroport d'Orly"
+  }
+},
+{
+  "type": "node",
+  "id": 3531066587,
+  "lat": 48.7404828,
+  "lon": 2.3529205,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Rungis la Fraternelle",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5614",
+    "ref:FR:uic8": "87546291",
+    "type:RATP": "rer",
+    "uic_ref": "8754629",
+    "wikipedia": "fr:Gare de Rungis - La Fraternelle"
+  }
+},
+{
+  "type": "node",
+  "id": 3532759048,
+  "lat": 48.8533755,
+  "lon": 2.5138862,
+  "tags": {
+    "STIF:zone": "3",
+    "name": "Neuilly-Plaisance",
+    "railway": "station",
+    "ref:FR:RATP": "1762",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "type:RATP": "rer",
+    "uic_ref": "8775831",
+    "wikipedia": "fr:Gare de Neuilly-Plaisance"
+  }
+},
+{
+  "type": "node",
+  "id": 3533463458,
+  "lat": 48.6345250,
+  "lon": 2.4522690,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Évry Val de Seine",
+    "official_name": "EVRY - VAL DE SEINE",
+    "old_name": "Évry",
+    "operator": "SNCF",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "RER D",
+    "route_ref:FR:RER_D": "ROVO; SOVA; UOVA; LOVA; FOVA; VOVA; DOVA",
+    "train": "yes",
+    "type:RATP": "rer"
+  }
+},
+{
+  "type": "node",
+  "id": 3533463459,
+  "lat": 48.6345313,
+  "lon": 2.4522217,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Évry Val de Seine",
+    "official_name": "EVRY - VAL DE SEINE",
+    "old_name": "Évry",
+    "operator": "SNCF",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "ref": "RER D",
+    "ref:FR:RATP": "20966",
+    "route_ref:FR:RER_D": "ROVO; SOVA; UOVA; LOVA; FOVA; VOVA; DOVA",
+    "train": "yes",
+    "type:RATP": "rer",
+    "uic_ref": "8768136",
+    "wikipedia": "fr:Gare d'Évry-Val-de-Seine"
+  }
+},
+{
+  "type": "node",
+  "id": 3533478899,
+  "lat": 48.6593057,
+  "lon": 2.4143688,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Ris-Orangis",
+    "official_name": "RIS ORANGIS",
+    "operator": "SNCF",
+    "platforms": "2",
+    "railway": "station",
+    "ref": "D",
+    "ref:FR:RATP": "20964",
+    "route_ref:FR:RER_D": "ROVO; SOVA; UOVA; LOVA; FOVA; VOVA; DOVA",
+    "type:RATP": "rer",
+    "uic_ref": "8768133",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Ris-Orangis"
+  }
+},
+{
+  "type": "node",
+  "id": 3535138452,
+  "lat": 48.7988184,
+  "lon": 2.0733739,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Saint-Cyr",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5589",
+    "ref:FR:uic8": "87393223",
+    "type:RATP": "rer",
+    "uic_ref": "8739322",
+    "wheelchair": "no",
+    "wikipedia": "fr:Gare de Saint-Cyr"
+  }
+},
+{
+  "type": "node",
+  "id": 3546652789,
+  "lat": 48.5151115,
+  "lon": 2.5991469,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Vosves",
+    "official_name": "VOSVES",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "109715",
+    "ref:FR:uic8": "87682500",
+    "route_ref:FR:RER_D": "ZUCO; NUCO; ZECO",
+    "type:RATP": "rer",
+    "uic_ref": "8768250",
+    "wikipedia": "fr:Gare de Vosves"
+  }
+},
+{
+  "type": "node",
+  "id": 3546693395,
+  "lat": 48.6762115,
+  "lon": 2.3866258,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Viry-Châtillon",
+    "network": "RER",
+    "official_name": "VIRY CHATILLON",
+    "operator": "SNCF",
+    "railway": "station",
+    "railway:traffic_mode": "passenger",
+    "ref:FR:RATP": "20959",
+    "route_ref:FR:RER_D": "ZOPO; ROVO; ROPO; RIPO; BIPO; BOPO; ZIPO; SAVA; DOPA; UOVA; LOPA; LOVA; FOVA; VOVA; JOPA; MIPA; DIPA; VOPA; MOPA; DOVA",
+    "source": "survey",
+    "type:RATP": "rer",
+    "uic_ref": "8768131",
+    "wikipedia": "fr:Gare de Viry-Châtillon"
+  }
+},
+{
+  "type": "node",
+  "id": 3546758136,
+  "lat": 48.8232512,
+  "lon": 2.5425520,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Villiers-sur-Marne - Le Plessis-Trévise",
+    "railway": "station",
+    "ref:FR:RATP": "51935",
+    "type:RATP": "rer",
+    "uic_ref": "8711379",
+    "wikipedia": "fr:Gare de Villiers-sur-Marne - Le Plessis-Trévise"
+  }
+},
+{
+  "type": "node",
+  "id": 3546795888,
+  "lat": 48.9939835,
+  "lon": 2.4164866,
+  "tags": {
+    "STIF:zone": "3",
+    "alt_name": "Villiers-le-Bel - Gonesse",
+    "name": "Villiers-le-Bel - Gonesse - Arnouville",
+    "official_name": "VILLIERS LE BEL GONESSE ARNOUVILLE",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "5563",
+    "route_ref:FR:RER_D": "SOVA; FUCA; VIPE; LOVA; VUCA; FOVA; LUCA; VOVA; SUCA; VOPA; FOPA; LOPA",
+    "type:RATP": "rer",
+    "uic_ref": "8727622",
+    "wikipedia": "fr:Gare de Villiers-le-Bel - Gonesse - Arnouville"
+  }
+},
+{
+  "type": "node",
+  "id": 3547226790,
+  "lat": 48.9629265,
+  "lon": 2.5124428,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Villepinte",
+    "railway": "station",
+    "ref:FR:RATP": "1653",
+    "type:RATP": "rer",
+    "uic_ref": "8727145",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Villepinte"
+  }
+},
+{
+  "type": "node",
+  "id": 3547286137,
+  "lat": 48.9530327,
+  "lon": 2.6025846,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Villeparisis - Mitry le Neuf",
+    "railway": "station",
+    "ref:FR:RATP": "1652",
+    "short_name": "Villeparisis",
+    "type:RATP": "rer",
+    "uic_ref": "8727151",
+    "wikipedia": "fr:Gare de Villeparisis - Mitry-le-Neuf"
+  }
+},
+{
+  "type": "node",
+  "id": 3547307365,
+  "lat": 48.7451504,
+  "lon": 2.4383471,
+  "tags": {
+    "STIF:zone": "4",
+    "alt_name": "Villeneuve-Saint-Georges Triage",
+    "name": "Villeneuve Triage",
+    "official_name": "VILLENEUVE TRIAGE",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "20956",
+    "route_ref:FR:RER_D": "ZOPO; ROVO; ROPO; BOPO",
+    "type:RATP": "rer",
+    "uic_ref": "8768180",
+    "wikipedia": "fr:Gare de Villeneuve-Triage"
+  }
+},
+{
+  "type": "node",
+  "id": 3547487166,
+  "lat": 48.7301252,
+  "lon": 2.4462682,
+  "tags": {
+    "STIF:zone": "4",
+    "name": "Villeneuve-Saint-Georges",
+    "official_name": "VILLENEUVE SAINT-GEORGES",
+    "operator": "SNCF",
+    "railway": "station",
+    "railway:traffic_mode": "passenger",
+    "ref": "RER D",
+    "ref:FR:RATP": "20957",
+    "route_ref:FR:RER_D": "ZOPO; ROVO; RIPE; BIPE; ZUCO; NUCO; ZIPE; TIPE; RIPO; ROPO; BOPO; ZIPO; BIPO",
+    "source": "survey",
+    "type:RATP": "rer",
+    "uic_ref": "8768182",
+    "wikipedia": "fr:Gare de Villeneuve-Saint-Georges"
+  }
+},
+{
+  "type": "node",
+  "id": 3549779824,
+  "lat": 48.3420780,
+  "lon": 2.3789793,
+  "tags": {
+    "STIF:zone": "5",
+    "name": "Boigneville",
+    "official_name": "BOIGNEVILLE",
+    "operator": "SNCF",
+    "railway": "station",
+    "ref:FR:RATP": "20982",
+    "type:RATP": "rer",
+    "uic_ref": "8768440",
+    "wikipedia": "fr:Gare de Boigneville"
+  }
+},
+{
+  "type": "way",
+  "id": 32132704,
+  "nodes": [
+    360701919,
+    360701920,
+    360701921,
+    3190049019,
+    360701923,
+    360701919
+  ],
+  "tags": {
+    "STIF:zone": "3",
+    "building": "train_station",
+    "building:part": "yes",
+    "layer": "1",
+    "name": "Parc de Sceaux",
+    "ref:FR:RATP": "1778",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008",
+    "type:RATP": "rer",
+    "uic_ref": "8775873",
+    "wikipedia": "fr:Gare du Parc de Sceaux"
+  }
+},
+{
+  "type": "way",
+  "id": 48432724,
+  "nodes": [
+    980378668,
+    615107647,
+    27415772,
+    615107652,
+    615107653,
+    980292663,
+    980378668
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "1",
+    "STIF:zone": "1",
+    "building": "train_station",
+    "name": "Pereire - Levallois",
+    "operator": "SNCF",
+    "public_transport": "station",
+    "ref:FR:RATP": "5642",
+    "ref:FR:uic8": "87381012",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "type:RATP": "rer",
+    "uic_ref": "8738101",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare de Pereire - Levallois"
+  }
+},
+{
+  "type": "way",
+  "id": 61956875,
+  "nodes": [
+    772387878,
+    1778511944,
+    772387879,
+    772387880,
+    772387881,
+    772387878
+  ],
+  "tags": {
+    "STIF:zone": "5",
+    "building": "train_station",
+    "name": "Saint-Rémy-lès-Chevreuse",
+    "ref:FR:RATP": "1626",
+    "source": "RATP - 07/2012",
+    "type:RATP": "rer",
+    "uic_ref": "8775889",
+    "wikipedia": "fr:Gare de Saint-Rémy-lès-Chevreuse"
+  }
+},
+{
+  "type": "way",
+  "id": 63502907,
+  "nodes": [
+    786283681,
+    474980603,
+    786277630,
+    786275646,
+    786283681
+  ],
+  "tags": {
+    "STIF:zone": "4",
+    "building": "yes",
+    "name": "Sucy - Bonneuil",
+    "railway": "station",
+    "ref:FR:RATP": "1629",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "type:RATP": "rer",
+    "uic_ref": "8775819",
+    "wikipedia": "fr:Gare de Sucy - Bonneuil"
+  }
+},
+{
+  "type": "way",
+  "id": 70166455,
+  "nodes": [
+    837674599,
+    837735622,
+    837760327,
+    1666169666,
+    837707534,
+    837677045,
+    837742006,
+    837883321,
+    416818155,
+    837672868,
+    837789125,
+    837707293,
+    837678244,
+    837738108,
+    837901149,
+    837870207,
+    837892518,
+    837815472,
+    837679192,
+    837790294,
+    837893633,
+    837817043,
+    837664077,
+    837742770,
+    837741066,
+    837748260,
+    1666169630,
+    837914748,
+    837710285,
+    837722885,
+    837754734,
+    837747132,
+    837802910,
+    837815082,
+    837705275,
+    837914712,
+    837915016,
+    837687200,
+    837760219,
+    837671083,
+    837714588,
+    837918893,
+    837764175,
+    837752276,
+    837669640,
+    837895583,
+    837674599
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "3",
+    "STIF:zone": "3",
+    "building": "train_station",
+    "name": "Epinay-sur-Seine",
+    "ref:FR:RATP": "5577",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "type:RATP": "rer",
+    "uic_ref": "87271148",
+    "wikipedia": "fr:Gare d'Épinay-sur-Seine"
+  }
+},
+{
+  "type": "way",
+  "id": 70429164,
+  "nodes": [
+    2371271326,
+    840349174,
+    840378327,
+    840341783,
+    840363899,
+    2371271316,
+    840340839,
+    840376586,
+    840341548,
+    2371271326
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "3",
+    "STIF:zone": "4",
+    "building": "train_station",
+    "name": "Vauboyen",
+    "operator": "SNCF",
+    "ref:FR:RATP": "22618",
+    "ref:FR:uic8": "87393538",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "type:RATP": "rer",
+    "uic_ref": "8739353",
+    "wikipedia": "fr:Gare de Vauboyen"
+  }
+},
+{
+  "type": "way",
+  "id": 70429511,
+  "nodes": [
+    840386622,
+    840379320,
+    840372922,
+    840335836,
+    840353906,
+    840352214,
+    840338777,
+    840326231,
+    840386622
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "4",
+    "STIF:zone": "4",
+    "building": "train_station",
+    "name": "Jouy-en-Josas",
+    "ref:FR:RATP": "22619",
+    "ref:FR:uic8": "87393512",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "type:RATP": "rer",
+    "uic_ref": "8739351",
+    "wikipedia": "fr:Gare de Jouy-en-Josas"
+  }
+},
+{
+  "type": "way",
+  "id": 70452717,
+  "nodes": [
+    840533530,
+    2364345617,
+    840497929,
+    840496949,
+    840497211,
+    840533008,
+    840505475,
+    840496792,
+    840531024,
+    840533530
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "3",
+    "STIF:zone": "4",
+    "addr:street": "Place de la Gare",
+    "building": "train_station",
+    "name": "Gare de Bièvres",
+    "ref:FR:RATP": "22617",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "type:RATP": "rer",
+    "uic_ref": "87393546",
+    "wikipedia": "fr:Gare de Bièvres"
+  }
+},
+{
+  "type": "way",
+  "id": 70668103,
+  "nodes": [
+    843005496,
+    843040427,
+    843042994,
+    842997826,
+    843009067,
+    843005496
+  ],
+  "tags": {
+    "STIF:zone": "4",
+    "building": "train_station",
+    "line:SNCF": "C",
+    "name": "Massy - Verrières-le-Buisson",
+    "ref:FR:RATP": "1833",
+    "short_name": "Massy-Verrières",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "type:RATP": "rer",
+    "wikipedia": "fr:Gare de Massy - Verrières"
+  }
+},
+{
+  "type": "way",
+  "id": 73975876,
+  "nodes": [
+    875266244,
+    2531379899,
+    875325228,
+    875263104,
+    2531379906,
+    875315781,
+    875254952,
+    875325619,
+    2530638777,
+    875316591,
+    875271969,
+    875318027,
+    875307849,
+    875298532,
+    875298584,
+    875290734,
+    875266244
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "3",
+    "building": "train_station",
+    "name": "Chaville-Vélizy",
+    "official_name": "CHAVILLE VELIZY",
+    "operator": "SNCF",
+    "ref": "RER C",
+    "ref:FR:RATP": "5594",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+    "type:RATP": "rer",
+    "uic_ref": "87393173",
+    "wheelchair": "no",
+    "wikipedia": "fr:Gare de Chaville - Vélizy"
+  }
+},
+{
+  "type": "way",
+  "id": 73982841,
+  "nodes": [
+    875314030,
+    875312199,
+    2531458934,
+    875280626,
+    875290360,
+    1094877344,
+    875311577,
+    2367860492,
+    875323434,
+    875274994,
+    2531458931,
+    875260389,
+    875258378,
+    875306221,
+    875271861,
+    875314030
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "3",
+    "building": "train_station",
+    "layer": "1",
+    "name": "Viroflay Rive Gauche",
+    "official_name": "VIROFLAY RIVE GAUCHE",
+    "operator": "SNCF",
+    "ref": "RER C",
+    "ref:FR:RATP": "5593",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+    "type:RATP": "rer",
+    "uic_ref": "87393215",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Viroflay-Rive-Gauche"
+  }
+},
+{
+  "type": "way",
+  "id": 74627820,
+  "nodes": [
+    881473264,
+    881570150,
+    881436692,
+    881402018,
+    881405381,
+    881501937,
+    881580002,
+    881542229,
+    881444140,
+    881351511,
+    2512532541,
+    2512532545,
+    2514502897,
+    881371516,
+    2514502895,
+    2512532539,
+    2513372613,
+    881341876,
+    2514502892,
+    881319831,
+    881575871,
+    881329120,
+    881383624,
+    881537695,
+    881540224,
+    881549414,
+    881543598,
+    881568932,
+    881357180,
+    881577459,
+    881579035,
+    881476816,
+    881417018,
+    881322619,
+    881330318,
+    881329332,
+    881549061,
+    2512509346,
+    881393375,
+    881505122,
+    881553170,
+    881575789,
+    881564626,
+    881581473,
+    881343655,
+    881550051,
+    881342739,
+    2512509345,
+    881474796,
+    881344581,
+    881473264
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "4",
+    "building": "train_station",
+    "layer": "1",
+    "name": "Versailles-Chantiers",
+    "ref:FR:RATP": "5590",
+    "ref:FR:uic8": "87393009",
+    "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+    "type:RATP": "rer",
+    "uic_ref": "8739300",
+    "website": "http://www.gares-sncf.com/fr/gare/frdht/versailles-chantiers",
+    "website:schedules": "http://www.gares-sncf.com/fr/gare/frdht/versailles-chantiers",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare de Versailles-Chantiers"
+  }
+},
+{
+  "type": "way",
+  "id": 74627943,
+  "nodes": [
+    881565032,
+    881523258,
+    881542887,
+    1414667154,
+    2368931425,
+    1414667158,
+    881565032
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "4",
+    "bench": "yes",
+    "building": "train_station",
+    "layer": "0",
+    "name": "Porchefontaine",
+    "official_name": "PORCHEFONTAINE",
+    "operator": "SNCF",
+    "ref": "RER C",
+    "ref:FR:RATP": "5592",
+    "ref:FR:uic8": "87393165",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "shelter": "yes",
+    "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+    "type:RATP": "rer",
+    "uic_ref": "8739316",
+    "wheelchair": "no",
+    "wikipedia": "fr:Gare de Porchefontaine"
+  }
+},
+{
+  "type": "way",
+  "id": 80405300,
+  "nodes": [
+    938300402,
+    938300405,
+    938300407,
+    938300424,
+    938300426,
+    938300429,
+    938300432,
+    938300435,
+    938300437,
+    938300440,
+    938300442,
+    938300456,
+    938300458,
+    938300462,
+    938300465,
+    938300468,
+    938300471,
+    938300473,
+    938300475,
+    938300501,
+    938300504,
+    938300506,
+    938300509,
+    938300511,
+    938300512,
+    938300514,
+    938300402
+  ],
+  "tags": {
+    "STIF:zone": "3",
+    "building": "yes",
+    "ref:FR:RATP": "1983;11037",
+    "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+    "type:RATP": "rer",
+    "uic_ref": "8775875",
+    "wikipedia": "fr:Gare d'Antony"
+  }
+},
+{
+  "type": "way",
+  "id": 80895107,
+  "nodes": [
+    942986165,
+    959800991,
+    2389587126,
+    2389587125,
+    942986057,
+    942985873,
+    942986149,
+    942985787,
+    942985924,
+    959835124,
+    942986165
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "4",
+    "STIF:zone": "1",
+    "building": "train_station",
+    "level": "0",
+    "name": "Avenue Foch",
+    "old_name": "Avenue du Bois- de-Boulogne",
+    "operator": "RER",
+    "public_transport": "stop_position",
+    "ref:FR:RATP": "5584",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "type:RATP": "rer",
+    "uic_ref": "87543207",
+    "wikipedia": "fr:Gare de l'avenue Foch"
+  }
+},
+{
+  "type": "way",
+  "id": 81151856,
+  "nodes": [
+    945714022,
+    945714024,
+    945714025,
+    945714021,
+    945714020,
+    945714026,
+    945714027,
+    945714015,
+    945714022
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "1",
+    "STIF:zone": "4",
+    "building": "train_station",
+    "name": "Chemin d'Antony",
+    "ref:FR:RATP": "5615",
+    "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+    "type:RATP": "rer",
+    "uic_ref": "87546317",
+    "wall": "no",
+    "wikipedia": "fr:Gare du Chemin d'Antony"
+  }
+},
+{
+  "type": "way",
+  "id": 85467386,
+  "nodes": [
+    990847716,
+    990846661,
+    990840312,
+    990845612,
+    990837231,
+    990839681,
+    990837032,
+    990843726,
+    990846886,
+    990843972,
+    990838359,
+    990843235,
+    990847716
+  ],
+  "tags": {
+    "STIF:zone": "4",
+    "building": "train_station",
+    "name": "Longjumeau",
+    "ref:FR:RATP": "16505",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "type:RATP": "rer",
+    "uic_ref": "87393611",
+    "wikipedia": "fr:Gare de Longjumeau"
+  }
+},
+{
+  "type": "way",
+  "id": 94720323,
+  "nodes": [
+    1099801258,
+    2364347405,
+    1099798874,
+    1099795243,
+    1099797515,
+    2364347409,
+    1099801258
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "3",
+    "STIF:zone": "4",
+    "building": "train_station",
+    "name": "Igny",
+    "ref:FR:RATP": "22616",
+    "type:RATP": "rer",
+    "uic_ref": "87393561",
+    "wikipedia": "fr:Gare d'Igny"
+  }
+},
+{
+  "type": "way",
+  "id": 94720441,
+  "nodes": [
+    1099800934,
+    1099796965,
+    1099799964,
+    1099798410,
+    1099800934
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "3",
+    "STIF:zone": "4",
+    "building": "train_station",
+    "name": "Gravigny-Balizy",
+    "ref:FR:RATP": "16503",
+    "source": "Bing",
+    "type:RATP": "rer",
+    "uic_ref": "87393645",
+    "wikipedia": "fr:Gare de Gravigny-Balizy"
+  }
+},
+{
+  "type": "way",
+  "id": 94720519,
+  "nodes": [
+    1099797593,
+    2969507281,
+    1099794667,
+    1099799360,
+    1099800895,
+    1099797593
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "1",
+    "STIF:zone": "4",
+    "building": "train_station",
+    "name": "Petit Vaux",
+    "ref:FR:RATP": "16502",
+    "source": "Bing",
+    "type:RATP": "rer",
+    "uic_ref": "87393652",
+    "wikipedia": "fr:Gare de Petit Vaux"
+  }
+},
+{
+  "type": "way",
+  "id": 94930469,
+  "nodes": [
+    1101931441,
+    1101931246,
+    1101931408,
+    1101931546,
+    1101931441
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "1",
+    "STIF:zone": "4",
+    "building": "train_station",
+    "name": "Petit Jouy - Les Loges",
+    "ref:FR:RATP": "22620",
+    "type:RATP": "rer",
+    "uic_ref": "87393504",
+    "wikipedia": "fr:Gare de Petit Jouy - Les Loges"
+  }
+},
+{
+  "type": "way",
+  "id": 113165997,
+  "nodes": [
+    1284093368,
+    1284138395,
+    1284088397,
+    1284116187,
+    1284098527,
+    1284049592,
+    1284109959,
+    1284064185,
+    1284118289,
+    1284080202,
+    1284074696,
+    1284106048,
+    1284087838,
+    1284115817,
+    1284098080,
+    1284048994,
+    1284108421,
+    1284063237,
+    1284102702,
+    1284093368
+  ],
+  "tags": {
+    "STIF:zone": "5",
+    "building": "train_station",
+    "name": "Bussy Saint-Georges",
+    "ref:FR:RATP": "1935",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "type:RATP": "rer",
+    "uic_ref": "8775498",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Bussy-Saint-Georges"
+  }
+},
+{
+  "type": "way",
+  "id": 113714819,
+  "nodes": [
+    1289143121,
+    1289138392,
+    1289139443,
+    1289140907,
+    2532408799,
+    1289142231,
+    1289144068,
+    1289138549,
+    1289139090,
+    1289139897,
+    1289141723,
+    1289140022,
+    1289141846,
+    1289143606,
+    1289138734,
+    1289139635,
+    1289141277,
+    1289142634,
+    1289144331,
+    1289139282,
+    1289140449,
+    1289141991,
+    1289143852,
+    1289138837,
+    1289139737,
+    1289141479,
+    1289142973,
+    487813602,
+    1020933300,
+    2532408741,
+    2532408755,
+    487813605,
+    1289142135,
+    2366868299,
+    1289139031,
+    1289139840,
+    1289141636,
+    1289143222,
+    1289138440,
+    1289139488,
+    1289140952,
+    1289142348,
+    1289144134,
+    1289139136,
+    1289139967,
+    1289138465,
+    1289139502,
+    1289140966,
+    1289142368,
+    1289144157,
+    1289139150,
+    1289139991,
+    1289143121
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "5",
+    "building": "train_station",
+    "name": "Saint-Quentin-en-Yvelines",
+    "operator": "SNCF",
+    "ref:FR:RATP": "5588",
+    "ref:FR:uic8": "87393843",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "type:RATP": "rer",
+    "uic_ref": "8739384",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare de Saint-Quentin-en-Yvelines - Montigny-le-Bretonneux"
+  }
+},
+{
+  "type": "way",
+  "id": 117885485,
+  "nodes": [
+    1326936210,
+    2868375768,
+    1326936216,
+    1326936217,
+    1326936223,
+    2868375749,
+    1326936192,
+    1326936232,
+    1326936234,
+    1326936210
+  ],
+  "tags": {
+    "building": "train_station",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Gare_de_Mennecy_2.JPG",
+    "name": "Mennecy",
+    "official_name": "MENNECY",
+    "operator": "SNCF",
+    "ref:FR:RATP": "20976",
+    "source": "survey",
+    "type:RATP": "rer",
+    "wikipedia": "fr:Gare de Mennecy"
+  }
+},
+{
+  "type": "way",
+  "id": 120533654,
+  "nodes": [
+    1351396198,
+    1351396183,
+    1351396176,
+    1351396207,
+    1351396202,
+    1351396179,
+    1351396181,
+    1351396223,
+    1351396193,
+    1351396252,
+    1351396204,
+    1351396229,
+    1351396211,
+    1351396199,
+    1351396198
+  ],
+  "tags": {
+    "STIF:zone": "3",
+    "building": "station",
+    "layer": "2",
+    "name": "Champigny",
+    "operator": "RATP",
+    "rail": "yes",
+    "railway": "station",
+    "ref:FR:RATP": "1948",
+    "start_date": "1859-09-22",
+    "type:RATP": "rer",
+    "uic_ref": "8775817",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Champigny"
+  }
+},
+{
+  "type": "way",
+  "id": 120880027,
+  "nodes": [
+    1354328627,
+    1405411209,
+    1354328742,
+    1864937378,
+    1864937377,
+    1864937376,
+    1864937372,
+    1864937375,
+    1864937374,
+    1864937373,
+    1864937371,
+    1864937379,
+    1864937380,
+    1864937387,
+    1864937389,
+    1864937394,
+    1864937396,
+    1864937399,
+    1864937400,
+    1354328627
+  ],
+  "tags": {
+    "STIF:zone": "3",
+    "architect": "Marcel Lods",
+    "building": "yes",
+    "name": "La Varenne - Chennevières",
+    "operator": "RATP",
+    "public_transport": "stop_position",
+    "rail": "yes",
+    "railway": "station",
+    "ref:FR:RATP": "1878",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+    "start_date": "1859-09-22",
+    "type:RATP": "rer",
+    "uic_ref": "8775818",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de La Varenne - Chennevières"
+  }
+},
+{
+  "type": "way",
+  "id": 131771863,
+  "nodes": [
+    1449836861,
+    1187971818,
+    1449836847,
+    1449836826,
+    1449836141,
+    1449835938,
+    1449836516,
+    1449836492,
+    1449836713,
+    1449836747,
+    1449837267,
+    1449837436,
+    1449836955,
+    1449836970,
+    1449836861
+  ],
+  "tags": {
+    "STIF:zone": "5",
+    "building": "train_station",
+    "name": "Louvres",
+    "official_name": "LOUVRES",
+    "operator": "SNCF",
+    "ref:FR:RATP": "5566",
+    "route_ref:FR:RER_D": "LOVA; LUCA; SUCA; LOPA; SOVA",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "type:RATP": "rer",
+    "uic_ref": "8727625",
+    "wikipedia": "fr:Gare de Louvres"
+  }
+},
+{
+  "type": "way",
+  "id": 137214584,
+  "nodes": [
+    1505163499,
+    1505163523,
+    1505163475,
+    1505163481,
+    2531490174,
+    1505163440,
+    1505163435,
+    1505163422,
+    1505163406,
+    2367860486,
+    1505163416,
+    1853216763,
+    1505163472,
+    1555929078,
+    1505163537,
+    1505163499
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "3",
+    "building": "train_station",
+    "name": "Meudon Val Fleury",
+    "official_name": "MEUDON VAL FLEURY",
+    "operator": "SNCF",
+    "ref:FR:RATP": "16500",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "source:railway": "survey",
+    "type:RATP": "rer",
+    "uic_ref": "87393082",
+    "wheelchair": "no",
+    "wikipedia": "fr:Gare de Meudon-Val-Fleury"
+  }
+},
+{
+  "type": "way",
+  "id": 147090048,
+  "nodes": [
+    1602763398,
+    1602763246,
+    1602763050,
+    1602763203,
+    1602763398
+  ],
+  "tags": {
+    "STIF:zone": "5",
+    "building": "train_station",
+    "name": "Pierrelaye",
+    "ref:FR:RATP": "54088",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+    "type:RATP": "rer",
+    "uic_ref": "8704220",
+    "wikipedia": "fr:Gare de Pierrelaye"
+  }
+},
+{
+  "type": "way",
+  "id": 161202595,
+  "nodes": [
+    1731955645,
+    1731955654,
+    1731955652,
+    1731955650,
+    1731955647,
+    1731955643,
+    1731955645
+  ],
+  "tags": {
+    "STIF:zone": "4",
+    "building": "train_station",
+    "name": "Chilly-Mazarin",
+    "ref:FR:RATP": "16504",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+    "type:RATP": "rer",
+    "wikipedia": "fr:Gare de Chilly-Mazarin"
+  }
+},
+{
+  "type": "way",
+  "id": 167382600,
+  "nodes": [
+    1787817362,
+    1787817361,
+    1787817359,
+    1787817360,
+    2375445592,
+    1787817362
+  ],
+  "tags": {
+    "building": "train_station",
+    "name": "Massy-Palaiseau RER B",
+    "ref:FR:RATP": "1832",
+    "source": "Bing",
+    "type:RATP": "rer"
+  }
+},
+{
+  "type": "way",
+  "id": 170081295,
+  "nodes": [
+    1812314264,
+    1812314293,
+    1812314300,
+    1812314308,
+    1035228733,
+    1035228721,
+    1035228712,
+    1035228705,
+    1035228703,
+    1035228732,
+    1035228709,
+    1035228707,
+    1035228710,
+    1812314274,
+    1812314264
+  ],
+  "tags": {
+    "STIF:zone": "5",
+    "building": "train_station",
+    "name": "Goussainville",
+    "official_name": "GOUSSAINVILLE",
+    "operator": "SNCF",
+    "ref:FR:RATP": "5564",
+    "route_ref:FR:RER_D": "SOVA; FUCA; LOVA; FOVA; LUCA; SUCA; FOPA; LOPA",
+    "type:RATP": "rer",
+    "uic_ref": "8727624",
+    "wikipedia": "fr:Gare de Goussainville"
+  }
+},
+{
+  "type": "way",
+  "id": 175410179,
+  "nodes": [
+    739096643,
+    2334101398,
+    739096659,
+    1860045200,
+    1860007194,
+    3325989677,
+    1194021366,
+    3325989671,
+    1860007220,
+    1860007223,
+    1860007225,
+    1860007238,
+    1860007237,
+    1860007249,
+    1860007253,
+    1860007264,
+    1860007263,
+    739096643
+  ],
+  "tags": {
+    "3dr:type": "0.0",
+    "STIF:zone": "3",
+    "building": "apartments",
+    "building:levels": "3",
+    "name": "Le Parc de Saint-Maur",
+    "operator": "RATP",
+    "railway": "station",
+    "ref:FR:RATP": "1794",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+    "start_date": "1859-09-22",
+    "type:RATP": "rer",
+    "uic_ref": "8775816",
+    "wheelchair": "limited",
+    "wikipedia": "fr:Gare du Parc de Saint-Maur"
+  }
+},
+{
+  "type": "way",
+  "id": 175454322,
+  "nodes": [
+    1860385899,
+    1860385877,
+    1860385865,
+    1860385857,
+    1351349925,
+    1351349685,
+    1351349729,
+    1351349977,
+    1351349854,
+    1860385814,
+    1351349821,
+    1351349614,
+    1351349666,
+    1351349758,
+    1351349682,
+    1860385869,
+    1860385896,
+    1860385899
+  ],
+  "tags": {
+    "STIF:zone": "3",
+    "building": "station",
+    "name": "Saint-Maur Créteil",
+    "operator": "RATP",
+    "rail": "yes",
+    "railway": "station",
+    "ref:FR:RATP": "1624",
+    "source": "bing",
+    "start_date": "1859-09-22",
+    "type:RATP": "rer",
+    "uic_ref": "8775815",
+    "wheelchair": "yes",
+    "wikipedia": "fr:Gare de Saint-Maur - Créteil"
+  }
+},
+{
+  "type": "way",
+  "id": 207875397,
+  "nodes": [
+    2181184263,
+    2181184262,
+    2181184261,
+    2181184264,
+    2181184265,
+    2160184870,
+    2181184263
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "4",
+    "building": "train_station",
+    "building:levels": "3",
+    "building:material": "brick",
+    "name": "Massy-Palaiseau - RER C",
+    "operator": "SNCF",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+    "type:RATP": "rer",
+    "uic_ref": "87393579",
+    "wikipedia": "fr:Gare de Massy - Palaiseau"
+  }
+},
+{
+  "type": "way",
+  "id": 231381752,
+  "nodes": [
+    2397693612,
+    2397693608,
+    2397693602,
+    2397693594,
+    2397693596,
+    2397693592,
+    2397693590,
+    2354285706,
+    2354285703,
+    2397567488,
+    2397567472,
+    2397567444,
+    2397651693,
+    2397693583,
+    2397693585,
+    2397693588,
+    2397567537,
+    2397567559,
+    2397567565,
+    2397567568,
+    380499425,
+    2397567575,
+    2397567582,
+    2397567586,
+    2397567592,
+    2397567597,
+    380499424,
+    2397693598,
+    2397567616,
+    2397567611,
+    2397567606,
+    2397567607,
+    2397567626,
+    2397567647,
+    2554833622,
+    2397567649,
+    2397693606,
+    2397693610,
+    2397693612
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "4",
+    "name": "Montigny-Beauchamp",
+    "public_transport": "station",
+    "ref:FR:RATP": "5572",
+    "type:RATP": "rer",
+    "uic_ref": "87276089",
+    "wikipedia": "fr:Gare de Montigny - Beauchamp"
+  }
+},
+{
+  "type": "way",
+  "id": 245952208,
+  "nodes": [
+    948475446,
+    946214809,
+    2530484365,
+    2531888728,
+    948474847,
+    948473999,
+    948473350,
+    948475446
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "4",
+    "STIF:zone": "1",
+    "building": "train_station",
+    "name": "Avenue Henri-Martin",
+    "note": "détailler les 2 quais et leurs équipements",
+    "operator": "RER",
+    "public_transport": "stop_position",
+    "ref:FR:RATP": "5585",
+    "type:RATP": "rer",
+    "uic_ref": "87381046",
+    "wikipedia": "fr:Gare de l'avenue Henri Martin"
+  }
+},
+{
+  "type": "way",
+  "id": 245964359,
+  "nodes": [
+    1367616135,
+    2530639945,
+    1367616113,
+    1367616112,
+    1367616107,
+    2530639926,
+    1439673303,
+    1367616120,
+    1367616135
+  ],
+  "tags": {
+    "SNCF:hackess:completeness": "5",
+    "STIF:zone": "2",
+    "building": "train_station",
+    "name": "Issy",
+    "official_name": "ISSY",
+    "operator": "SNCF",
+    "ref": "RER C",
+    "ref:FR:RATP": "5596",
+    "ref:SNCF": "RER",
+    "ref:SNCF:RER": "C",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "type:RATP": "rer",
+    "uic_ref": "87393074",
+    "wheelchair": "no",
+    "wikipedia": "fr:Gare d'Issy"
+  }
+},
+{
+  "type": "way",
+  "id": 252167664,
+  "nodes": [
+    2582696664,
+    2582696661,
+    2671637550,
+    2578820637,
+    2671553316,
+    2673353481,
+    2582696663,
+    2582696664
+  ],
+  "tags": {
+    "STIF:zone": "3",
+    "building": "train_station",
+    "name": "Créteil Pompadour",
+    "operator": "SNCF",
+    "start_date": "2013-12-15",
+    "type:RATP": "rer",
+    "uic_ref": "87608802",
+    "wikipedia": "fr:Gare de Créteil-Pompadour"
+  }
+},
+{
+  "type": "node",
+  "id": 27415772,
+  "lat": 48.8853170,
+  "lon": 2.2979765
+},
+{
+  "type": "node",
+  "id": 360701919,
+  "lat": 48.7707570,
+  "lon": 2.3101060
+},
+{
+  "type": "node",
+  "id": 360701920,
+  "lat": 48.7707430,
+  "lon": 2.3103460
+},
+{
+  "type": "node",
+  "id": 360701921,
+  "lat": 48.7706000,
+  "lon": 2.3103210
+},
+{
+  "type": "node",
+  "id": 360701923,
+  "lat": 48.7706160,
+  "lon": 2.3100830
+},
+{
+  "type": "node",
+  "id": 380499424,
+  "lat": 49.0076134,
+  "lon": 2.1975565
+},
+{
+  "type": "node",
+  "id": 380499425,
+  "lat": 49.0074786,
+  "lon": 2.1979637
+},
+{
+  "type": "node",
+  "id": 416818155,
+  "lat": 48.9540921,
+  "lon": 2.3024712
+},
+{
+  "type": "node",
+  "id": 474980603,
+  "lat": 48.7711155,
+  "lon": 2.5079436
+},
+{
+  "type": "node",
+  "id": 487813602,
+  "lat": 48.7876959,
+  "lon": 2.0442314
+},
+{
+  "type": "node",
+  "id": 487813605,
+  "lat": 48.7877373,
+  "lon": 2.0443035
+},
+{
+  "type": "node",
+  "id": 615107647,
+  "lat": 48.8853096,
+  "lon": 2.2980977
+},
+{
+  "type": "node",
+  "id": 615107652,
+  "lat": 48.8853938,
+  "lon": 2.2978811
+},
+{
+  "type": "node",
+  "id": 615107653,
+  "lat": 48.8854741,
+  "lon": 2.2978931
+},
+{
+  "type": "node",
+  "id": 739096643,
+  "lat": 48.8052470,
+  "lon": 2.4860220
+},
+{
+  "type": "node",
+  "id": 739096659,
+  "lat": 48.8051570,
+  "lon": 2.4852900
+},
+{
+  "type": "node",
+  "id": 772387878,
+  "lat": 48.7028229,
+  "lon": 2.0706346
+},
+{
+  "type": "node",
+  "id": 772387879,
+  "lat": 48.7028725,
+  "lon": 2.0711389
+},
+{
+  "type": "node",
+  "id": 772387880,
+  "lat": 48.7028221,
+  "lon": 2.0711563
+},
+{
+  "type": "node",
+  "id": 772387881,
+  "lat": 48.7027716,
+  "lon": 2.0706494
+},
+{
+  "type": "node",
+  "id": 786275646,
+  "lat": 48.7708435,
+  "lon": 2.5082139
+},
+{
+  "type": "node",
+  "id": 786277630,
+  "lat": 48.7708411,
+  "lon": 2.5079512
+},
+{
+  "type": "node",
+  "id": 786283681,
+  "lat": 48.7711206,
+  "lon": 2.5081985
+},
+{
+  "type": "node",
+  "id": 837664077,
+  "lat": 48.9541782,
+  "lon": 2.3026179
+},
+{
+  "type": "node",
+  "id": 837669640,
+  "lat": 48.9543339,
+  "lon": 2.3024548
+},
+{
+  "type": "node",
+  "id": 837671083,
+  "lat": 48.9543172,
+  "lon": 2.3025706
+},
+{
+  "type": "node",
+  "id": 837672868,
+  "lat": 48.9540961,
+  "lon": 2.3025864
+},
+{
+  "type": "node",
+  "id": 837674599,
+  "lat": 48.9542767,
+  "lon": 2.3024495
+},
+{
+  "type": "node",
+  "id": 837677045,
+  "lat": 48.9541817,
+  "lon": 2.3024573
+},
+{
+  "type": "node",
+  "id": 837678244,
+  "lat": 48.9541170,
+  "lon": 2.3025830
+},
+{
+  "type": "node",
+  "id": 837679192,
+  "lat": 48.9541542,
+  "lon": 2.3025829
+},
+{
+  "type": "node",
+  "id": 837687200,
+  "lat": 48.9543027,
+  "lon": 2.3025700
+},
+{
+  "type": "node",
+  "id": 837705275,
+  "lat": 48.9542805,
+  "lon": 2.3025750
+},
+{
+  "type": "node",
+  "id": 837707293,
+  "lat": 48.9541039,
+  "lon": 2.3025836
+},
+{
+  "type": "node",
+  "id": 837707534,
+  "lat": 48.9541817,
+  "lon": 2.3024608
+},
+{
+  "type": "node",
+  "id": 837710285,
+  "lat": 48.9542466,
+  "lon": 2.3026150
+},
+{
+  "type": "node",
+  "id": 837714588,
+  "lat": 48.9543173,
+  "lon": 2.3025683
+},
+{
+  "type": "node",
+  "id": 837722885,
+  "lat": 48.9542589,
+  "lon": 2.3026133
+},
+{
+  "type": "node",
+  "id": 837735622,
+  "lat": 48.9542415,
+  "lon": 2.3024515
+},
+{
+  "type": "node",
+  "id": 837738108,
+  "lat": 48.9541172,
+  "lon": 2.3025845
+},
+{
+  "type": "node",
+  "id": 837741066,
+  "lat": 48.9541870,
+  "lon": 2.3026185
+},
+{
+  "type": "node",
+  "id": 837742006,
+  "lat": 48.9541512,
+  "lon": 2.3024589
+},
+{
+  "type": "node",
+  "id": 837742770,
+  "lat": 48.9541782,
+  "lon": 2.3026194
+},
+{
+  "type": "node",
+  "id": 837747132,
+  "lat": 48.9542718,
+  "lon": 2.3026100
+},
+{
+  "type": "node",
+  "id": 837748260,
+  "lat": 48.9541869,
+  "lon": 2.3026150
+},
+{
+  "type": "node",
+  "id": 837752276,
+  "lat": 48.9543381,
+  "lon": 2.3025699
+},
+{
+  "type": "node",
+  "id": 837754734,
+  "lat": 48.9542592,
+  "lon": 2.3026110
+},
+{
+  "type": "node",
+  "id": 837760219,
+  "lat": 48.9543029,
+  "lon": 2.3025723
+},
+{
+  "type": "node",
+  "id": 837760327,
+  "lat": 48.9542417,
+  "lon": 2.3024565
+},
+{
+  "type": "node",
+  "id": 837764175,
+  "lat": 48.9543308,
+  "lon": 2.3025700
+},
+{
+  "type": "node",
+  "id": 837789125,
+  "lat": 48.9541039,
+  "lon": 2.3025863
+},
+{
+  "type": "node",
+  "id": 837790294,
+  "lat": 48.9541555,
+  "lon": 2.3026212
+},
+{
+  "type": "node",
+  "id": 837802910,
+  "lat": 48.9542717,
+  "lon": 2.3026127
+},
+{
+  "type": "node",
+  "id": 837815082,
+  "lat": 48.9542814,
+  "lon": 2.3026118
+},
+{
+  "type": "node",
+  "id": 837815472,
+  "lat": 48.9541464,
+  "lon": 2.3025837
+},
+{
+  "type": "node",
+  "id": 837817043,
+  "lat": 48.9541660,
+  "lon": 2.3026176
+},
+{
+  "type": "node",
+  "id": 837870207,
+  "lat": 48.9541309,
+  "lon": 2.3025820
+},
+{
+  "type": "node",
+  "id": 837883321,
+  "lat": 48.9541514,
+  "lon": 2.3024666
+},
+{
+  "type": "node",
+  "id": 837892518,
+  "lat": 48.9541459,
+  "lon": 2.3025811
+},
+{
+  "type": "node",
+  "id": 837893633,
+  "lat": 48.9541661,
+  "lon": 2.3026211
+},
+{
+  "type": "node",
+  "id": 837895583,
+  "lat": 48.9542771,
+  "lon": 2.3024571
+},
+{
+  "type": "node",
+  "id": 837901149,
+  "lat": 48.9541312,
+  "lon": 2.3025855
+},
+{
+  "type": "node",
+  "id": 837914712,
+  "lat": 48.9542883,
+  "lon": 2.3025733
+},
+{
+  "type": "node",
+  "id": 837914748,
+  "lat": 48.9542464,
+  "lon": 2.3026100
+},
+{
+  "type": "node",
+  "id": 837915016,
+  "lat": 48.9542883,
+  "lon": 2.3025699
+},
+{
+  "type": "node",
+  "id": 837918893,
+  "lat": 48.9543303,
+  "lon": 2.3025674
+},
+{
+  "type": "node",
+  "id": 840326231,
+  "lat": 48.7649079,
+  "lon": 2.1634895
+},
+{
+  "type": "node",
+  "id": 840335836,
+  "lat": 48.7649048,
+  "lon": 2.1636823
+},
+{
+  "type": "node",
+  "id": 840338777,
+  "lat": 48.7649081,
+  "lon": 2.1634086
+},
+{
+  "type": "node",
+  "id": 840340839,
+  "lat": 48.7591227,
+  "lon": 2.1919569
+},
+{
+  "type": "node",
+  "id": 840341548,
+  "lat": 48.7591318,
+  "lon": 2.1920830
+},
+{
+  "type": "node",
+  "id": 840341783,
+  "lat": 48.7591058,
+  "lon": 2.1919023
+},
+{
+  "type": "node",
+  "id": 840349174,
+  "lat": 48.7591940,
+  "lon": 2.1919175
+},
+{
+  "type": "node",
+  "id": 840352214,
+  "lat": 48.7648364,
+  "lon": 2.1634081
+},
+{
+  "type": "node",
+  "id": 840353906,
+  "lat": 48.7648356,
+  "lon": 2.1636818
+},
+{
+  "type": "node",
+  "id": 840363899,
+  "lat": 48.7590948,
+  "lon": 2.1919330
+},
+{
+  "type": "node",
+  "id": 840372922,
+  "lat": 48.7649051,
+  "lon": 2.1636140
+},
+{
+  "type": "node",
+  "id": 840376586,
+  "lat": 48.7590889,
+  "lon": 2.1920454
+},
+{
+  "type": "node",
+  "id": 840378327,
+  "lat": 48.7591228,
+  "lon": 2.1918568
+},
+{
+  "type": "node",
+  "id": 840379320,
+  "lat": 48.7649173,
+  "lon": 2.1636140
+},
+{
+  "type": "node",
+  "id": 840386622,
+  "lat": 48.7649176,
+  "lon": 2.1634896
+},
+{
+  "type": "node",
+  "id": 840496792,
+  "lat": 48.7513545,
+  "lon": 2.2154959
+},
+{
+  "type": "node",
+  "id": 840496949,
+  "lat": 48.7512842,
+  "lon": 2.2156551
+},
+{
+  "type": "node",
+  "id": 840497211,
+  "lat": 48.7512905,
+  "lon": 2.2156601
+},
+{
+  "type": "node",
+  "id": 840497929,
+  "lat": 48.7512575,
+  "lon": 2.2157112
+},
+{
+  "type": "node",
+  "id": 840505475,
+  "lat": 48.7513252,
+  "lon": 2.2155569
+},
+{
+  "type": "node",
+  "id": 840531024,
+  "lat": 48.7512955,
+  "lon": 2.2154332
+},
+{
+  "type": "node",
+  "id": 840533008,
+  "lat": 48.7513336,
+  "lon": 2.2155662
+},
+{
+  "type": "node",
+  "id": 840533530,
+  "lat": 48.7511975,
+  "lon": 2.2156438
+},
+{
+  "type": "node",
+  "id": 842997826,
+  "lat": 48.7349873,
+  "lon": 2.2734266
+},
+{
+  "type": "node",
+  "id": 843005496,
+  "lat": 48.7348640,
+  "lon": 2.2732840
+},
+{
+  "type": "node",
+  "id": 843009067,
+  "lat": 48.7349244,
+  "lon": 2.2732379
+},
+{
+  "type": "node",
+  "id": 843040427,
+  "lat": 48.7349268,
+  "lon": 2.2734726
+},
+{
+  "type": "node",
+  "id": 843042994,
+  "lat": 48.7349366,
+  "lon": 2.2734652
+},
+{
+  "type": "node",
+  "id": 875254952,
+  "lat": 48.7997409,
+  "lon": 2.1843764
+},
+{
+  "type": "node",
+  "id": 875258378,
+  "lat": 48.8007728,
+  "lon": 2.1715183
+},
+{
+  "type": "node",
+  "id": 875260389,
+  "lat": 48.8007723,
+  "lon": 2.1714794
+},
+{
+  "type": "node",
+  "id": 875263104,
+  "lat": 48.7997214,
+  "lon": 2.1844923
+},
+{
+  "type": "node",
+  "id": 875266244,
+  "lat": 48.7996813,
+  "lon": 2.1846442
+},
+{
+  "type": "node",
+  "id": 875271861,
+  "lat": 48.8008229,
+  "lon": 2.1713011
+},
+{
+  "type": "node",
+  "id": 875271969,
+  "lat": 48.7996726,
+  "lon": 2.1843417
+},
+{
+  "type": "node",
+  "id": 875274994,
+  "lat": 48.8006557,
+  "lon": 2.1714794
+},
+{
+  "type": "node",
+  "id": 875280626,
+  "lat": 48.8006583,
+  "lon": 2.1713416
+},
+{
+  "type": "node",
+  "id": 875290360,
+  "lat": 48.8006576,
+  "lon": 2.1713002
+},
+{
+  "type": "node",
+  "id": 875290734,
+  "lat": 48.7996615,
+  "lon": 2.1846341
+},
+{
+  "type": "node",
+  "id": 875298532,
+  "lat": 48.7996413,
+  "lon": 2.1845146
+},
+{
+  "type": "node",
+  "id": 875298584,
+  "lat": 48.7996832,
+  "lon": 2.1845361
+},
+{
+  "type": "node",
+  "id": 875306221,
+  "lat": 48.8008208,
+  "lon": 2.1715179
+},
+{
+  "type": "node",
+  "id": 875307849,
+  "lat": 48.7996538,
+  "lon": 2.1844584
+},
+{
+  "type": "node",
+  "id": 875311577,
+  "lat": 48.8005319,
+  "lon": 2.1713013
+},
+{
+  "type": "node",
+  "id": 875312199,
+  "lat": 48.8007755,
+  "lon": 2.1713429
+},
+{
+  "type": "node",
+  "id": 875314030,
+  "lat": 48.8007746,
+  "lon": 2.1713009
+},
+{
+  "type": "node",
+  "id": 875315781,
+  "lat": 48.7997465,
+  "lon": 2.1843792
+},
+{
+  "type": "node",
+  "id": 875316591,
+  "lat": 48.7996791,
+  "lon": 2.1843450
+},
+{
+  "type": "node",
+  "id": 875318027,
+  "lat": 48.7996474,
+  "lon": 2.1844551
+},
+{
+  "type": "node",
+  "id": 875323434,
+  "lat": 48.8006554,
+  "lon": 2.1715194
+},
+{
+  "type": "node",
+  "id": 875325228,
+  "lat": 48.7997157,
+  "lon": 2.1844893
+},
+{
+  "type": "node",
+  "id": 875325619,
+  "lat": 48.7997538,
+  "lon": 2.1843184
+},
+{
+  "type": "node",
+  "id": 881319831,
+  "lat": 48.7950798,
+  "lon": 2.1362210
+},
+{
+  "type": "node",
+  "id": 881322619,
+  "lat": 48.7958190,
+  "lon": 2.1362903
+},
+{
+  "type": "node",
+  "id": 881329120,
+  "lat": 48.7950916,
+  "lon": 2.1362555
+},
+{
+  "type": "node",
+  "id": 881329332,
+  "lat": 48.7958188,
+  "lon": 2.1360901
+},
+{
+  "type": "node",
+  "id": 881330318,
+  "lat": 48.7957886,
+  "lon": 2.1361018
+},
+{
+  "type": "node",
+  "id": 881341876,
+  "lat": 48.7950614,
+  "lon": 2.1360959
+},
+{
+  "type": "node",
+  "id": 881342739,
+  "lat": 48.7957262,
+  "lon": 2.1357024
+},
+{
+  "type": "node",
+  "id": 881343655,
+  "lat": 48.7957615,
+  "lon": 2.1357419
+},
+{
+  "type": "node",
+  "id": 881344581,
+  "lat": 48.7956650,
+  "lon": 2.1354981
+},
+{
+  "type": "node",
+  "id": 881351511,
+  "lat": 48.7954441,
+  "lon": 2.1359620
+},
+{
+  "type": "node",
+  "id": 881357180,
+  "lat": 48.7954670,
+  "lon": 2.1361217
+},
+{
+  "type": "node",
+  "id": 881371516,
+  "lat": 48.7952330,
+  "lon": 2.1360365
+},
+{
+  "type": "node",
+  "id": 881383624,
+  "lat": 48.7951409,
+  "lon": 2.1362383
+},
+{
+  "type": "node",
+  "id": 881393375,
+  "lat": 48.7958120,
+  "lon": 2.1359727
+},
+{
+  "type": "node",
+  "id": 881402018,
+  "lat": 48.7956000,
+  "lon": 2.1357433
+},
+{
+  "type": "node",
+  "id": 881405381,
+  "lat": 48.7955819,
+  "lon": 2.1357509
+},
+{
+  "type": "node",
+  "id": 881417018,
+  "lat": 48.7956955,
+  "lon": 2.1363437
+},
+{
+  "type": "node",
+  "id": 881436692,
+  "lat": 48.7955426,
+  "lon": 2.1353905
+},
+{
+  "type": "node",
+  "id": 881444140,
+  "lat": 48.7954368,
+  "lon": 2.1359214
+},
+{
+  "type": "node",
+  "id": 881473264,
+  "lat": 48.7956425,
+  "lon": 2.1353560
+},
+{
+  "type": "node",
+  "id": 881474796,
+  "lat": 48.7956927,
+  "lon": 2.1354904
+},
+{
+  "type": "node",
+  "id": 881476816,
+  "lat": 48.7956561,
+  "lon": 2.1361080
+},
+{
+  "type": "node",
+  "id": 881501937,
+  "lat": 48.7955885,
+  "lon": 2.1357967
+},
+{
+  "type": "node",
+  "id": 881505122,
+  "lat": 48.7958117,
+  "lon": 2.1359373
+},
+{
+  "type": "node",
+  "id": 881523258,
+  "lat": 48.7968972,
+  "lon": 2.1534443
+},
+{
+  "type": "node",
+  "id": 881537695,
+  "lat": 48.7951991,
+  "lon": 2.1362176
+},
+{
+  "type": "node",
+  "id": 881540224,
+  "lat": 48.7952685,
+  "lon": 2.1361928
+},
+{
+  "type": "node",
+  "id": 881542229,
+  "lat": 48.7954644,
+  "lon": 2.1359091
+},
+{
+  "type": "node",
+  "id": 881542887,
+  "lat": 48.7968111,
+  "lon": 2.1534766
+},
+{
+  "type": "node",
+  "id": 881543598,
+  "lat": 48.7953934,
+  "lon": 2.1361480
+},
+{
+  "type": "node",
+  "id": 881549061,
+  "lat": 48.7958091,
+  "lon": 2.1360338
+},
+{
+  "type": "node",
+  "id": 881549414,
+  "lat": 48.7953234,
+  "lon": 2.1361728
+},
+{
+  "type": "node",
+  "id": 881550051,
+  "lat": 48.7957538,
+  "lon": 2.1356921
+},
+{
+  "type": "node",
+  "id": 881553170,
+  "lat": 48.7958057,
+  "lon": 2.1358862
+},
+{
+  "type": "node",
+  "id": 881564626,
+  "lat": 48.7957938,
+  "lon": 2.1358293
+},
+{
+  "type": "node",
+  "id": 881565032,
+  "lat": 48.7969370,
+  "lon": 2.1536983
+},
+{
+  "type": "node",
+  "id": 881568932,
+  "lat": 48.7954542,
+  "lon": 2.1361266
+},
+{
+  "type": "node",
+  "id": 881570150,
+  "lat": 48.7955722,
+  "lon": 2.1353802
+},
+{
+  "type": "node",
+  "id": 881575789,
+  "lat": 48.7958019,
+  "lon": 2.1358633
+},
+{
+  "type": "node",
+  "id": 881575871,
+  "lat": 48.7950864,
+  "lon": 2.1362208
+},
+{
+  "type": "node",
+  "id": 881577459,
+  "lat": 48.7954753,
+  "lon": 2.1361767
+},
+{
+  "type": "node",
+  "id": 881579035,
+  "lat": 48.7955296,
+  "lon": 2.1361561
+},
+{
+  "type": "node",
+  "id": 881580002,
+  "lat": 48.7954547,
+  "lon": 2.1358456
+},
+{
+  "type": "node",
+  "id": 881581473,
+  "lat": 48.7957809,
+  "lon": 2.1357914
+},
+{
+  "type": "node",
+  "id": 938300402,
+  "lat": 48.7551884,
+  "lon": 2.3009885
+},
+{
+  "type": "node",
+  "id": 938300405,
+  "lat": 48.7549885,
+  "lon": 2.3008999
+},
+{
+  "type": "node",
+  "id": 938300407,
+  "lat": 48.7549913,
+  "lon": 2.3008838
+},
+{
+  "type": "node",
+  "id": 938300424,
+  "lat": 48.7549649,
+  "lon": 2.3008709
+},
+{
+  "type": "node",
+  "id": 938300426,
+  "lat": 48.7549638,
+  "lon": 2.3008749
+},
+{
+  "type": "node",
+  "id": 938300429,
+  "lat": 48.7546739,
+  "lon": 2.3007462
+},
+{
+  "type": "node",
+  "id": 938300432,
+  "lat": 48.7546637,
+  "lon": 2.3007559
+},
+{
+  "type": "node",
+  "id": 938300435,
+  "lat": 48.7546629,
+  "lon": 2.3007556
+},
+{
+  "type": "node",
+  "id": 938300437,
+  "lat": 48.7546239,
+  "lon": 2.3009577
+},
+{
+  "type": "node",
+  "id": 938300440,
+  "lat": 48.7546365,
+  "lon": 2.3009631
+},
+{
+  "type": "node",
+  "id": 938300442,
+  "lat": 48.7546295,
+  "lon": 2.3009993
+},
+{
+  "type": "node",
+  "id": 938300456,
+  "lat": 48.7546167,
+  "lon": 2.3009936
+},
+{
+  "type": "node",
+  "id": 938300458,
+  "lat": 48.7546167,
+  "lon": 2.3009943
+},
+{
+  "type": "node",
+  "id": 938300462,
+  "lat": 48.7546379,
+  "lon": 2.3010134
+},
+{
+  "type": "node",
+  "id": 938300465,
+  "lat": 48.7546591,
+  "lon": 2.3010316
+},
+{
+  "type": "node",
+  "id": 938300468,
+  "lat": 48.7546815,
+  "lon": 2.3010486
+},
+{
+  "type": "node",
+  "id": 938300471,
+  "lat": 48.7547038,
+  "lon": 2.3010650
+},
+{
+  "type": "node",
+  "id": 938300473,
+  "lat": 48.7547264,
+  "lon": 2.3010801
+},
+{
+  "type": "node",
+  "id": 938300475,
+  "lat": 48.7547187,
+  "lon": 2.3011212
+},
+{
+  "type": "node",
+  "id": 938300501,
+  "lat": 48.7549763,
+  "lon": 2.3012353
+},
+{
+  "type": "node",
+  "id": 938300504,
+  "lat": 48.7549865,
+  "lon": 2.3011851
+},
+{
+  "type": "node",
+  "id": 938300506,
+  "lat": 48.7550213,
+  "lon": 2.3011902
+},
+{
+  "type": "node",
+  "id": 938300509,
+  "lat": 48.7550436,
+  "lon": 2.3011917
+},
+{
+  "type": "node",
+  "id": 938300511,
+  "lat": 48.7550550,
+  "lon": 2.3011925
+},
+{
+  "type": "node",
+  "id": 938300512,
+  "lat": 48.7550625,
+  "lon": 2.3011532
+},
+{
+  "type": "node",
+  "id": 938300514,
+  "lat": 48.7551482,
+  "lon": 2.3011903
+},
+{
+  "type": "node",
+  "id": 942985787,
+  "lat": 48.8708019,
+  "lon": 2.2756227
+},
+{
+  "type": "node",
+  "id": 942985873,
+  "lat": 48.8708655,
+  "lon": 2.2754301
+},
+{
+  "type": "node",
+  "id": 942985924,
+  "lat": 48.8707993,
+  "lon": 2.2756299
+},
+{
+  "type": "node",
+  "id": 942986057,
+  "lat": 48.8709933,
+  "lon": 2.2755261
+},
+{
+  "type": "node",
+  "id": 942986149,
+  "lat": 48.8708631,
+  "lon": 2.2754373
+},
+{
+  "type": "node",
+  "id": 942986165,
+  "lat": 48.8709274,
+  "lon": 2.2757259
+},
+{
+  "type": "node",
+  "id": 945714015,
+  "lat": 48.7480349,
+  "lon": 2.3123890
+},
+{
+  "type": "node",
+  "id": 945714020,
+  "lat": 48.7480412,
+  "lon": 2.3128549
+},
+{
+  "type": "node",
+  "id": 945714021,
+  "lat": 48.7480380,
+  "lon": 2.3126084
+},
+{
+  "type": "node",
+  "id": 945714022,
+  "lat": 48.7480358,
+  "lon": 2.3124393
+},
+{
+  "type": "node",
+  "id": 945714024,
+  "lat": 48.7481225,
+  "lon": 2.3124384
+},
+{
+  "type": "node",
+  "id": 945714025,
+  "lat": 48.7481232,
+  "lon": 2.3126079
+},
+{
+  "type": "node",
+  "id": 945714026,
+  "lat": 48.7481418,
+  "lon": 2.3128545
+},
+{
+  "type": "node",
+  "id": 945714027,
+  "lat": 48.7481376,
+  "lon": 2.3123879
+},
+{
+  "type": "node",
+  "id": 946214809,
+  "lat": 48.8645323,
+  "lon": 2.2719726
+},
+{
+  "type": "node",
+  "id": 948473350,
+  "lat": 48.8644103,
+  "lon": 2.2720202
+},
+{
+  "type": "node",
+  "id": 948473999,
+  "lat": 48.8643842,
+  "lon": 2.2720211
+},
+{
+  "type": "node",
+  "id": 948474847,
+  "lat": 48.8643874,
+  "lon": 2.2722493
+},
+{
+  "type": "node",
+  "id": 948475446,
+  "lat": 48.8644097,
+  "lon": 2.2719765
+},
+{
+  "type": "node",
+  "id": 959800991,
+  "lat": 48.8709594,
+  "lon": 2.2756290
+},
+{
+  "type": "node",
+  "id": 959835124,
+  "lat": 48.8708941,
+  "lon": 2.2757010
+},
+{
+  "type": "node",
+  "id": 980292663,
+  "lat": 48.8855009,
+  "lon": 2.2979432
+},
+{
+  "type": "node",
+  "id": 980378668,
+  "lat": 48.8853364,
+  "lon": 2.2981477
+},
+{
+  "type": "node",
+  "id": 990837032,
+  "lat": 48.7021002,
+  "lon": 2.2944745
+},
+{
+  "type": "node",
+  "id": 990837231,
+  "lat": 48.7021297,
+  "lon": 2.2943626
+},
+{
+  "type": "node",
+  "id": 990838359,
+  "lat": 48.7020894,
+  "lon": 2.2946201
+},
+{
+  "type": "node",
+  "id": 990839681,
+  "lat": 48.7021217,
+  "lon": 2.2943597
+},
+{
+  "type": "node",
+  "id": 990840312,
+  "lat": 48.7022148,
+  "lon": 2.2943219
+},
+{
+  "type": "node",
+  "id": 990843235,
+  "lat": 48.7021467,
+  "lon": 2.2946453
+},
+{
+  "type": "node",
+  "id": 990843726,
+  "lat": 48.7021065,
+  "lon": 2.2944771
+},
+{
+  "type": "node",
+  "id": 990843972,
+  "lat": 48.7021023,
+  "lon": 2.2945501
+},
+{
+  "type": "node",
+  "id": 990845612,
+  "lat": 48.7021432,
+  "lon": 2.2942901
+},
+{
+  "type": "node",
+  "id": 990846661,
+  "lat": 48.7021676,
+  "lon": 2.2945748
+},
+{
+  "type": "node",
+  "id": 990846886,
+  "lat": 48.7020938,
+  "lon": 2.2945463
+},
+{
+  "type": "node",
+  "id": 990847716,
+  "lat": 48.7021603,
+  "lon": 2.2945718
+},
+{
+  "type": "node",
+  "id": 1020933300,
+  "lat": 48.7877150,
+  "lon": 2.0442644
+},
+{
+  "type": "node",
+  "id": 1035228703,
+  "lat": 49.0240672,
+  "lon": 2.4632550
+},
+{
+  "type": "node",
+  "id": 1035228705,
+  "lat": 49.0241231,
+  "lon": 2.4633454
+},
+{
+  "type": "node",
+  "id": 1035228707,
+  "lat": 49.0239750,
+  "lon": 2.4630802
+},
+{
+  "type": "node",
+  "id": 1035228709,
+  "lat": 49.0240214,
+  "lon": 2.4631510
+},
+{
+  "type": "node",
+  "id": 1035228710,
+  "lat": 49.0239623,
+  "lon": 2.4630956
+},
+{
+  "type": "node",
+  "id": 1035228712,
+  "lat": 49.0241312,
+  "lon": 2.4633342
+},
+{
+  "type": "node",
+  "id": 1035228721,
+  "lat": 49.0241725,
+  "lon": 2.4634038
+},
+{
+  "type": "node",
+  "id": 1035228732,
+  "lat": 49.0240118,
+  "lon": 2.4631656
+},
+{
+  "type": "node",
+  "id": 1035228733,
+  "lat": 49.0241224,
+  "lon": 2.4634782
+},
+{
+  "type": "node",
+  "id": 1094877344,
+  "lat": 48.8005515,
+  "lon": 2.1713011
+},
+{
+  "type": "node",
+  "id": 1099794667,
+  "lat": 48.6762238,
+  "lon": 2.3334194
+},
+{
+  "type": "node",
+  "id": 1099795243,
+  "lat": 48.7398413,
+  "lon": 2.2312357
+},
+{
+  "type": "node",
+  "id": 1099796965,
+  "lat": 48.6853911,
+  "lon": 2.3179452
+},
+{
+  "type": "node",
+  "id": 1099797515,
+  "lat": 48.7401000,
+  "lon": 2.2311762
+},
+{
+  "type": "node",
+  "id": 1099797593,
+  "lat": 48.6762605,
+  "lon": 2.3333441
+},
+{
+  "type": "node",
+  "id": 1099798410,
+  "lat": 48.6853270,
+  "lon": 2.3179424
+},
+{
+  "type": "node",
+  "id": 1099798874,
+  "lat": 48.7398280,
+  "lon": 2.2311024
+},
+{
+  "type": "node",
+  "id": 1099799360,
+  "lat": 48.6762010,
+  "lon": 2.3333940
+},
+{
+  "type": "node",
+  "id": 1099799964,
+  "lat": 48.6853403,
+  "lon": 2.3179831
+},
+{
+  "type": "node",
+  "id": 1099800895,
+  "lat": 48.6762377,
+  "lon": 2.3333186
+},
+{
+  "type": "node",
+  "id": 1099800934,
+  "lat": 48.6853778,
+  "lon": 2.3179045
+},
+{
+  "type": "node",
+  "id": 1099801258,
+  "lat": 48.7400867,
+  "lon": 2.2310429
+},
+{
+  "type": "node",
+  "id": 1101931246,
+  "lat": 48.7703940,
+  "lon": 2.1465568
+},
+{
+  "type": "node",
+  "id": 1101931408,
+  "lat": 48.7703969,
+  "lon": 2.1466772
+},
+{
+  "type": "node",
+  "id": 1101931441,
+  "lat": 48.7704623,
+  "lon": 2.1465530
+},
+{
+  "type": "node",
+  "id": 1101931546,
+  "lat": 48.7704653,
+  "lon": 2.1466734
+},
+{
+  "type": "node",
+  "id": 1187971818,
+  "lat": 49.0496400,
+  "lon": 2.5018860
+},
+{
+  "type": "node",
+  "id": 1194021366,
+  "lat": 48.8050392,
+  "lon": 2.4856204
+},
+{
+  "type": "node",
+  "id": 1284048994,
+  "lat": 48.8366330,
+  "lon": 2.7102060
+},
+{
+  "type": "node",
+  "id": 1284049592,
+  "lat": 48.8365630,
+  "lon": 2.7096510
+},
+{
+  "type": "node",
+  "id": 1284063237,
+  "lat": 48.8367340,
+  "lon": 2.7100830
+},
+{
+  "type": "node",
+  "id": 1284064185,
+  "lat": 48.8365380,
+  "lon": 2.7095620
+},
+{
+  "type": "node",
+  "id": 1284074696,
+  "lat": 48.8364980,
+  "lon": 2.7097510
+},
+{
+  "type": "node",
+  "id": 1284080202,
+  "lat": 48.8364960,
+  "lon": 2.7097500
+},
+{
+  "type": "node",
+  "id": 1284087838,
+  "lat": 48.8365280,
+  "lon": 2.7100000
+},
+{
+  "type": "node",
+  "id": 1284088397,
+  "lat": 48.8366750,
+  "lon": 2.7095210
+},
+{
+  "type": "node",
+  "id": 1284093368,
+  "lat": 48.8368160,
+  "lon": 2.7101560
+},
+{
+  "type": "node",
+  "id": 1284098080,
+  "lat": 48.8365540,
+  "lon": 2.7102300
+},
+{
+  "type": "node",
+  "id": 1284098527,
+  "lat": 48.8366770,
+  "lon": 2.7096170
+},
+{
+  "type": "node",
+  "id": 1284102702,
+  "lat": 48.8367460,
+  "lon": 2.7101750
+},
+{
+  "type": "node",
+  "id": 1284106048,
+  "lat": 48.8365220,
+  "lon": 2.7099530
+},
+{
+  "type": "node",
+  "id": 1284108421,
+  "lat": 48.8366210,
+  "lon": 2.7101120
+},
+{
+  "type": "node",
+  "id": 1284109959,
+  "lat": 48.8365520,
+  "lon": 2.7095570
+},
+{
+  "type": "node",
+  "id": 1284115817,
+  "lat": 48.8365280,
+  "lon": 2.7100030
+},
+{
+  "type": "node",
+  "id": 1284116187,
+  "lat": 48.8366670,
+  "lon": 2.7095230
+},
+{
+  "type": "node",
+  "id": 1284118289,
+  "lat": 48.8364760,
+  "lon": 2.7095800
+},
+{
+  "type": "node",
+  "id": 1284138395,
+  "lat": 48.8367380,
+  "lon": 2.7095060
+},
+{
+  "type": "node",
+  "id": 1289138392,
+  "lat": 48.7879840,
+  "lon": 2.0444330
+},
+{
+  "type": "node",
+  "id": 1289138440,
+  "lat": 48.7879140,
+  "lon": 2.0444940
+},
+{
+  "type": "node",
+  "id": 1289138465,
+  "lat": 48.7879970,
+  "lon": 2.0445960
+},
+{
+  "type": "node",
+  "id": 1289138549,
+  "lat": 48.7879380,
+  "lon": 2.0442980
+},
+{
+  "type": "node",
+  "id": 1289138734,
+  "lat": 48.7878080,
+  "lon": 2.0439840
+},
+{
+  "type": "node",
+  "id": 1289138837,
+  "lat": 48.7877460,
+  "lon": 2.0441720
+},
+{
+  "type": "node",
+  "id": 1289139031,
+  "lat": 48.7878020,
+  "lon": 2.0443610
+},
+{
+  "type": "node",
+  "id": 1289139090,
+  "lat": 48.7879060,
+  "lon": 2.0442300
+},
+{
+  "type": "node",
+  "id": 1289139136,
+  "lat": 48.7879870,
+  "lon": 2.0445960
+},
+{
+  "type": "node",
+  "id": 1289139150,
+  "lat": 48.7880410,
+  "lon": 2.0445200
+},
+{
+  "type": "node",
+  "id": 1289139282,
+  "lat": 48.7876650,
+  "lon": 2.0439720
+},
+{
+  "type": "node",
+  "id": 1289139443,
+  "lat": 48.7879780,
+  "lon": 2.0444210
+},
+{
+  "type": "node",
+  "id": 1289139488,
+  "lat": 48.7879460,
+  "lon": 2.0444990
+},
+{
+  "type": "node",
+  "id": 1289139502,
+  "lat": 48.7880010,
+  "lon": 2.0445930
+},
+{
+  "type": "node",
+  "id": 1289139635,
+  "lat": 48.7877980,
+  "lon": 2.0440010
+},
+{
+  "type": "node",
+  "id": 1289139737,
+  "lat": 48.7877220,
+  "lon": 2.0441260
+},
+{
+  "type": "node",
+  "id": 1289139840,
+  "lat": 48.7878530,
+  "lon": 2.0443700
+},
+{
+  "type": "node",
+  "id": 1289139897,
+  "lat": 48.7879170,
+  "lon": 2.0441170
+},
+{
+  "type": "node",
+  "id": 1289139967,
+  "lat": 48.7879920,
+  "lon": 2.0446010
+},
+{
+  "type": "node",
+  "id": 1289139991,
+  "lat": 48.7880420,
+  "lon": 2.0445040
+},
+{
+  "type": "node",
+  "id": 1289140022,
+  "lat": 48.7878720,
+  "lon": 2.0440170
+},
+{
+  "type": "node",
+  "id": 1289140449,
+  "lat": 48.7877380,
+  "lon": 2.0441170
+},
+{
+  "type": "node",
+  "id": 1289140907,
+  "lat": 48.7879300,
+  "lon": 2.0444120
+},
+{
+  "type": "node",
+  "id": 1289140952,
+  "lat": 48.7879380,
+  "lon": 2.0446010
+},
+{
+  "type": "node",
+  "id": 1289140966,
+  "lat": 48.7880030,
+  "lon": 2.0445870
+},
+{
+  "type": "node",
+  "id": 1289141277,
+  "lat": 48.7877820,
+  "lon": 2.0440180
+},
+{
+  "type": "node",
+  "id": 1289141479,
+  "lat": 48.7876970,
+  "lon": 2.0441510
+},
+{
+  "type": "node",
+  "id": 1289141636,
+  "lat": 48.7878730,
+  "lon": 2.0444130
+},
+{
+  "type": "node",
+  "id": 1289141723,
+  "lat": 48.7878620,
+  "lon": 2.0441020
+},
+{
+  "type": "node",
+  "id": 1289141846,
+  "lat": 48.7878600,
+  "lon": 2.0440110
+},
+{
+  "type": "node",
+  "id": 1289141991,
+  "lat": 48.7877570,
+  "lon": 2.0441220
+},
+{
+  "type": "node",
+  "id": 1289142135,
+  "lat": 48.7877480,
+  "lon": 2.0443220
+},
+{
+  "type": "node",
+  "id": 1289142231,
+  "lat": 48.7879340,
+  "lon": 2.0443470
+},
+{
+  "type": "node",
+  "id": 1289142348,
+  "lat": 48.7879640,
+  "lon": 2.0446050
+},
+{
+  "type": "node",
+  "id": 1289142368,
+  "lat": 48.7880040,
+  "lon": 2.0445780
+},
+{
+  "type": "node",
+  "id": 1289142634,
+  "lat": 48.7877430,
+  "lon": 2.0440080
+},
+{
+  "type": "node",
+  "id": 1289142973,
+  "lat": 48.7876890,
+  "lon": 2.0442170
+},
+{
+  "type": "node",
+  "id": 1289143121,
+  "lat": 48.7879970,
+  "lon": 2.0444180
+},
+{
+  "type": "node",
+  "id": 1289143222,
+  "lat": 48.7878670,
+  "lon": 2.0444860
+},
+{
+  "type": "node",
+  "id": 1289143606,
+  "lat": 48.7878620,
+  "lon": 2.0439960
+},
+{
+  "type": "node",
+  "id": 1289143852,
+  "lat": 48.7877530,
+  "lon": 2.0441720
+},
+{
+  "type": "node",
+  "id": 1289144068,
+  "lat": 48.7879525,
+  "lon": 2.0443275
+},
+{
+  "type": "node",
+  "id": 1289144134,
+  "lat": 48.7879820,
+  "lon": 2.0445890
+},
+{
+  "type": "node",
+  "id": 1289144157,
+  "lat": 48.7880360,
+  "lon": 2.0445870
+},
+{
+  "type": "node",
+  "id": 1289144331,
+  "lat": 48.7877440,
+  "lon": 2.0439880
+},
+{
+  "type": "node",
+  "id": 1326936192,
+  "lat": 48.5709356,
+  "lon": 2.4332025
+},
+{
+  "type": "node",
+  "id": 1326936210,
+  "lat": 48.5709720,
+  "lon": 2.4333081
+},
+{
+  "type": "node",
+  "id": 1326936216,
+  "lat": 48.5710204,
+  "lon": 2.4334097
+},
+{
+  "type": "node",
+  "id": 1326936217,
+  "lat": 48.5710870,
+  "lon": 2.4333377
+},
+{
+  "type": "node",
+  "id": 1326936223,
+  "lat": 48.5709930,
+  "lon": 2.4331404
+},
+{
+  "type": "node",
+  "id": 1326936232,
+  "lat": 48.5709296,
+  "lon": 2.4332090
+},
+{
+  "type": "node",
+  "id": 1326936234,
+  "lat": 48.5709752,
+  "lon": 2.4333047
+},
+{
+  "type": "node",
+  "id": 1351349614,
+  "lat": 48.8062880,
+  "lon": 2.4729070
+},
+{
+  "type": "node",
+  "id": 1351349666,
+  "lat": 48.8064110,
+  "lon": 2.4725410
+},
+{
+  "type": "node",
+  "id": 1351349682,
+  "lat": 48.8066410,
+  "lon": 2.4719600
+},
+{
+  "type": "node",
+  "id": 1351349685,
+  "lat": 48.8061735,
+  "lon": 2.4724595
+},
+{
+  "type": "node",
+  "id": 1351349729,
+  "lat": 48.8060855,
+  "lon": 2.4727198
+},
+{
+  "type": "node",
+  "id": 1351349758,
+  "lat": 48.8065120,
+  "lon": 2.4722870
+},
+{
+  "type": "node",
+  "id": 1351349821,
+  "lat": 48.8062300,
+  "lon": 2.4730750
+},
+{
+  "type": "node",
+  "id": 1351349854,
+  "lat": 48.8060532,
+  "lon": 2.4729386
+},
+{
+  "type": "node",
+  "id": 1351349925,
+  "lat": 48.8062802,
+  "lon": 2.4721680
+},
+{
+  "type": "node",
+  "id": 1351349977,
+  "lat": 48.8060188,
+  "lon": 2.4729130
+},
+{
+  "type": "node",
+  "id": 1351396176,
+  "lat": 48.8070802,
+  "lon": 2.5095756
+},
+{
+  "type": "node",
+  "id": 1351396179,
+  "lat": 48.8067753,
+  "lon": 2.5105302
+},
+{
+  "type": "node",
+  "id": 1351396181,
+  "lat": 48.8066927,
+  "lon": 2.5107567
+},
+{
+  "type": "node",
+  "id": 1351396183,
+  "lat": 48.8071818,
+  "lon": 2.5092238
+},
+{
+  "type": "node",
+  "id": 1351396193,
+  "lat": 48.8066546,
+  "lon": 2.5110475
+},
+{
+  "type": "node",
+  "id": 1351396198,
+  "lat": 48.8072447,
+  "lon": 2.5092640
+},
+{
+  "type": "node",
+  "id": 1351396199,
+  "lat": 48.8071483,
+  "lon": 2.5096231
+},
+{
+  "type": "node",
+  "id": 1351396202,
+  "lat": 48.8068892,
+  "lon": 2.5102076
+},
+{
+  "type": "node",
+  "id": 1351396204,
+  "lat": 48.8068502,
+  "lon": 2.5105722
+},
+{
+  "type": "node",
+  "id": 1351396207,
+  "lat": 48.8069802,
+  "lon": 2.5099268
+},
+{
+  "type": "node",
+  "id": 1351396211,
+  "lat": 48.8070527,
+  "lon": 2.5099669
+},
+{
+  "type": "node",
+  "id": 1351396223,
+  "lat": 48.8065999,
+  "lon": 2.5109939
+},
+{
+  "type": "node",
+  "id": 1351396229,
+  "lat": 48.8069624,
+  "lon": 2.5102587
+},
+{
+  "type": "node",
+  "id": 1351396252,
+  "lat": 48.8067179,
+  "lon": 2.5108936
+},
+{
+  "type": "node",
+  "id": 1354328627,
+  "lat": 48.7944890,
+  "lon": 2.5133070
+},
+{
+  "type": "node",
+  "id": 1354328742,
+  "lat": 48.7946610,
+  "lon": 2.5130940
+},
+{
+  "type": "node",
+  "id": 1367616107,
+  "lat": 48.8199570,
+  "lon": 2.2592890
+},
+{
+  "type": "node",
+  "id": 1367616112,
+  "lat": 48.8199900,
+  "lon": 2.2592530
+},
+{
+  "type": "node",
+  "id": 1367616113,
+  "lat": 48.8199940,
+  "lon": 2.2592610
+},
+{
+  "type": "node",
+  "id": 1367616120,
+  "lat": 48.8200240,
+  "lon": 2.2590590
+},
+{
+  "type": "node",
+  "id": 1367616135,
+  "lat": 48.8200480,
+  "lon": 2.2591120
+},
+{
+  "type": "node",
+  "id": 1405411209,
+  "lat": 48.7945650,
+  "lon": 2.5133630
+},
+{
+  "type": "node",
+  "id": 1414667154,
+  "lat": 48.7968257,
+  "lon": 2.1535671
+},
+{
+  "type": "node",
+  "id": 1414667158,
+  "lat": 48.7969141,
+  "lon": 2.1537072
+},
+{
+  "type": "node",
+  "id": 1439673303,
+  "lat": 48.8199426,
+  "lon": 2.2591509
+},
+{
+  "type": "node",
+  "id": 1449835938,
+  "lat": 49.0494810,
+  "lon": 2.5018070
+},
+{
+  "type": "node",
+  "id": 1449836141,
+  "lat": 49.0495260,
+  "lon": 2.5017310
+},
+{
+  "type": "node",
+  "id": 1449836492,
+  "lat": 49.0495910,
+  "lon": 2.5019690
+},
+{
+  "type": "node",
+  "id": 1449836516,
+  "lat": 49.0495930,
+  "lon": 2.5019650
+},
+{
+  "type": "node",
+  "id": 1449836713,
+  "lat": 49.0496180,
+  "lon": 2.5020070
+},
+{
+  "type": "node",
+  "id": 1449836747,
+  "lat": 49.0496220,
+  "lon": 2.5020010
+},
+{
+  "type": "node",
+  "id": 1449836826,
+  "lat": 49.0496330,
+  "lon": 2.5018810
+},
+{
+  "type": "node",
+  "id": 1449836847,
+  "lat": 49.0496350,
+  "lon": 2.5018790
+},
+{
+  "type": "node",
+  "id": 1449836861,
+  "lat": 49.0496420,
+  "lon": 2.5018830
+},
+{
+  "type": "node",
+  "id": 1449836955,
+  "lat": 49.0496650,
+  "lon": 2.5019210
+},
+{
+  "type": "node",
+  "id": 1449836970,
+  "lat": 49.0496660,
+  "lon": 2.5019180
+},
+{
+  "type": "node",
+  "id": 1449837267,
+  "lat": 49.0497270,
+  "lon": 2.5021460
+},
+{
+  "type": "node",
+  "id": 1449837436,
+  "lat": 49.0497730,
+  "lon": 2.5020690
+},
+{
+  "type": "node",
+  "id": 1505163406,
+  "lat": 48.8078838,
+  "lon": 2.2409983
+},
+{
+  "type": "node",
+  "id": 1505163416,
+  "lat": 48.8078996,
+  "lon": 2.2410869
+},
+{
+  "type": "node",
+  "id": 1505163422,
+  "lat": 48.8079194,
+  "lon": 2.2408961
+},
+{
+  "type": "node",
+  "id": 1505163435,
+  "lat": 48.8079416,
+  "lon": 2.2409139
+},
+{
+  "type": "node",
+  "id": 1505163440,
+  "lat": 48.8079455,
+  "lon": 2.2409028
+},
+{
+  "type": "node",
+  "id": 1505163472,
+  "lat": 48.8080008,
+  "lon": 2.2411684
+},
+{
+  "type": "node",
+  "id": 1505163475,
+  "lat": 48.8080013,
+  "lon": 2.2409628
+},
+{
+  "type": "node",
+  "id": 1505163481,
+  "lat": 48.8080054,
+  "lon": 2.2409510
+},
+{
+  "type": "node",
+  "id": 1505163499,
+  "lat": 48.8080227,
+  "lon": 2.2410152
+},
+{
+  "type": "node",
+  "id": 1505163523,
+  "lat": 48.8080323,
+  "lon": 2.2409877
+},
+{
+  "type": "node",
+  "id": 1505163537,
+  "lat": 48.8080474,
+  "lon": 2.2410350
+},
+{
+  "type": "node",
+  "id": 1555929078,
+  "lat": 48.8080247,
+  "lon": 2.2411000
+},
+{
+  "type": "node",
+  "id": 1602763050,
+  "lat": 49.0194451,
+  "lon": 2.1538355
+},
+{
+  "type": "node",
+  "id": 1602763203,
+  "lat": 49.0195049,
+  "lon": 2.1538722
+},
+{
+  "type": "node",
+  "id": 1602763246,
+  "lat": 49.0195261,
+  "lon": 2.1535370
+},
+{
+  "type": "node",
+  "id": 1602763398,
+  "lat": 49.0195871,
+  "lon": 2.1535747
+},
+{
+  "type": "node",
+  "id": 1666169630,
+  "lat": 48.9542083,
+  "lon": 2.3026132
+},
+{
+  "type": "node",
+  "id": 1666169666,
+  "lat": 48.9542049,
+  "lon": 2.3024591
+},
+{
+  "type": "node",
+  "id": 1731955643,
+  "lat": 48.7005959,
+  "lon": 2.3084456
+},
+{
+  "type": "node",
+  "id": 1731955645,
+  "lat": 48.7006377,
+  "lon": 2.3082937
+},
+{
+  "type": "node",
+  "id": 1731955647,
+  "lat": 48.7006618,
+  "lon": 2.3084890
+},
+{
+  "type": "node",
+  "id": 1731955650,
+  "lat": 48.7006863,
+  "lon": 2.3084072
+},
+{
+  "type": "node",
+  "id": 1731955652,
+  "lat": 48.7007052,
+  "lon": 2.3084172
+},
+{
+  "type": "node",
+  "id": 1731955654,
+  "lat": 48.7007242,
+  "lon": 2.3083508
+},
+{
+  "type": "node",
+  "id": 1778511944,
+  "lat": 48.7028472,
+  "lon": 2.0708820
+},
+{
+  "type": "node",
+  "id": 1787817359,
+  "lat": 48.7248577,
+  "lon": 2.2606083
+},
+{
+  "type": "node",
+  "id": 1787817360,
+  "lat": 48.7249493,
+  "lon": 2.2604383
+},
+{
+  "type": "node",
+  "id": 1787817361,
+  "lat": 48.7250739,
+  "lon": 2.2608760
+},
+{
+  "type": "node",
+  "id": 1787817362,
+  "lat": 48.7251655,
+  "lon": 2.2607060
+},
+{
+  "type": "node",
+  "id": 1812314264,
+  "lat": 49.0239201,
+  "lon": 2.4631543
+},
+{
+  "type": "node",
+  "id": 1812314274,
+  "lat": 49.0239354,
+  "lon": 2.4631332
+},
+{
+  "type": "node",
+  "id": 1812314293,
+  "lat": 49.0239672,
+  "lon": 2.4632297
+},
+{
+  "type": "node",
+  "id": 1812314300,
+  "lat": 49.0240232,
+  "lon": 2.4633195
+},
+{
+  "type": "node",
+  "id": 1812314308,
+  "lat": 49.0240368,
+  "lon": 2.4633411
+},
+{
+  "type": "node",
+  "id": 1853216763,
+  "lat": 48.8079144,
+  "lon": 2.2410989
+},
+{
+  "type": "node",
+  "id": 1860007194,
+  "lat": 48.8050040,
+  "lon": 2.4853350
+},
+{
+  "type": "node",
+  "id": 1860007220,
+  "lat": 48.8050940,
+  "lon": 2.4860660
+},
+{
+  "type": "node",
+  "id": 1860007223,
+  "lat": 48.8051020,
+  "lon": 2.4860630
+},
+{
+  "type": "node",
+  "id": 1860007225,
+  "lat": 48.8051040,
+  "lon": 2.4860730
+},
+{
+  "type": "node",
+  "id": 1860007237,
+  "lat": 48.8051240,
+  "lon": 2.4860580
+},
+{
+  "type": "node",
+  "id": 1860007238,
+  "lat": 48.8051250,
+  "lon": 2.4860660
+},
+{
+  "type": "node",
+  "id": 1860007249,
+  "lat": 48.8051660,
+  "lon": 2.4860450
+},
+{
+  "type": "node",
+  "id": 1860007253,
+  "lat": 48.8051690,
+  "lon": 2.4860540
+},
+{
+  "type": "node",
+  "id": 1860007263,
+  "lat": 48.8052030,
+  "lon": 2.4860350
+},
+{
+  "type": "node",
+  "id": 1860007264,
+  "lat": 48.8052030,
+  "lon": 2.4860450
+},
+{
+  "type": "node",
+  "id": 1860045200,
+  "lat": 48.8051370,
+  "lon": 2.4852959
+},
+{
+  "type": "node",
+  "id": 1860385814,
+  "lat": 48.8060934,
+  "lon": 2.4729697
+},
+{
+  "type": "node",
+  "id": 1860385857,
+  "lat": 48.8065589,
+  "lon": 2.4714957
+},
+{
+  "type": "node",
+  "id": 1860385865,
+  "lat": 48.8065993,
+  "lon": 2.4715256
+},
+{
+  "type": "node",
+  "id": 1860385869,
+  "lat": 48.8066040,
+  "lon": 2.4719250
+},
+{
+  "type": "node",
+  "id": 1860385877,
+  "lat": 48.8066360,
+  "lon": 2.4714457
+},
+{
+  "type": "node",
+  "id": 1860385896,
+  "lat": 48.8068010,
+  "lon": 2.4714780
+},
+{
+  "type": "node",
+  "id": 1860385899,
+  "lat": 48.8068150,
+  "lon": 2.4714450
+},
+{
+  "type": "node",
+  "id": 1864937371,
+  "lat": 48.7941420,
+  "lon": 2.5130410
+},
+{
+  "type": "node",
+  "id": 1864937372,
+  "lat": 48.7941630,
+  "lon": 2.5128600
+},
+{
+  "type": "node",
+  "id": 1864937373,
+  "lat": 48.7941910,
+  "lon": 2.5128900
+},
+{
+  "type": "node",
+  "id": 1864937374,
+  "lat": 48.7941950,
+  "lon": 2.5128930
+},
+{
+  "type": "node",
+  "id": 1864937375,
+  "lat": 48.7941980,
+  "lon": 2.5128850
+},
+{
+  "type": "node",
+  "id": 1864937376,
+  "lat": 48.7941990,
+  "lon": 2.5127500
+},
+{
+  "type": "node",
+  "id": 1864937377,
+  "lat": 48.7942340,
+  "lon": 2.5127760
+},
+{
+  "type": "node",
+  "id": 1864937378,
+  "lat": 48.7942370,
+  "lon": 2.5127690
+},
+{
+  "type": "node",
+  "id": 1864937379,
+  "lat": 48.7942370,
+  "lon": 2.5131134
+},
+{
+  "type": "node",
+  "id": 1864937380,
+  "lat": 48.7943140,
+  "lon": 2.5131720
+},
+{
+  "type": "node",
+  "id": 1864937387,
+  "lat": 48.7943630,
+  "lon": 2.5132100
+},
+{
+  "type": "node",
+  "id": 1864937389,
+  "lat": 48.7943850,
+  "lon": 2.5132650
+},
+{
+  "type": "node",
+  "id": 1864937394,
+  "lat": 48.7944200,
+  "lon": 2.5132540
+},
+{
+  "type": "node",
+  "id": 1864937396,
+  "lat": 48.7944250,
+  "lon": 2.5132950
+},
+{
+  "type": "node",
+  "id": 1864937399,
+  "lat": 48.7944600,
+  "lon": 2.5132830
+},
+{
+  "type": "node",
+  "id": 1864937400,
+  "lat": 48.7944640,
+  "lon": 2.5133250
+},
+{
+  "type": "node",
+  "id": 2160184870,
+  "lat": 48.7266302,
+  "lon": 2.2577826
+},
+{
+  "type": "node",
+  "id": 2181184261,
+  "lat": 48.7264216,
+  "lon": 2.2577409
+},
+{
+  "type": "node",
+  "id": 2181184262,
+  "lat": 48.7264777,
+  "lon": 2.2576372
+},
+{
+  "type": "node",
+  "id": 2181184263,
+  "lat": 48.7264918,
+  "lon": 2.2576113
+},
+{
+  "type": "node",
+  "id": 2181184264,
+  "lat": 48.7265830,
+  "lon": 2.2579406
+},
+{
+  "type": "node",
+  "id": 2181184265,
+  "lat": 48.7266532,
+  "lon": 2.2578111
+},
+{
+  "type": "node",
+  "id": 2334101398,
+  "lat": 48.8052043,
+  "lon": 2.4856943
+},
+{
+  "type": "node",
+  "id": 2354285703,
+  "lat": 49.0072670,
+  "lon": 2.1973520
+},
+{
+  "type": "node",
+  "id": 2354285706,
+  "lat": 49.0073330,
+  "lon": 2.1971200
+},
+{
+  "type": "node",
+  "id": 2364345617,
+  "lat": 48.7512091,
+  "lon": 2.2156569
+},
+{
+  "type": "node",
+  "id": 2364347405,
+  "lat": 48.7398423,
+  "lon": 2.2310995
+},
+{
+  "type": "node",
+  "id": 2364347409,
+  "lat": 48.7400911,
+  "lon": 2.2310866
+},
+{
+  "type": "node",
+  "id": 2366868299,
+  "lat": 48.7877690,
+  "lon": 2.0442980
+},
+{
+  "type": "node",
+  "id": 2367860486,
+  "lat": 48.8079202,
+  "lon": 2.2410277
+},
+{
+  "type": "node",
+  "id": 2367860492,
+  "lat": 48.8005318,
+  "lon": 2.1715209
+},
+{
+  "type": "node",
+  "id": 2368931425,
+  "lat": 48.7968522,
+  "lon": 2.1537312
+},
+{
+  "type": "node",
+  "id": 2371271316,
+  "lat": 48.7591010,
+  "lon": 2.1919382
+},
+{
+  "type": "node",
+  "id": 2371271326,
+  "lat": 48.7591658,
+  "lon": 2.1919936
+},
+{
+  "type": "node",
+  "id": 2375445592,
+  "lat": 48.7251090,
+  "lon": 2.2606361
+},
+{
+  "type": "node",
+  "id": 2389587125,
+  "lat": 48.8709768,
+  "lon": 2.2755794
+},
+{
+  "type": "node",
+  "id": 2389587126,
+  "lat": 48.8709649,
+  "lon": 2.2756135
+},
+{
+  "type": "node",
+  "id": 2397567444,
+  "lat": 49.0072926,
+  "lon": 2.1975591
+},
+{
+  "type": "node",
+  "id": 2397567472,
+  "lat": 49.0073240,
+  "lon": 2.1974549
+},
+{
+  "type": "node",
+  "id": 2397567488,
+  "lat": 49.0073384,
+  "lon": 2.1974061
+},
+{
+  "type": "node",
+  "id": 2397567537,
+  "lat": 49.0073997,
+  "lon": 2.1979874
+},
+{
+  "type": "node",
+  "id": 2397567559,
+  "lat": 49.0074419,
+  "lon": 2.1980190
+},
+{
+  "type": "node",
+  "id": 2397567565,
+  "lat": 49.0074574,
+  "lon": 2.1979715
+},
+{
+  "type": "node",
+  "id": 2397567568,
+  "lat": 49.0074637,
+  "lon": 2.1979523
+},
+{
+  "type": "node",
+  "id": 2397567575,
+  "lat": 49.0074952,
+  "lon": 2.1979137
+},
+{
+  "type": "node",
+  "id": 2397567582,
+  "lat": 49.0075065,
+  "lon": 2.1978795
+},
+{
+  "type": "node",
+  "id": 2397567586,
+  "lat": 49.0075213,
+  "lon": 2.1978349
+},
+{
+  "type": "node",
+  "id": 2397567592,
+  "lat": 49.0075438,
+  "lon": 2.1977667
+},
+{
+  "type": "node",
+  "id": 2397567597,
+  "lat": 49.0075630,
+  "lon": 2.1977087
+},
+{
+  "type": "node",
+  "id": 2397567606,
+  "lat": 49.0076251,
+  "lon": 2.1972924
+},
+{
+  "type": "node",
+  "id": 2397567607,
+  "lat": 49.0076283,
+  "lon": 2.1972046
+},
+{
+  "type": "node",
+  "id": 2397567611,
+  "lat": 49.0076374,
+  "lon": 2.1973016
+},
+{
+  "type": "node",
+  "id": 2397567616,
+  "lat": 49.0076784,
+  "lon": 2.1973758
+},
+{
+  "type": "node",
+  "id": 2397567626,
+  "lat": 49.0077156,
+  "lon": 2.1969696
+},
+{
+  "type": "node",
+  "id": 2397567647,
+  "lat": 49.0077963,
+  "lon": 2.1967561
+},
+{
+  "type": "node",
+  "id": 2397567649,
+  "lat": 49.0078026,
+  "lon": 2.1966711
+},
+{
+  "type": "node",
+  "id": 2397651693,
+  "lat": 49.0072545,
+  "lon": 2.1976841
+},
+{
+  "type": "node",
+  "id": 2397693583,
+  "lat": 49.0071739,
+  "lon": 2.1979396
+},
+{
+  "type": "node",
+  "id": 2397693585,
+  "lat": 49.0073353,
+  "lon": 2.1980560
+},
+{
+  "type": "node",
+  "id": 2397693588,
+  "lat": 49.0073675,
+  "lon": 2.1979633
+},
+{
+  "type": "node",
+  "id": 2397693590,
+  "lat": 49.0074138,
+  "lon": 2.1971713
+},
+{
+  "type": "node",
+  "id": 2397693592,
+  "lat": 49.0074756,
+  "lon": 2.1969853
+},
+{
+  "type": "node",
+  "id": 2397693594,
+  "lat": 49.0075294,
+  "lon": 2.1966354
+},
+{
+  "type": "node",
+  "id": 2397693596,
+  "lat": 49.0075615,
+  "lon": 2.1966966
+},
+{
+  "type": "node",
+  "id": 2397693598,
+  "lat": 49.0076390,
+  "lon": 2.1974684
+},
+{
+  "type": "node",
+  "id": 2397693602,
+  "lat": 49.0076811,
+  "lon": 2.1960690
+},
+{
+  "type": "node",
+  "id": 2397693606,
+  "lat": 49.0079867,
+  "lon": 2.1961037
+},
+{
+  "type": "node",
+  "id": 2397693608,
+  "lat": 49.0080494,
+  "lon": 2.1946976
+},
+{
+  "type": "node",
+  "id": 2397693610,
+  "lat": 49.0080979,
+  "lon": 2.1957283
+},
+{
+  "type": "node",
+  "id": 2397693612,
+  "lat": 49.0083277,
+  "lon": 2.1948779
+},
+{
+  "type": "node",
+  "id": 2512509345,
+  "lat": 48.7957158,
+  "lon": 2.1356365
+},
+{
+  "type": "node",
+  "id": 2512509346,
+  "lat": 48.7958110,
+  "lon": 2.1359944
+},
+{
+  "type": "node",
+  "id": 2512532539,
+  "lat": 48.7951480,
+  "lon": 2.1360659
+},
+{
+  "type": "node",
+  "id": 2512532541,
+  "lat": 48.7953640,
+  "lon": 2.1359918
+},
+{
+  "type": "node",
+  "id": 2512532545,
+  "lat": 48.7953078,
+  "lon": 2.1360101
+},
+{
+  "type": "node",
+  "id": 2513372613,
+  "lat": 48.7951090,
+  "lon": 2.1360794
+},
+{
+  "type": "node",
+  "id": 2514502892,
+  "lat": 48.7950733,
+  "lon": 2.1361766
+},
+{
+  "type": "node",
+  "id": 2514502895,
+  "lat": 48.7951816,
+  "lon": 2.1360541
+},
+{
+  "type": "node",
+  "id": 2514502897,
+  "lat": 48.7952365,
+  "lon": 2.1360353
+},
+{
+  "type": "node",
+  "id": 2530484365,
+  "lat": 48.8645361,
+  "lon": 2.2722445
+},
+{
+  "type": "node",
+  "id": 2530638777,
+  "lat": 48.7996920,
+  "lon": 2.1842867
+},
+{
+  "type": "node",
+  "id": 2530639926,
+  "lat": 48.8199080,
+  "lon": 2.2591900
+},
+{
+  "type": "node",
+  "id": 2530639945,
+  "lat": 48.8200760,
+  "lon": 2.2591710
+},
+{
+  "type": "node",
+  "id": 2531379899,
+  "lat": 48.7997121,
+  "lon": 2.1845055
+},
+{
+  "type": "node",
+  "id": 2531379906,
+  "lat": 48.7997327,
+  "lon": 2.1844413
+},
+{
+  "type": "node",
+  "id": 2531458931,
+  "lat": 48.8007365,
+  "lon": 2.1714794
+},
+{
+  "type": "node",
+  "id": 2531458934,
+  "lat": 48.8007378,
+  "lon": 2.1713418
+},
+{
+  "type": "node",
+  "id": 2531490174,
+  "lat": 48.8079706,
+  "lon": 2.2409231
+},
+{
+  "type": "node",
+  "id": 2531888728,
+  "lat": 48.8644010,
+  "lon": 2.2722489
+},
+{
+  "type": "node",
+  "id": 2532408741,
+  "lat": 48.7877164,
+  "lon": 2.0442664
+},
+{
+  "type": "node",
+  "id": 2532408755,
+  "lat": 48.7877269,
+  "lon": 2.0442852
+},
+{
+  "type": "node",
+  "id": 2532408799,
+  "lat": 48.7879306,
+  "lon": 2.0444022
+},
+{
+  "type": "node",
+  "id": 2554833622,
+  "lat": 49.0077995,
+  "lon": 2.1967131
+},
+{
+  "type": "node",
+  "id": 2578820637,
+  "lat": 48.7717855,
+  "lon": 2.4353289
+},
+{
+  "type": "node",
+  "id": 2582696661,
+  "lat": 48.7714480,
+  "lon": 2.4351584
+},
+{
+  "type": "node",
+  "id": 2582696663,
+  "lat": 48.7718211,
+  "lon": 2.4351666
+},
+{
+  "type": "node",
+  "id": 2582696664,
+  "lat": 48.7714836,
+  "lon": 2.4349962
+},
+{
+  "type": "node",
+  "id": 2671553316,
+  "lat": 48.7718056,
+  "lon": 2.4352370
+},
+{
+  "type": "node",
+  "id": 2671637550,
+  "lat": 48.7715149,
+  "lon": 2.4351922
+},
+{
+  "type": "node",
+  "id": 2673353481,
+  "lat": 48.7718164,
+  "lon": 2.4351882
+},
+{
+  "type": "node",
+  "id": 2868375749,
+  "lat": 48.5709485,
+  "lon": 2.4331885
+},
+{
+  "type": "node",
+  "id": 2868375768,
+  "lat": 48.5710028,
+  "lon": 2.4333727
+},
+{
+  "type": "node",
+  "id": 2969507281,
+  "lat": 48.6762363,
+  "lon": 2.3333938
+},
+{
+  "type": "node",
+  "id": 3190049019,
+  "lat": 48.7706140,
+  "lon": 2.3100920
+},
+{
+  "type": "node",
+  "id": 3325989671,
+  "lat": 48.8050905,
+  "lon": 2.4860373
+},
+{
+  "type": "node",
+  "id": 3325989677,
+  "lat": 48.8050208,
+  "lon": 2.4854713
+}
+
+  ]
+}

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>d765423c-afae-464b-b895-e0d6b49d7d9d</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>InfoGare</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Converter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Helpers\GareHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Helpers\InfoGareHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Helpers\MissionHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Managers\AppStateManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Managers\ErrorManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Managers\InfoTrafficManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Managers\BinaryManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Models\Animations\SideScrollAnimation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Models\Gare.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Models\GeoProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Models\Mission.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Models\MonRer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Models\Presenters\DetailedDessertePresenter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Models\Presenters\GareSuggestionPresenter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Models\Presenters\InfoTrafficPresenter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Models\Presenters\TutorialElementPresenter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Models\Ratp.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\StoreHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\TrigrammeStation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\DetailedDessertePanel.xaml.cs">
+      <DependentUpon>DetailedDessertePanel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\InfotrafficPane.xaml.cs">
+      <DependentUpon>InfotrafficPane.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Enums\BackgroundType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Enums\LineType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Enums\TrafficInfoDegree.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Enums\VehiculeType.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Fonts\helvetica.otf" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\icon\A-150x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\icon\B-150x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\icon\C-150x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\icon\D-150x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\icon\E-150x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\icon\H-150x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\icon\J-150x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\icon\K-150x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\icon\L-150x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\icon\N-150x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\icon\P-150x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\icon\R-150x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\icon\T4-150x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\icon\U-150x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\A.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\B.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\C.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\D.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\E.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\H.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\J.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\K.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\L.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\N.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\P.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\R.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\rer.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\rer_blue.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\sncf.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\T4.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\TER.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\train.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Lines\U.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Media\backgroundMotion.mov.wmv" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Slide\1.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Slide\2.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Slide\3.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Social\email.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Social\linkedin.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Social\twitter.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Tutorials\DidYouKnow1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Tutorials\DidYouKnow2.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Tutorials\DidYouKnow3.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Tutorials\DidYouKnow4.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\UI\ribbon.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\UI\warning.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)Data\GeoProvider.json" />
+    <Content Include="$(MSBuildThisFileDirectory)Data\TrigrammeData.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <PRIResource Include="$(MSBuildThisFileDirectory)Strings\en-US\Resources.resw" />
+    <PRIResource Include="$(MSBuildThisFileDirectory)Strings\fr-FR\Resources.resw" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="$(MSBuildThisFileDirectory)Controls\DetailedDessertePanel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Controls\InfotrafficPane.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)Assets\NewFolder\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,37 @@
+﻿<Page
+    x:Class="InfoGare.AppStates.AboutState"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Background="#FF012060">
+
+    <Grid>
+        <StackPanel Margin="5,0" VerticalAlignment="Top">
+            <Image Margin="0,0,1,0" Source="ms-appx:///Assets/868x420.png" HorizontalAlignment="Center" VerticalAlignment="Top" Height="143"/>
+            <TextBlock Margin="0,20,10,20" TextWrapping="Wrap" Text="V 1.0" VerticalAlignment="Center" FontSize="30" TextAlignment="Right"/>
+            <Button x:Uid="RateApp"  x:Name="RateApp" Content="Évaluer l'application" HorizontalAlignment="Stretch" VerticalAlignment="Top" Background="#FF041C4D" BorderBrush="{x:Null}" MinHeight="57" Margin="0,-5,0,0" Foreground="#FFD4F516" Tapped="RateApp_Tapped" FontSize="21"/>
+            <Button x:Uid="OthApp"  x:Name="OtherApps" Content="Mes autres applications" HorizontalAlignment="Stretch" VerticalAlignment="Top" Background="#FF041C4D" BorderBrush="{x:Null}" MinHeight="57" Margin="0,-5,0,0" Foreground="White" Tapped="OtherApps_Tapped" FontSize="21"/>
+            <Button x:Uid="Changelog" x:Name="Changelog" HorizontalAlignment="Stretch" VerticalAlignment="Top" Background="#FF041C4D" BorderBrush="{x:Null}" MinHeight="57" Margin="0,-5,0,0" Content="Historique des changements" Tapped="Changelog_Tapped" FontSize="21"/>
+        </StackPanel>
+        <GridView Margin="0,0,0,20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Bottom" BorderThickness="0,0,0,25">
+
+            <StackPanel x:Name="Twitter" VerticalAlignment="Center" Margin="0,0,20,0" HorizontalAlignment="Left" Tapped="Twitter_Tapped">
+                <Image HorizontalAlignment="Center" Height="85" VerticalAlignment="Top" Width="85" Source="ms-appx:///Assets/twitter.png" NineGrid="0"/>
+                <TextBlock TextWrapping="Wrap" VerticalAlignment="Top" FontSize="17" TextAlignment="Center" Margin="0,5,0,0">
+        			<Run Text="Follow me"/>
+        			<Run Text=" ☺"/>
+                </TextBlock>
+            </StackPanel>
+            <StackPanel x:Name="Linkedin" VerticalAlignment="Center" Margin="0" Tapped="Linkedin_Tapped">
+                <Image HorizontalAlignment="Center" Height="85" VerticalAlignment="Top" Width="85" Source="ms-appx:///Assets/linkedin.png" Margin="0"/>
+                <TextBlock x:Uid="ldin" TextWrapping="Wrap" Text="Mon Linkedin" VerticalAlignment="Top" FontSize="17" TextAlignment="Center" Margin="0,5,0,0"/>
+            </StackPanel>
+            <StackPanel x:Name="Bug" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="20,0,0,0" Tapped="Bug_Tapped">
+                <Image HorizontalAlignment="Center" Height="85" VerticalAlignment="Top" Width="85" Source="ms-appx:///Assets/email.png" NineGrid="0"/>
+                <TextBlock x:Uid="Bug" TextWrapping="Wrap" Text="Un bug ?" VerticalAlignment="Top" FontSize="17" TextAlignment="Center" Margin="0,5,0,0"/>
+            </StackPanel>
+        </GridView>
+
+    </Grid>
+</Page>

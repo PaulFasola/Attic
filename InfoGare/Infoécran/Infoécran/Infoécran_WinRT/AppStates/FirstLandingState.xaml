@@ -1,0 +1,104 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Infoécran.AppStates"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UserControl="using:Infoécran.UserControl"
+    xmlns:userControl="using:Infoécran_WinRT.UserControl"
+    x:Class="Infoécran.AppStates.FirstLandingState"
+    mc:Ignorable="d" Background="#FF012060">
+
+    <Grid>
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="21*"/>
+        </Grid.RowDefinitions>
+
+
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Grid.RowSpan="2">
+            <StackPanel x:Name="SPContainer" Orientation="Horizontal" Margin="-10,0,10,0">
+                <FlyoutBase.AttachedFlyout>
+                    <Flyout>
+                        <Grid Height="100" Width="100"/>
+                    </Flyout>
+                </FlyoutBase.AttachedFlyout>
+                <Grid>
+                    <userControl:InfoPane Margin="0,0,0,205"></userControl:InfoPane>
+                    <UserControl:Favorites x:Name="Favorites" MinHeight="200" VerticalAlignment="Bottom"/>
+                </Grid>
+                <Grid x:Name="MainPane" Tapped="MainPane_Tapped">
+                    <Grid.Background>
+                        <ImageBrush Stretch="UniformToFill" ImageSource="ms-appx:///Assets/Slide/1.jpg" Opacity="0.8"/>
+                    </Grid.Background>
+                    <StackPanel x:Name="MainLoader" Margin="0,158,0,0" VerticalAlignment="Top" d:IsHidden="True">
+                        <TextBlock x:Name="Loader" Margin="0" TextWrapping="Wrap" Text="Chargement des gares..." FontSize="24" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <ProgressBar Height="10" VerticalAlignment="Stretch" Foreground="White" Background="{x:Null}" IsIndeterminate="True"/>
+                    </StackPanel>
+                    <Grid x:Name="Maingrid" Margin="0,50,0,0" VerticalAlignment="Top" UseLayoutRounding="False" d:LayoutRounding="Auto">
+                        <Grid.Background>
+                            <ImageBrush Stretch="Fill"/>
+                        </Grid.Background>
+                        <Grid.RenderTransform>
+                            <CompositeTransform Rotation="0.226" TranslateX="0" TranslateY="0"/>
+                        </Grid.RenderTransform>
+
+                        <TextBlock x:Uid="GareSelection" HorizontalAlignment="Left" Margin="20,0,0,0" TextWrapping="Wrap" Text="Séléctionnez une gare" VerticalAlignment="Top" FontSize="48"/>
+                    </Grid>
+                    <Grid Margin="0" VerticalAlignment="Bottom">
+                        <Grid.Background>
+                            <SolidColorBrush Color="#FFBF9090" Opacity="0.25"/>
+                        </Grid.Background>
+                        <StackPanel x:Name="MenuButton" Margin="0" VerticalAlignment="Bottom" Orientation="Horizontal" ScrollViewer.VerticalScrollBarVisibility="Disabled" HorizontalAlignment="Center">
+                            <AppBarButton x:Name="Settings" HorizontalAlignment="Stretch" Label="" Margin="0,0,20,0" VerticalAlignment="Center">
+                                <AppBarButton.Icon>
+                                    <SymbolIcon Symbol="Setting" Margin="0.167,0,0.166,0"/>
+                                </AppBarButton.Icon>
+                            </AppBarButton>
+                            <AppBarButton x:Name="About" HorizontalAlignment="Stretch" Label="" Margin="0,0,20,0" VerticalAlignment="Center" Tapped="About_Tapped">
+                                <AppBarButton.Icon>
+                                    <SymbolIcon Symbol="Account" Margin="0.167,0,0.166,0"/>
+                                </AppBarButton.Icon>
+                            </AppBarButton>
+                        </StackPanel>
+                    </Grid>
+                    <StackPanel x:Name="SecondaryPanel" Margin="50,0,150,0" VerticalAlignment="Center">
+                        <TextBox x:Name="Searchbox" Margin="0" TextWrapping="Wrap" VerticalAlignment="Center" BorderBrush="White" TextChanged="Searchbox_TextChanged" FontSize="24" PlaceholderText="Exemple : Andrézy" GotFocus="SuggestionBox_GotFocus"/>
+                        <ListBox x:Name="SuggestionBoxProposer" Height="247" Margin="0" VerticalAlignment="Center" BorderThickness="2,0,2,2" SelectionChanged="SuggestionBoxProposer_SelectionChanged" LostFocus="SuggestionBoxProposer_LostFocus" FontSize="19">
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel x:Name="SuggestionBox" Orientation="Horizontal">
+                                        <Image Width="35" Height="35" Stretch="UniformToFill" x:Name="GareLogo" Source="{Binding Logo}"/>
+                                        <TextBlock Margin="15,0,0,0" Text="{Binding GareName}"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </StackPanel>
+                    <Image x:Name="logo" Margin="0,0,186,0" VerticalAlignment="Top" Source="ms-appx:///Assets/868x420.png" Width="300" HorizontalAlignment="Center"/>
+                    <StackPanel x:Name="GeoLoadingModule" VerticalAlignment="Top" Margin="0">
+                        <TextBlock x:Name="GeoLoadingText" TextWrapping="Wrap" Text="TextBlock" Margin="3,0,0,0" FontSize="14"/>
+                        <ProgressBar Margin="0" Foreground="White" Background="{x:Null}" BorderBrush="{x:Null}" FontSize="18" Height="8" IsIndeterminate="True"/>
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
+        </Grid>
+        <Grid x:Name="LoadingModule" Grid.RowSpan="3" d:IsHidden="True">
+            <Grid.Background>
+                <SolidColorBrush Color="Black" Opacity="0.7"/>
+            </Grid.Background>
+            <TextBlock x:Name="LoadingText" Margin="0" TextWrapping="Wrap" Text="Chargement " VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="24"/>
+            <ProgressBar x:Name="Loadbar" Margin="0,50,0,0" VerticalAlignment="Center" FontSize="20" Foreground="White" IsIndeterminate="True"/>
+        </Grid>
+    </Grid>
+</Page>

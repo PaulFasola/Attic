@@ -1,0 +1,17 @@
+﻿<UserControl
+    x:Class="InfoGare.UserControl.HeaderStation"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="130" Width="580"> 
+    <Grid Background="White">
+        <Grid>
+            <Button x:Name="backButton" Margin="30,0,0,0" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}" Style="{StaticResource NavigationBackButtonNormalStyle}" RequestedTheme="Light" VerticalAlignment="Center" HorizontalAlignment="Left" Tapped="backButton_Tapped" />
+            <TextBlock x:Name="StationName" FontSize="41" FontFamily="ms-appx:/Assets/Fonts/helvetica.otf#Helvetica LT Std Cond" Foreground="#FF000080" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="100,5,0,0"/>
+            <Viewbox Tapped="Viewbox_Tapped" Width="40" Height="40" HorizontalAlignment="Right" Margin="0,0,55,0">
+                <Path x:Name="Favorite" Width="50" Height="50" Stretch="Uniform" UseLayoutRounding="False" Data="F1 M7.7048998,-0.65649998 L5.8038998,4.9054999 L-9.9999997E-05,4.9415002 L4.6279001,8.5225 L2.9428999,13.9995 L7.7048998,10.7595 L12.4679,13.9995 L10.7829,8.5225 L15.4109,4.9415002 L9.6078997,4.9054999 z" HorizontalAlignment="Center" Margin="0" Stroke="Black" VerticalAlignment="Center"/>
+            </Viewbox>
+        </Grid>
+    </Grid>
+</UserControl>

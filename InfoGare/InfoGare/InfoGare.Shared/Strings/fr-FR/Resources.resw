@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ApiKeyError" xml:space="preserve">
+    <value>Nous n'avons pas pu vous localiser...</value>
+  </data>
+  <data name="Bug.Text" xml:space="preserve">
+    <value>Un bug ?</value>
+  </data>
+  <data name="CantLocalize" xml:space="preserve">
+    <value>Nous n'avons pas pu vous localiser... Pour ré-activer cette option, accèdez aux paramètres de l'application, section "Permission"puis activez "Localisation". (+ d'info : http://goo.gl/4oPYso)</value>
+  </data>
+  <data name="Changelog.Content" xml:space="preserve">
+    <value>Historique des changements</value>
+  </data>
+  <data name="Favorite.Label" xml:space="preserve">
+    <value>ajouter cette station en favoris</value>
+  </data>
+  <data name="GareSelection.Text" xml:space="preserve">
+    <value>Séléctionnez une gare</value>
+  </data>
+  <data name="InfoAppli.Text" xml:space="preserve">
+    <value>Cette application n'est pas une application SNCF/Ratp officielle.</value>
+  </data>
+  <data name="InfoAppliPopup" xml:space="preserve">
+    <value>Cette application n'est pas une application SNCF/Ratp officielle. Les informations affichées peuvent être inexactes concernant les retards ou suppressions éventuelles.</value>
+  </data>
+  <data name="ldin.Text" xml:space="preserve">
+    <value>Mon Linkedin</value>
+  </data>
+  <data name="LoadingGeoStation" xml:space="preserve">
+    <value>Construction de l'index des stations...</value>
+  </data>
+  <data name="LoadingInfoGare" xml:space="preserve">
+    <value>Chargement du panneau infogare....</value>
+  </data>
+  <data name="LoadingStations" xml:space="preserve">
+    <value>Chargement des informations de stations...</value>
+  </data>
+  <data name="Localizing" xml:space="preserve">
+    <value>Recherche de la plus proche station en cours...</value>
+  </data>
+  <data name="LookGare" xml:space="preserve">
+    <value>Détermination des stations...</value>
+  </data>
+  <data name="NoData" xml:space="preserve">
+    <value>Il n'y pas de données pour cette gare actuellement. - Verifiez que votre appareil dispose toujours d'une connexion à internet ou retentez plus tard.</value>
+  </data>
+  <data name="NoFavorites" xml:space="preserve">
+    <value>Vous n'avez pas de favoris.</value>
+  </data>
+  <data name="NoInternet" xml:space="preserve">
+    <value>Oups... nous n'avons pas pu récupérer les données, ètes-vous toujours connecté à internet ?</value>
+  </data>
+  <data name="OthApp.Content" xml:space="preserve">
+    <value>Mes autres applications</value>
+  </data>
+  <data name="RateApp.Content" xml:space="preserve">
+    <value>Évaluer cette application</value>
+  </data>
+  <data name="FavoriteStation.Text" xml:space="preserve">
+    <value>Stations favorites</value>
+  </data>
+  <data name="ActionTerminated" xml:space="preserve">
+    <value>Action terminée avec succès</value>
+  </data>
+  <data name="AlreadyBuy" xml:space="preserve">
+    <value>Oups, il semblerait que vous possediez déjà cet achat !</value>
+  </data>
+  <data name="BookmarkedSuccess" xml:space="preserve">
+    <value>Station ajoutée au favoris avec succès</value>
+  </data>
+  <data name="BuyError" xml:space="preserve">
+    <value>Une erreur est survenue lors de l'achat... ce dernier n'a pas pu être terminé (vous ne serez pas débité).</value>
+  </data>
+  <data name="CantPinApp" xml:space="preserve">
+    <value>impossible d'ajouter la station à l'accueil</value>
+  </data>
+  <data name="ClearBookmarks.Content" xml:space="preserve">
+    <value>effacer les favoris</value>
+  </data>
+  <data name="ClearHistory.Content" xml:space="preserve">
+    <value>effacer l'historique</value>
+  </data>
+  <data name="CloseBtn.Content" xml:space="preserve">
+    <value>Fermer</value>
+  </data>
+  <data name="DidUKnow.Text" xml:space="preserve">
+    <value>Le s'app'viez-vous ?</value>
+  </data>
+  <data name="didunknowop.Header" xml:space="preserve">
+    <value>panneau 'le saviez vous'</value>
+  </data>
+  <data name="DidYouKnow1" xml:space="preserve">
+    <value>Vous pouvez accèder au détail de chaque train présenté sur le panneau d'infogare en tappant sur la ligne concernée. Animations, temps restant... comme l'original ! L'essayer, c'est l'adopter !</value>
+  </data>
+  <data name="DidYouKnow2" xml:space="preserve">
+    <value>A partir de l'accueil, vous pouvez accèder à vos favoris, aux options ainsi qu'a l'historique de recherche (directement intégré dans la barre de recherche). Pour tout supprimer, visitez les paramètres !</value>
+  </data>
+  <data name="DidYouKnow3" xml:space="preserve">
+    <value>Vous pouvez mettre vos stations préférées en favoris ou encore les ajouter directement sur votre écran d'accueil !</value>
+  </data>
+  <data name="DidYouKnow4" xml:space="preserve">
+    <value>Pour un achat in-app acheté, l'ensemble des fonctionnalités sont supprimées et les pubs retirées !</value>
+  </data>
+  <data name="DismissBtn.Content" xml:space="preserve">
+    <value>Ne plus voir</value>
+  </data>
+  <data name="localisationop.Header" xml:space="preserve">
+    <value>Détection station la plus proche</value>
+  </data>
+  <data name="PinApp" xml:space="preserve">
+    <value>ajouter cette station à l'accueil</value>
+  </data>
+  <data name="RemAds.Content" xml:space="preserve">
+    <value>retirer les publicités</value>
+  </data>
+  <data name="RemoveAds.Label" xml:space="preserve">
+    <value>retirer les publicités</value>
+  </data>
+  <data name="Privacy.Content" xml:space="preserve">
+    <value>déclaration de confidentialité</value>
+  </data>
+  <data name="ShowAllStations" xml:space="preserve">
+    <value>Voir toutes les stations</value>
+  </data>
+  <data name="WindowError" xml:space="preserve">
+    <value>Impossible de créer la fenêtre, le nombre maximal est atteint.</value>
+  </data>
+  <data name="Favourite.Content" xml:space="preserve">
+    <value>Favoris</value>
+  </data>
+  <data name="Animate.Header" xml:space="preserve">
+    <value>Écran d'accueil animé</value>
+  </data>
+  <data name="ColorBlind.Header" xml:space="preserve">
+    <value>Mode daltonien</value>
+  </data>
+  <data name="About.Content" xml:space="preserve">
+    <value>A propos</value>
+  </data>
+  <data name="Animate.OffContent" xml:space="preserve">
+    <value>Désactivé</value>
+  </data>
+  <data name="Animate.OnContent" xml:space="preserve">
+    <value>Activé</value>
+  </data>
+  <data name="BuySuccess" xml:space="preserve">
+    <value>Merci pour votre achat ! Maintenant, vous pouvez mettre les stations de votre choix en favoris et naviguer sans pub ! (rédémarrez l'application si vous ne constatez pas de changement)</value>
+  </data>
+  <data name="ColorBlind.OffContent" xml:space="preserve">
+    <value>Activé</value>
+  </data>
+  <data name="ColorBlind.OnContent" xml:space="preserve">
+    <value>Désactivé</value>
+  </data>
+  <data name="NotPremium" xml:space="preserve">
+    <value>Pour pouvoir ajouter des stations en favoris, avoir le détail des stations déservies et informations sur la gare,  naviguer sans publicité ou avoir les informations du traffic en temps réel par ligne, vous devez passer en version complète. 
+
+Pour cela, rendez vous dans la section "A propos" de l'application puis cliquez sur le bouton "Passer en version complète" !</value>
+  </data>
+  <data name="RemoveAd.Content" xml:space="preserve">
+    <value>Passer en version complète et sans pub</value>
+  </data>
+  <data name="Settings.Content" xml:space="preserve">
+    <value>Paramètres</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Une erreur est survenue, merci de retenter. Si l'erreur se reproduit, merci de signaler le problème via la section "A propos".</value>
+  </data>
+  <data name="FavClearSuccess" xml:space="preserve">
+    <value>Tous les favoris ont étés supprimés.</value>
+  </data>
+  <data name="FavStations" xml:space="preserve">
+    <value>✪ Stations favorites</value>
+  </data>
+  <data name="CrucialDataError" xml:space="preserve">
+    <value>InfoGare a besoin de données stockées en ligne pour les horaires en temps réel. 
+Merci de vous connecter à internet et de relancer l'application par la suite.</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>Chargement</value>
+  </data>
+</root>

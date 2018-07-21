@@ -1,0 +1,2883 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Gare>
+    <Trigramme>AB</Trigramme>
+    <StationName>Aulnay sous Bois</StationName>
+    <Uic>8727141</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ABL</Trigramme>
+    <StationName>Ablon</StationName>
+    <Uic>8754526</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ACW</Trigramme>
+    <StationName>Achères-Ville</StationName>
+    <Uic>8738165</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>AEE</Trigramme>
+    <StationName>Asnières sur Seine</StationName>
+    <Uic>8738113</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>AEH</Trigramme>
+    <StationName>Aubergenville Élisabethville</StationName>
+    <Uic>8738673</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>AHM</Trigramme>
+    <StationName>Avenue Henri Martin</StationName>
+    <Uic>8738104</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ALC</Trigramme>
+    <StationName>Aubervilliers La Courneuve</StationName>
+    <Uic>8727130</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ANY</Trigramme>
+    <StationName>Andrésy</StationName>
+    <Uic>8738149</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>APK</Trigramme>
+    <StationName>Avenue du Président Kennedy</StationName>
+    <Uic>8754320</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ARK</Trigramme>
+    <StationName>Arcueil Cachan</StationName>
+    <Uic>8775867</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ARP</Trigramme>
+    <StationName>Arpajon</StationName>
+    <Uic>8754546</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ARW</Trigramme>
+    <StationName>Argenteuil</StationName>
+    <Uic>8738184</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ATH</Trigramme>
+    <StationName>Athis Mons</StationName>
+    <Uic>8754525</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ATW</Trigramme>
+    <StationName>Antony</StationName>
+    <Uic>8775875</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>AUU</Trigramme>
+    <StationName>Auber</StationName>
+    <Uic>8775859</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>AUW</Trigramme>
+    <StationName>Auvers-sur-Oise</StationName>
+    <Uic>8727654</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>AVF</Trigramme>
+    <StationName>Avenue Foch</StationName>
+    <Uic>8738103</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BAM</Trigramme>
+    <StationName>Blanc Mesnil</StationName>
+    <Uic>8727147</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BBN</Trigramme>
+    <StationName>La Borne Blanche</StationName>
+    <Uic>8727628</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BCO</Trigramme>
+    <StationName>Bois Colombes</StationName>
+    <Uic>8738107</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BDE</Trigramme>
+    <StationName>Sevran Beaudottes</StationName>
+    <Uic>8727144</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BDY</Trigramme>
+    <StationName>Bondy</StationName>
+    <Uic>8711340</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BEC</Trigramme>
+    <StationName>Bécon les Bruyères</StationName>
+    <Uic>8738200</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BEL</Trigramme>
+    <StationName>Saint-Germain-en-Laye Bel Air Fourqueux</StationName>
+    <Uic>8736692</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BFM</Trigramme>
+    <StationName>Bibliothèque François Mitterrand</StationName>
+    <Uic>8732832</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BFX</Trigramme>
+    <StationName>Le Bras de Fer</StationName>
+    <Uic>8768139</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BGK</Trigramme>
+    <StationName>Bagneux</StationName>
+    <Uic>8775868</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BGV</Trigramme>
+    <StationName>Bougival</StationName>
+    <Uic>8738244</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BIH</Trigramme>
+    <StationName>Breuillet Bruyères le Chatel</StationName>
+    <Uic>8754548</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BIS</Trigramme>
+    <StationName>Bièvres</StationName>
+    <Uic>8739354</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BJN</Trigramme>
+    <StationName>Boutigny</StationName>
+    <Uic>8768147</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BJR</Trigramme>
+    <StationName>Bois Le Roi</StationName>
+    <Uic>8768220</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BKR</Trigramme>
+    <StationName>Boissise-le-Roi</StationName>
+    <Uic>8768251</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BLA</Trigramme>
+    <StationName>Boissy-l'Aillerie</StationName>
+    <Uic>8738115</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BLU</Trigramme>
+    <StationName>Bellevue</StationName>
+    <Uic>8739311</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BNR</Trigramme>
+    <StationName>Bonnières</StationName>
+    <Uic>8741589</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BNY</Trigramme>
+    <StationName>Brunoy</StationName>
+    <Uic>8768212</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BOF</Trigramme>
+    <StationName>Bouffemont Moisselles</StationName>
+    <Uic>8727648</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BOM</Trigramme>
+    <StationName>Bourron Marlotte Grez</StationName>
+    <Uic>8768411</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BQA</Trigramme>
+    <StationName>Bry sur Marne</StationName>
+    <Uic>8775832</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BQC</Trigramme>
+    <StationName>Les Baconnets</StationName>
+    <Uic>8775877</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BQQ</Trigramme>
+    <StationName>Bourg la Reine</StationName>
+    <Uic>8775869</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BQV</Trigramme>
+    <StationName>Buno-Gironville</StationName>
+    <Uic>8768151</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BRK</Trigramme>
+    <StationName>Bruyères-sur-Oise</StationName>
+    <Uic>8727645</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BRN</Trigramme>
+    <StationName>Boran-sur-Oise</StationName>
+    <Uic>8727644</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BRW</Trigramme>
+    <StationName>Breuillet Village</StationName>
+    <Uic>8754549</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BSO</Trigramme>
+    <StationName>Bouray</StationName>
+    <Uic>8754517</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BSR</Trigramme>
+    <StationName>Bessancourt</StationName>
+    <Uic>8727664</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BSW</Trigramme>
+    <StationName>Belloy - Saint-Martin</StationName>
+    <Uic>8727655</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BUR</Trigramme>
+    <StationName>Ballancourt</StationName>
+    <Uic>8768143</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BVA</Trigramme>
+    <StationName>Bréval</StationName>
+    <Uic>8738162</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BVI</Trigramme>
+    <StationName>Pont du Garigliano</StationName>
+    <Uic>8739332</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BVJ</Trigramme>
+    <StationName>Bures sur Yvette</StationName>
+    <Uic>8775885</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BWI</Trigramme>
+    <StationName>Boigneville</StationName>
+    <Uic>8768440</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BWR</Trigramme>
+    <StationName>Boulainvilliers</StationName>
+    <Uic>8754318</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BXG</Trigramme>
+    <StationName>Bussy Saint-Georges</StationName>
+    <Uic>8775498</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BXI</Trigramme>
+    <StationName>Boussy Saint-Antoine</StationName>
+    <Uic>8768213</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BXN</Trigramme>
+    <StationName>Bagneaux sur Loing</StationName>
+    <Uic>8768419</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BXP</Trigramme>
+    <StationName>Les Boullereaux Champigny</StationName>
+    <Uic>8711377</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BXR</Trigramme>
+    <StationName>Boissy Saint-Léger</StationName>
+    <Uic>8775820</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BY</Trigramme>
+    <StationName>Brétigny</StationName>
+    <Uic>8754519</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>BYS</Trigramme>
+    <StationName>Beynes</StationName>
+    <Uic>8739336</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CAZ</Trigramme>
+    <StationName>Chilly Mazarin</StationName>
+    <Uic>8739363</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CBK</Trigramme>
+    <StationName>Colombes</StationName>
+    <Uic>8738108</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CBV</Trigramme>
+    <StationName>Combs la Ville Quincy</StationName>
+    <Uic>8768214</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CEG</Trigramme>
+    <StationName>Champ de Courses d'Enghien</StationName>
+    <Uic>8727603</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CEJ</Trigramme>
+    <StationName>Cernay</StationName>
+    <Uic>8727606</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CES</Trigramme>
+    <StationName>Cesson</StationName>
+    <Uic>8768216</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CEV</Trigramme>
+    <StationName>Chaumont-en-Vexin</StationName>
+    <Uic>8738122</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CEX</Trigramme>
+    <StationName>Le Coudray-Monceaux</StationName>
+    <Uic>8768163</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CFD</Trigramme>
+    <StationName>Conflans-Fin-d'Oise</StationName>
+    <Uic>8738145</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CGG</Trigramme>
+    <StationName>Chenay Gagny</StationName>
+    <Uic>8711352</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CGJ</Trigramme>
+    <StationName>Champigny</StationName>
+    <Uic>8775817</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CGP</Trigramme>
+    <StationName>Charles de Gaulle-Étoile</StationName>
+    <Uic>8775800</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CGW</Trigramme>
+    <StationName>Coignières</StationName>
+    <Uic>8739327</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CH</Trigramme>
+    <StationName>Chartres</StationName>
+    <Uic>8739400</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CHK</Trigramme>
+    <StationName>Chamarande</StationName>
+    <Uic>8754515</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CHQ</Trigramme>
+    <StationName>Chemin d'Antony</StationName>
+    <Uic>8754631</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CHR</Trigramme>
+    <StationName>Chars</StationName>
+    <Uic>8738119</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CHV</Trigramme>
+    <StationName>Chaville Vélizy</StationName>
+    <Uic>8739317</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CJN</Trigramme>
+    <StationName>Changis Saint-Jean</StationName>
+    <Uic>8711650</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CJR</Trigramme>
+    <StationName>Chartrettes</StationName>
+    <Uic>8768241</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CJV</Trigramme>
+    <StationName>Cergy le Haut</StationName>
+    <Uic>8738265</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CL</Trigramme>
+    <StationName>Creil</StationName>
+    <Uic>8727600</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CLC</Trigramme>
+    <StationName>Crécy-la-Chapelle</StationName>
+    <Uic>8711677</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CLL</Trigramme>
+    <StationName>Clichy Levallois</StationName>
+    <Uic>8738112</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CLR</Trigramme>
+    <StationName>Choisy le Roi</StationName>
+    <Uic>8754528</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CLX</Trigramme>
+    <StationName>Châtelet les Halles</StationName>
+    <Uic>8775860</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CLY</Trigramme>
+    <StationName>Chantilly Gouvieux</StationName>
+    <Uic>8727611</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CMA</Trigramme>
+    <StationName>Clamart</StationName>
+    <Uic>8739156</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CME</Trigramme>
+    <StationName>Champagne sur Seine</StationName>
+    <Uic>8768245</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CO</Trigramme>
+    <StationName>Coulommiers</StationName>
+    <Uic>8711630</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>COE</Trigramme>
+    <StationName>Corbeil Essonnes</StationName>
+    <Uic>8768100</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>COJ</Trigramme>
+    <StationName>Compans</StationName>
+    <Uic>8727204</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CPA</Trigramme>
+    <StationName>Cormeilles en Parisis</StationName>
+    <Uic>8738186</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CPK</Trigramme>
+    <StationName>Champbenoist - Poigny</StationName>
+    <Uic>8711587</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CPM</Trigramme>
+    <StationName>Champ de Mars Tour Eiffel</StationName>
+    <Uic>8739305</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CPO</Trigramme>
+    <StationName>Champagne sur Oise</StationName>
+    <Uic>8727651</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CPW</Trigramme>
+    <StationName>Chaponval</StationName>
+    <Uic>8727616</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CQQ</Trigramme>
+    <StationName>Crouy-sur-Ourcq</StationName>
+    <Uic>8711664</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CSG</Trigramme>
+    <StationName>Chelles Gournay</StationName>
+    <Uic>8711611</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CSH</Trigramme>
+    <StationName>Conflans Sainte Honorine</StationName>
+    <Uic>8738189</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CSY</Trigramme>
+    <StationName>Champigny-sur-Yonne</StationName>
+    <Uic>8768312</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CTH</Trigramme>
+    <StationName>Château Thierry</StationName>
+    <Uic>8711658</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CUF</Trigramme>
+    <StationName>Cité Universitaire</StationName>
+    <Uic>8775864</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CVF</Trigramme>
+    <StationName>Chanteloup les Vignes</StationName>
+    <Uic>8738147</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CVI</Trigramme>
+    <StationName>Chaville Rive Gauche</StationName>
+    <Uic>8739320</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CVW</Trigramme>
+    <StationName>Courcelles sur Yvette</StationName>
+    <Uic>8775888</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CWJ</Trigramme>
+    <StationName>Chaville Rive Droite</StationName>
+    <Uic>8738233</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CYC</Trigramme>
+    <StationName>Cergy Saint-Christophe</StationName>
+    <Uic>8738249</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CYP</Trigramme>
+    <StationName>Cergy Préfecture</StationName>
+    <Uic>8738190</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CYQ</Trigramme>
+    <StationName>Couilly Saint-Germain Quincy</StationName>
+    <Uic>8711673</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CYV</Trigramme>
+    <StationName>Crépy-en-Valois</StationName>
+    <Uic>8727159</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>CYZ</Trigramme>
+    <StationName>Chézy sur Marne</StationName>
+    <Uic>8711657</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>D</Trigramme>
+    <StationName>Dourdan</StationName>
+    <Uic>8754552</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>DA</Trigramme>
+    <StationName>Dourdan la Forêt</StationName>
+    <Uic>8754017</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>DAM</Trigramme>
+    <StationName>Dammartin Juilly-Saint-Mard</StationName>
+    <Uic>8727153</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>DDI</Trigramme>
+    <StationName>Dordives</StationName>
+    <Uic>8768423</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>DEU</Trigramme>
+    <StationName>Deuil Montmagny</StationName>
+    <Uic>8727634</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>DFR</Trigramme>
+    <StationName>Denfert Rochereau</StationName>
+    <Uic>8775863</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>DMO</Trigramme>
+    <StationName>Domont</StationName>
+    <Uic>8727643</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>DRN</Trigramme>
+    <StationName>Drancy</StationName>
+    <Uic>8727140</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>DX</Trigramme>
+    <StationName>Dreux</StationName>
+    <Uic>8739348</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ECZ</Trigramme>
+    <StationName>Écouen Ézanville</StationName>
+    <Uic>8727639</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ELW</Trigramme>
+    <StationName>L'Étang-la-Ville</StationName>
+    <Uic>8738247</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ELY</Trigramme>
+    <StationName>Égly</StationName>
+    <Uic>8754547</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>EM</Trigramme>
+    <StationName>Émerainville Pontault Combault</StationName>
+    <Uic>8711604</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>EN</Trigramme>
+    <StationName>Enghien les Bains</StationName>
+    <Uic>8727602</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>EPL</Trigramme>
+    <StationName>Épluches</StationName>
+    <Uic>8727614</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>EPN</Trigramme>
+    <StationName>Épernon</StationName>
+    <Uic>8739411</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>EPO</Trigramme>
+    <StationName>Épone Mézières</StationName>
+    <Uic>8738676</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>EPV</Trigramme>
+    <StationName>Épinay Villetaneuse</StationName>
+    <Uic>8727112</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ERA</Trigramme>
+    <StationName>Éragny Neuville</StationName>
+    <Uic>8738141</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ERM</Trigramme>
+    <StationName>Ermont Halte</StationName>
+    <Uic>8727658</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ERT</Trigramme>
+    <StationName>Ermont Eaubonne</StationName>
+    <Uic>8727605</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ESO</Trigramme>
+    <StationName>Essonnes-Robinson</StationName>
+    <Uic>8768160</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ETP</Trigramme>
+    <StationName>Étampes</StationName>
+    <Uic>8754513</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ETY</Trigramme>
+    <StationName>Étrechy</StationName>
+    <Uic>8754514</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>EVC</Trigramme>
+    <StationName>Évry Courcouronnes</StationName>
+    <Uic>8768138</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>EVR</Trigramme>
+    <StationName>Évry</StationName>
+    <Uic>8768136</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>EY</Trigramme>
+    <StationName>Esbly</StationName>
+    <Uic>8711632</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>EYO</Trigramme>
+    <StationName>Épinay sur Orge</StationName>
+    <Uic>8754522</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>EYS</Trigramme>
+    <StationName>Épinay sur Seine</StationName>
+    <Uic>8727114</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>EYV</Trigramme>
+    <StationName>Étigny Véron</StationName>
+    <Uic>8768320</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>FAF</Trigramme>
+    <StationName>Fontenay le Fleury</StationName>
+    <Uic>8739340</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>FFY</Trigramme>
+    <StationName>Ferrières Fontenay</StationName>
+    <Uic>8768424</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>FMN</Trigramme>
+    <StationName>Fontaine Michalon</StationName>
+    <Uic>8775876</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>FMP</Trigramme>
+    <StationName>Faremoutiers Pommeuse</StationName>
+    <Uic>8711627</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>FMY</Trigramme>
+    <StationName>La Frette Montigny</StationName>
+    <Uic>8738187</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>FNR</Trigramme>
+    <StationName>Fontenay aux Roses</StationName>
+    <Uic>8775871</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>FON</Trigramme>
+    <StationName>Fontainebleau Avon</StationName>
+    <Uic>8768221</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>FPB</Trigramme>
+    <StationName>Franconville Le Plessis Bouchard</StationName>
+    <Uic>8727607</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>FPN</Trigramme>
+    <StationName>Frépillon</StationName>
+    <Uic>8727665</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>FPO</Trigramme>
+    <StationName>Fontaine le Port</StationName>
+    <Uic>8768242</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>FSB</Trigramme>
+    <StationName>Fontenay-sous-Bois</StationName>
+    <Uic>8775812</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GAJ</Trigramme>
+    <StationName>Garges Sarcelles</StationName>
+    <Uic>8727619</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GAQ</Trigramme>
+    <StationName>Garancières la Queue</StationName>
+    <Uic>8739343</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GAW</Trigramme>
+    <StationName>La Défense Grande Arche</StationName>
+    <Uic>8775801</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GBG</Trigramme>
+    <StationName>Grand Bourg</StationName>
+    <Uic>8768135</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GBI</Trigramme>
+    <StationName>Gravigny Balizy</StationName>
+    <Uic>8739364</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GCM</Trigramme>
+    <StationName>Guérard la Celle sur Morin</StationName>
+    <Uic>8711626</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GCR</Trigramme>
+    <StationName>Achères Grand Cormier</StationName>
+    <Uic>8738605</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GDS</Trigramme>
+    <StationName>Paris Nord</StationName>
+    <Uic>8727102</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GEN</Trigramme>
+    <StationName>Gennevilliers</StationName>
+    <Uic>8727120</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GGG</Trigramme>
+    <StationName>Grigny Centre</StationName>
+    <Uic>8768137</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GGV</Trigramme>
+    <StationName>Gargenville</StationName>
+    <Uic>8738156</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GIF</Trigramme>
+    <StationName>Gif sur Yvette</StationName>
+    <Uic>8775887</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GIS</Trigramme>
+    <StationName>Gisors</StationName>
+    <Uic>8738124</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GMC</Trigramme>
+    <StationName>Garches Marnes-la-Coquette</StationName>
+    <Uic>8738225</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GN</Trigramme>
+    <StationName>Gagny</StationName>
+    <Uic>8711351</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GNX</Trigramme>
+    <StationName>Gros Noyer Saint-Prix</StationName>
+    <Uic>8727659</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GOU</Trigramme>
+    <StationName>Goussainville</StationName>
+    <Uic>8727624</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GPA</Trigramme>
+    <StationName>La Grande Paroisse</StationName>
+    <Uic>8768247</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GRL</Trigramme>
+    <StationName>Groslay</StationName>
+    <Uic>8727636</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GTL</Trigramme>
+    <StationName>Gentilly</StationName>
+    <Uic>8775865</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GUW</Trigramme>
+    <StationName>Le Guichet</StationName>
+    <Uic>8775883</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GYN</Trigramme>
+    <StationName>Gare de Lyon RER A</StationName>
+    <Uic>8775858</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GZ</Trigramme>
+    <StationName>Gretz Armainvilliers</StationName>
+    <Uic>8711601</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>GZA</Trigramme>
+    <StationName>Gazeran</StationName>
+    <Uic>8739334</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>HAQ</Trigramme>
+    <StationName>La Hacquinière</StationName>
+    <Uic>8775886</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>HAR</Trigramme>
+    <StationName>Houilles Carrières sur Seine</StationName>
+    <Uic>8738640</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>HER</Trigramme>
+    <StationName>Héricy</StationName>
+    <Uic>8768243</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>HOA</Trigramme>
+    <StationName>Houdan</StationName>
+    <Uic>8739346</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>HRY</Trigramme>
+    <StationName>Herblay</StationName>
+    <Uic>8738188</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>HSL</Trigramme>
+    <StationName>Haussman Saint-Lazare</StationName>
+    <Uic>8728189</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>IAC</Trigramme>
+    <StationName>Isles-Armentières-Congis</StationName>
+    <Uic>8711661</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>IAP</Trigramme>
+    <StationName>L'Isle Adam Parmain</StationName>
+    <Uic>8727652</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>IBM</Trigramme>
+    <StationName>Le Plessis-Chenet</StationName>
+    <Uic>8768162</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>IGY</Trigramme>
+    <StationName>Igny</StationName>
+    <Uic>8739356</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>INV</Trigramme>
+    <StationName>Invalides</StationName>
+    <Uic>8739303</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>IPO</Trigramme>
+    <StationName>Issou Porcheville</StationName>
+    <Uic>8738157</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ISP</Trigramme>
+    <StationName>Issy Val de Seine</StationName>
+    <Uic>8739330</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ISY</Trigramme>
+    <StationName>Issy</StationName>
+    <Uic>8739307</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>IV</Trigramme>
+    <StationName>Ivry sur Seine</StationName>
+    <Uic>8754530</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>JAS</Trigramme>
+    <StationName>Jouy en Josas</StationName>
+    <Uic>8739351</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>JOI</Trigramme>
+    <StationName>Joigny</StationName>
+    <Uic>8768324</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>JOY</Trigramme>
+    <StationName>Jouy</StationName>
+    <Uic>8739415</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>JUZ</Trigramme>
+    <StationName>Juziers</StationName>
+    <Uic>8738155</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>JVL</Trigramme>
+    <StationName>Javel</StationName>
+    <Uic>8739306</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>JVR</Trigramme>
+    <StationName>Joinville-le-Pont</StationName>
+    <Uic>8775814</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>JY</Trigramme>
+    <StationName>Juvisy</StationName>
+    <Uic>8754524</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>KOU</Trigramme>
+    <StationName>Courbevoie</StationName>
+    <Uic>8738220</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>KRW</Trigramme>
+    <StationName>Montgeron Crosne</StationName>
+    <Uic>8768210</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>KVE</Trigramme>
+    <StationName>Les Clairières de Verneuil</StationName>
+    <Uic>8738666</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LAD</Trigramme>
+    <StationName>Les Ardoines</StationName>
+    <Uic>8749210</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LAR</Trigramme>
+    <StationName>Laroche Migennes</StationName>
+    <Uic>8768326</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LBJ</Trigramme>
+    <StationName>La Barre Ormesson</StationName>
+    <Uic>8727117</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LBT</Trigramme>
+    <StationName>Le Bourget</StationName>
+    <Uic>8727139</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LCB</Trigramme>
+    <StationName>La Celle-Saint-Cloud</StationName>
+    <Uic>8738243</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LDU</Trigramme>
+    <StationName>La Défense</StationName>
+    <Uic>8738221</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LEG</Trigramme>
+    <StationName>Les Grésillons</StationName>
+    <Uic>8727214</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LFA</Trigramme>
+    <StationName>La Ferté Alais</StationName>
+    <Uic>8768145</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LFC</Trigramme>
+    <StationName>Louveciennes</StationName>
+    <Uic>8738245</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LFJ</Trigramme>
+    <StationName>La Ferté sous Jouarre</StationName>
+    <Uic>8711651</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LFM</Trigramme>
+    <StationName>La Ferté Milon</StationName>
+    <Uic>8711667</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LGK</Trigramme>
+    <StationName>La Garenne Colombes</StationName>
+    <Uic>8738600</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LGY</Trigramme>
+    <StationName>Lagny Thorigny</StationName>
+    <Uic>8711631</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LIE</Trigramme>
+    <StationName>Saint-Ouen l'Aumône Liesse</StationName>
+    <Uic>8733798</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LIM</Trigramme>
+    <StationName>Limay</StationName>
+    <Uic>8738158</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LIU</Trigramme>
+    <StationName>Lieusaint Moissy</StationName>
+    <Uic>8768215</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LJA</Trigramme>
+    <StationName>Laplace</StationName>
+    <Uic>8775866</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LJU</Trigramme>
+    <StationName>Longjumeau</StationName>
+    <Uic>8739361</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LMU</Trigramme>
+    <StationName>Les Mureaux</StationName>
+    <Uic>8738668</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LNX</Trigramme>
+    <StationName>Les Noues</StationName>
+    <Uic>8727623</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LON</Trigramme>
+    <StationName>Longueville</StationName>
+    <Uic>8711613</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LOV</Trigramme>
+    <StationName>Louvres</StationName>
+    <Uic>8727625</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LPE</Trigramme>
+    <StationName>Le Perray</StationName>
+    <Uic>8739329</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LPN</Trigramme>
+    <StationName>La Plaine Stade de France</StationName>
+    <Uic>8716479</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LQK</Trigramme>
+    <StationName>Liancourt-Saint-Pierre</StationName>
+    <Uic>8738121</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LQN</Trigramme>
+    <StationName>Lognes</StationName>
+    <Uic>8775836</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LSD</Trigramme>
+    <StationName>Le Stade</StationName>
+    <Uic>8738109</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LSI</Trigramme>
+    <StationName>Les Essarts le Roi</StationName>
+    <Uic>8739328</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LSW</Trigramme>
+    <StationName>Les Saules</StationName>
+    <Uic>8754622</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LUZ</Trigramme>
+    <StationName>Luzarches</StationName>
+    <Uic>8727657</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LVZ</Trigramme>
+    <StationName>La Varenne Chennevières</StationName>
+    <Uic>8775818</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LWA</Trigramme>
+    <StationName>Les Vallées</StationName>
+    <Uic>8738630</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LXJ</Trigramme>
+    <StationName>Luxembourg</StationName>
+    <Uic>8775861</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LYO</Trigramme>
+    <StationName>Lardy</StationName>
+    <Uic>8754516</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LYQ</Trigramme>
+    <StationName>Livry sur Seine</StationName>
+    <Uic>8768240</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LYV</Trigramme>
+    <StationName>Les Yvris Noisy Le Grand</StationName>
+    <Uic>8711380</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LZO</Trigramme>
+    <StationName>Lizy-sur-Ourcq</StationName>
+    <Uic>8711663</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>LZV</Trigramme>
+    <StationName>Lozère</StationName>
+    <Uic>8775882</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MAE</Trigramme>
+    <StationName>Maule</StationName>
+    <Uic>8738172</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MAL</Trigramme>
+    <StationName>Malesherbes</StationName>
+    <Uic>8768441</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MAQ</Trigramme>
+    <StationName>Mareuil-sur-Ourcq</StationName>
+    <Uic>8711666</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MBP</Trigramme>
+    <StationName>Montigny Beauchamp</StationName>
+    <Uic>8727608</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MBR</Trigramme>
+    <StationName>Marchezais Broué</StationName>
+    <Uic>8739347</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MDN</Trigramme>
+    <StationName>Meudon</StationName>
+    <Uic>8739310</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MDS</Trigramme>
+    <StationName>Musée d'Orsay</StationName>
+    <Uic>8754730</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MEA</Trigramme>
+    <StationName>Meaux</StationName>
+    <Uic>8711610</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MEL</Trigramme>
+    <StationName>Melun</StationName>
+    <Uic>8768200</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MFA</Trigramme>
+    <StationName>Maisons Alfort Alfortville</StationName>
+    <Uic>8768115</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MFL</Trigramme>
+    <StationName>Montreuil</StationName>
+    <Uic>8738287</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MFY</Trigramme>
+    <StationName>Meudon Val Fleury</StationName>
+    <Uic>8739308</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MGT</Trigramme>
+    <StationName>Magenta</StationName>
+    <Uic>8728187</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MHD</Trigramme>
+    <StationName>Meulan Hardricourt</StationName>
+    <Uic>8738183</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MJM</Trigramme>
+    <StationName>Mareil sur Mauldre</StationName>
+    <Uic>8738171</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MJW</Trigramme>
+    <StationName>Moulin-Galant</StationName>
+    <Uic>8768140</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MKN</Trigramme>
+    <StationName>Montigny sur Loing</StationName>
+    <Uic>8768410</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MKU</Trigramme>
+    <StationName>Montgeroult - Courcelles</StationName>
+    <Uic>8738116</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MLB</Trigramme>
+    <StationName>Marles en Brie</StationName>
+    <Uic>8711622</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MLF</Trigramme>
+    <StationName>Maisons Laffitte</StationName>
+    <Uic>8738642</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MLM</Trigramme>
+    <StationName>Montfort l'Amaury Méré</StationName>
+    <Uic>8739389</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MLR</Trigramme>
+    <StationName>Marly-le-Roi</StationName>
+    <Uic>8738246</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MLV</Trigramme>
+    <StationName>Meriel</StationName>
+    <Uic>8727667</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MNY</Trigramme>
+    <StationName>Mennecy</StationName>
+    <Uic>8768141</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MOF</Trigramme>
+    <StationName>Mortcerf</StationName>
+    <Uic>8711624</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MOR</Trigramme>
+    <StationName>Morêt Veneux les Sablons</StationName>
+    <Uic>8768227</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MP</Trigramme>
+    <StationName>Massy Palaiseau RER B</StationName>
+    <Uic>8775879</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MPJ</Trigramme>
+    <StationName>Mareil-Marly</StationName>
+    <Uic>8738281</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MPU</Trigramme>
+    <StationName>Massy Palaiseau RER C</StationName>
+    <Uic>8739357</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MRK</Trigramme>
+    <StationName>Maurecourt</StationName>
+    <Uic>8738148</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MRT</Trigramme>
+    <StationName>Mormant</StationName>
+    <Uic>8711608</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MS</Trigramme>
+    <StationName>Montargis</StationName>
+    <Uic>8768400</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MSN</Trigramme>
+    <StationName>Maisse</StationName>
+    <Uic>8768148</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MSO</Trigramme>
+    <StationName>Montsoult Maffliers</StationName>
+    <Uic>8727649</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MSX</Trigramme>
+    <StationName>Marolles en Hurepoix</StationName>
+    <Uic>8754518</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MTE</Trigramme>
+    <StationName>Mantes la Jolie</StationName>
+    <Uic>8738150</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MTN</Trigramme>
+    <StationName>Maintenon</StationName>
+    <Uic>8739413</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MTQ</Trigramme>
+    <StationName>Mantes Station</StationName>
+    <Uic>8738159</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MTU</Trigramme>
+    <StationName>Montereau</StationName>
+    <Uic>8768230</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MVC</Trigramme>
+    <StationName>Marne la Vallée Chessy</StationName>
+    <Uic>8775499</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MVH</Trigramme>
+    <StationName>Suresnes Mont Valérien</StationName>
+    <Uic>8738237</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MVP</Trigramme>
+    <StationName>Massy Verrières RER B</StationName>
+    <Uic>8775878</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MVW</Trigramme>
+    <StationName>Massy Verrières RER C</StationName>
+    <Uic>8738328</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MWO</Trigramme>
+    <StationName>Méry sur Oise</StationName>
+    <Uic>8727666</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MXK</Trigramme>
+    <StationName>Mouroux</StationName>
+    <Uic>8711628</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MY</Trigramme>
+    <StationName>Mitry Claye</StationName>
+    <Uic>8727152</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>MYD</Trigramme>
+    <StationName>Montry Condé</StationName>
+    <Uic>8711640</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NAA</Trigramme>
+    <StationName>Nogent l'Artaud Charly</StationName>
+    <Uic>8711656</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NAF</Trigramme>
+    <StationName>Nanterre Préfecture</StationName>
+    <Uic>8775802</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NAN</Trigramme>
+    <StationName>Nangis</StationName>
+    <Uic>8711609</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NAU</Trigramme>
+    <StationName>Nanteuil Saacy</StationName>
+    <Uic>8711655</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NC1</Trigramme>
+    <StationName>Saint-Germain-en-Laye</StationName>
+    <Uic>8775809</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NC2</Trigramme>
+    <StationName>Le Vésinet Le Pecq</StationName>
+    <Uic>8775808</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NC3</Trigramme>
+    <StationName>Nanterre Ville</StationName>
+    <Uic>8775804</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NC4</Trigramme>
+    <StationName>Le Vésinet-Centre</StationName>
+    <Uic>8775807</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NC5</Trigramme>
+    <StationName>Chatou-Croissy</StationName>
+    <Uic>8775806</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NC6</Trigramme>
+    <StationName>Rueil-Malmaison</StationName>
+    <Uic>8775805</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NG</Trigramme>
+    <StationName>La Norville Saint-Germain lès Arpajon</StationName>
+    <Uic>8754545</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NGM</Trigramme>
+    <StationName>Nogent-sur-Marne</StationName>
+    <Uic>8775813</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NH</Trigramme>
+    <StationName>Nanteuil-le-Haudoin</StationName>
+    <Uic>8727157</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NIO</Trigramme>
+    <StationName>Noisy-le-Roi</StationName>
+    <Uic>8739387</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NLP</Trigramme>
+    <StationName>Nogent Le Perreux</StationName>
+    <Uic>8711374</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NO</Trigramme>
+    <StationName>Nointel - Mours</StationName>
+    <Uic>8727675</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NPT</Trigramme>
+    <StationName>Neuilly Porte Maillot</StationName>
+    <Uic>8738102</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NSL</Trigramme>
+    <StationName>Noisiel</StationName>
+    <Uic>8775835</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NSP</Trigramme>
+    <StationName>Nemours Saint-Pierre</StationName>
+    <Uic>8768412</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NSY</Trigramme>
+    <StationName>Noisy Le Sec</StationName>
+    <Uic>8711321</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NTN</Trigramme>
+    <StationName>Nation</StationName>
+    <Uic>8775810</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NUE</Trigramme>
+    <StationName>Neuville Université</StationName>
+    <Uic>8733448</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NUN</Trigramme>
+    <StationName>Nanterre Université</StationName>
+    <Uic>8738631</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NYC</Trigramme>
+    <StationName>Noisy Champs</StationName>
+    <Uic>8775834</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NYG</Trigramme>
+    <StationName>Noisy le Grand Mont d'Est</StationName>
+    <Uic>8775833</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NYP</Trigramme>
+    <StationName>Neuilly Plaisance</StationName>
+    <Uic>8775831</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>NZL</Trigramme>
+    <StationName>Nezel Aulnay</StationName>
+    <Uic>8738173</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>OBP</Trigramme>
+    <StationName>Orangis Bois de l'Épine</StationName>
+    <Uic>8768134</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>OGB</Trigramme>
+    <StationName>Orgerus Behoust</StationName>
+    <Uic>8739344</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ORM</Trigramme>
+    <StationName>Ormoy-Villers</StationName>
+    <Uic>8727158</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ORS</Trigramme>
+    <StationName>Orsay Ville</StationName>
+    <Uic>8775884</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ORY</Trigramme>
+    <StationName>Orry la Ville Coye</StationName>
+    <Uic>8727627</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>OSN</Trigramme>
+    <StationName>Osny</StationName>
+    <Uic>8738114</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>OY</Trigramme>
+    <StationName>Orly Ville</StationName>
+    <Uic>8754620</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>OZF</Trigramme>
+    <StationName>Ozoir la Ferrière</StationName>
+    <Uic>8711602</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PAA</Trigramme>
+    <StationName>Paris Gare de Lyon</StationName>
+    <Uic>8768603</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PAN</Trigramme>
+    <StationName>Pantin</StationName>
+    <Uic>8711320</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PAW</Trigramme>
+    <StationName>Palaiseau Villebon</StationName>
+    <Uic>8775881</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PAX</Trigramme>
+    <StationName>Palaiseau</StationName>
+    <Uic>8775880</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PCX</Trigramme>
+    <StationName>Parc de Sceaux</StationName>
+    <Uic>8775873</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PDM</Trigramme>
+    <StationName>Pont de l'Alma</StationName>
+    <Uic>8739304</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PE</Trigramme>
+    <StationName>Paris Est</StationName>
+    <Uic>8711300</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PEB</Trigramme>
+    <StationName>Persan Beaumont</StationName>
+    <Uic>8727646</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PEX</Trigramme>
+    <StationName>Parc des Expositions</StationName>
+    <Uic>8727148</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PG</Trigramme>
+    <StationName>Plaisir Grignon</StationName>
+    <Uic>8739342</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PIE</Trigramme>
+    <StationName>Plaisir les Clayes</StationName>
+    <Uic>8739362</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PJ</Trigramme>
+    <StationName>Petit Jouy les Loges</StationName>
+    <Uic>8739350</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PKY</Trigramme>
+    <StationName>Porte de Clichy</StationName>
+    <Uic>8711127</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PLB</Trigramme>
+    <StationName>Plessis-Belleville</StationName>
+    <Uic>8727155</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PLY</Trigramme>
+    <StationName>Paris Gare de Lyon</StationName>
+    <Uic>8768600</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PMP</Trigramme>
+    <StationName>Paris Montparnasse</StationName>
+    <Uic>8739100</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>POA</Trigramme>
+    <StationName>Porchefontaine</StationName>
+    <Uic>8739316</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>POP</Trigramme>
+    <StationName>Ponthierry-Pringy</StationName>
+    <Uic>8768252</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PPD</Trigramme>
+    <StationName>Créteil Pompadour</StationName>
+    <Uic>8760880</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PPT</Trigramme>
+    <StationName>Pont-Petit</StationName>
+    <Uic>8727615</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PRF</Trigramme>
+    <StationName>Pierrefitte Stains</StationName>
+    <Uic>8727116</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PRO</Trigramme>
+    <StationName>Provins</StationName>
+    <Uic>8711616</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PRQ</Trigramme>
+    <StationName>Presles - Courcelles</StationName>
+    <Uic>8727650</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PRR</Trigramme>
+    <StationName>Pereire Levallois</StationName>
+    <Uic>8738101</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PRU</Trigramme>
+    <StationName>Pont de Rungis Aéroport d'Orly</StationName>
+    <Uic>8754619</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PRY</Trigramme>
+    <StationName>Pierrelaye</StationName>
+    <Uic>8727609</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PSE</Trigramme>
+    <StationName>Pontoise</StationName>
+    <Uic>8727613</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PSL</Trigramme>
+    <StationName>Paris Saint-Lazare</StationName>
+    <Uic>8738400</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PSY</Trigramme>
+    <StationName>Poissy</StationName>
+    <Uic>8738657</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PTC</Trigramme>
+    <StationName>Pont Cardinet</StationName>
+    <Uic>8738111</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PTX</Trigramme>
+    <StationName>Puteaux</StationName>
+    <Uic>8738238</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PUY</Trigramme>
+    <StationName>Pont-sur-Yonne</StationName>
+    <Uic>8768313</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PV</Trigramme>
+    <StationName>Petit Vaux</StationName>
+    <Uic>8739365</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PWR</Trigramme>
+    <StationName>Port Royal</StationName>
+    <Uic>8775862</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PXO</Trigramme>
+    <StationName>Le Parc de Saint-Maur</StationName>
+    <Uic>8775816</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PYO</Trigramme>
+    <StationName>Précy-sur-Oise</StationName>
+    <Uic>8727641</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PZB</Trigramme>
+    <StationName>Paris Austerlitz</StationName>
+    <Uic>8754702</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>RBI</Trigramme>
+    <StationName>Rosny Bois Perrier</StationName>
+    <Uic>8711369</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>RBT</Trigramme>
+    <StationName>Rambouillet</StationName>
+    <Uic>8739331</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>RF</Trigramme>
+    <StationName>Rungis la Fraternelle</StationName>
+    <Uic>8754629</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>RIS</Trigramme>
+    <StationName>Ris Orangis</StationName>
+    <Uic>8768133</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>RNS</Trigramme>
+    <StationName>Robinson</StationName>
+    <Uic>8775872</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ROB</Trigramme>
+    <StationName>Roissy en Brie</StationName>
+    <Uic>8711603</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>RSB</Trigramme>
+    <StationName>Rosny sous Bois</StationName>
+    <Uic>8711370</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>RSY</Trigramme>
+    <StationName>Aéroport Charles de Gaulle 1</StationName>
+    <Uic>8727146</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>RVM</Trigramme>
+    <StationName>Le Raincy Villemomble</StationName>
+    <Uic>8711347</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>RYR</Trigramme>
+    <StationName>Aéroport Charles de Gaulle 2 TGV</StationName>
+    <Uic>8700147</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SAO</Trigramme>
+    <StationName>Savigny sur Orge</StationName>
+    <Uic>8754523</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SCD</Trigramme>
+    <StationName>Saint-Cloud</StationName>
+    <Uic>8738235</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SCR</Trigramme>
+    <StationName>Saint-Cyr</StationName>
+    <Uic>8739322</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SCW</Trigramme>
+    <StationName>Saint-Chéron</StationName>
+    <Uic>8754550</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SDE</Trigramme>
+    <StationName>Saint-Denis</StationName>
+    <Uic>8727101</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SES</Trigramme>
+    <StationName>Sens</StationName>
+    <Uic>8768300</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SEV</Trigramme>
+    <StationName>Sevran Livry</StationName>
+    <Uic>8727142</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SF</Trigramme>
+    <StationName>Saint-Mammès</StationName>
+    <Uic>8768229</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SFD</Trigramme>
+    <StationName>Stade de France Saint-Denis</StationName>
+    <Uic>8716478</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SGM</Trigramme>
+    <StationName>Saint-Germain-en-Laye Grande Ceinture</StationName>
+    <Uic>8738280</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SGT</Trigramme>
+    <StationName>Saint-Gratien</StationName>
+    <Uic>8727617</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SHL</Trigramme>
+    <StationName>Saint-Michel Notre Dame RER C</StationName>
+    <Uic>8754731</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SHO</Trigramme>
+    <StationName>Saint-Michel sur Orge</StationName>
+    <Uic>8754520</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SJX</Trigramme>
+    <StationName>Saint-Julien-du-Sault</StationName>
+    <Uic>8768322</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SKX</Trigramme>
+    <StationName>Sceaux</StationName>
+    <Uic>8775870</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SLF</Trigramme>
+    <StationName>Saint-Leu la Forêt</StationName>
+    <Uic>8727660</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SLL</Trigramme>
+    <StationName>Sarcelles Saint-Brice</StationName>
+    <Uic>8727638</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SLT</Trigramme>
+    <StationName>Saint-Leu d'Esserent</StationName>
+    <Uic>8727640</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SME</Trigramme>
+    <StationName>Saint-Martin d'Étampes</StationName>
+    <Uic>8754535</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SNB</Trigramme>
+    <StationName>Saint-Nom-la-Bretèche - Forêt de Marly</StationName>
+    <Uic>8738248</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SNM</Trigramme>
+    <StationName>Saint-Rémy lès Chevreuse</StationName>
+    <Uic>8775889</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SNN</Trigramme>
+    <StationName>Sannois</StationName>
+    <Uic>8727618</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SOA</Trigramme>
+    <StationName>Saint-Ouen l'Aumône</StationName>
+    <Uic>8727610</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SOS</Trigramme>
+    <StationName>Saint-Ouen</StationName>
+    <Uic>8727124</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SPI</Trigramme>
+    <StationName>Saint-Piat</StationName>
+    <Uic>8739414</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SPP</Trigramme>
+    <StationName>Souppes Château Landon</StationName>
+    <Uic>8768421</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SQY</Trigramme>
+    <StationName>Saint-Quentin en Yvelines</StationName>
+    <Uic>8739384</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SUR</Trigramme>
+    <StationName>Survilliers Fosses</StationName>
+    <Uic>8727626</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SVL</Trigramme>
+    <StationName>Sartrouville</StationName>
+    <Uic>8738641</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SVR</Trigramme>
+    <StationName>Sèvres Rive Gauche</StationName>
+    <Uic>8739312</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SWY</Trigramme>
+    <StationName>Seugy</StationName>
+    <Uic>8727203</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SXE</Trigramme>
+    <StationName>Sermaise</StationName>
+    <Uic>8754551</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>SXG</Trigramme>
+    <StationName>Sainte Geneviève des Bois</StationName>
+    <Uic>8754521</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>TAE</Trigramme>
+    <StationName>Tacoignières Richebourg</StationName>
+    <Uic>8739345</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>TLP</Trigramme>
+    <StationName>Trilport</StationName>
+    <Uic>8711649</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>TMR</Trigramme>
+    <StationName>Thomery</StationName>
+    <Uic>8768225</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>TNT</Trigramme>
+    <StationName>Thieux - Nantouillet</StationName>
+    <Uic>8727205</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>TOC</Trigramme>
+    <StationName>Torcy</StationName>
+    <Uic>8775837</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>TOU</Trigramme>
+    <StationName>Tournan</StationName>
+    <Uic>8711621</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>TPA</Trigramme>
+    <StationName>Thun le Paradis</StationName>
+    <Uic>8738182</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>TRH</Trigramme>
+    <StationName>Trie-Château</StationName>
+    <Uic>8738123</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>TSS</Trigramme>
+    <StationName>Triel sur Seine</StationName>
+    <Uic>8738180</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>TVO</Trigramme>
+    <StationName>Trappes</StationName>
+    <Uic>8739383</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>TVY</Trigramme>
+    <StationName>Taverny</StationName>
+    <Uic>8727663</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>US</Trigramme>
+    <StationName>Us</StationName>
+    <Uic>8738117</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VAI</Trigramme>
+    <StationName>Vaires Torcy</StationName>
+    <Uic>8711629</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VBB</Trigramme>
+    <StationName>Villiers-Montbarbin</StationName>
+    <Uic>8711674</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VBO</Trigramme>
+    <StationName>Vauboyen</StationName>
+    <Uic>8739353</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VBV</Trigramme>
+    <StationName>Villabé</StationName>
+    <Uic>8768161</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VC</Trigramme>
+    <StationName>Versailles Chantiers</StationName>
+    <Uic>8739300</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VCN</Trigramme>
+    <StationName>Vaucresson</StationName>
+    <Uic>8738226</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VCX</Trigramme>
+    <StationName>Vaucelles</StationName>
+    <Uic>8727662</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VD</Trigramme>
+    <StationName>Le Vert de Maisons</StationName>
+    <Uic>8768124</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VDA</Trigramme>
+    <StationName>Val d'Argenteuil</StationName>
+    <Uic>8738179</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VDE</Trigramme>
+    <StationName>Val d'Europe</StationName>
+    <Uic>8773006</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VDF</Trigramme>
+    <StationName>Val de Fontenay RER E</StationName>
+    <Uic>8711371</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VDO</Trigramme>
+    <StationName>Le Val d'Or</StationName>
+    <Uic>8738236</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VDV</Trigramme>
+    <StationName>Sèvres Ville d'Avray</StationName>
+    <Uic>8738234</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VEH</Trigramme>
+    <StationName>Villiers Neauphle Pontchartrain</StationName>
+    <Uic>8739388</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VEP</Trigramme>
+    <StationName>Villepreux les Clayes</StationName>
+    <Uic>8739341</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VET</Trigramme>
+    <StationName>Vernouillet Verneuil</StationName>
+    <Uic>8738665</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VFD</Trigramme>
+    <StationName>Viroflay Rive Droite</StationName>
+    <Uic>8738288</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VFG</Trigramme>
+    <StationName>Viroflay Rive Gauche</StationName>
+    <Uic>8739321</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VFR</Trigramme>
+    <StationName>Val de Fontenay RER A</StationName>
+    <Uic>8775830</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VGL</Trigramme>
+    <StationName>Vert Galant</StationName>
+    <Uic>8727143</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VGS</Trigramme>
+    <StationName>Vigneux sur Seine</StationName>
+    <Uic>8768130</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VIB</Trigramme>
+    <StationName>Villiers le Bel Gonesse Arnouville</StationName>
+    <Uic>8727622</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VII</Trigramme>
+    <StationName>Villeparisis Mitry Le Neuf</StationName>
+    <Uic>8727151</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VMD</Trigramme>
+    <StationName>Valmondois</StationName>
+    <Uic>8727653</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VMK</Trigramme>
+    <StationName>Vanves Malakoff</StationName>
+    <Uic>8739153</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VMS</Trigramme>
+    <StationName>Viarmes</StationName>
+    <Uic>8727656</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VNC</Trigramme>
+    <StationName>Vincennes</StationName>
+    <Uic>8775811</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VNL</Trigramme>
+    <StationName>Verneuil l'Étang</StationName>
+    <Uic>8711607</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VOM</Trigramme>
+    <StationName>Vosves</StationName>
+    <Uic>8768250</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VP</Trigramme>
+    <StationName>Villeneuve Prairie</StationName>
+    <Uic>8768185</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VPN</Trigramme>
+    <StationName>Villepinte</StationName>
+    <Uic>8727145</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VRD</Trigramme>
+    <StationName>Versailles Rive Droite</StationName>
+    <Uic>8738286</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VRG</Trigramme>
+    <StationName>Versailles Château Rive Gauche</StationName>
+    <Uic>8739315</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VRI</Trigramme>
+    <StationName>Villeneuve le Roi</StationName>
+    <Uic>8754527</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VSG</Trigramme>
+    <StationName>Villeneuve Saint-Georges</StationName>
+    <Uic>8768182</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VSM</Trigramme>
+    <StationName>Villiers sur Marne Plessis Trévise</StationName>
+    <Uic>8711379</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VSS</Trigramme>
+    <StationName>Vernou sur Seine</StationName>
+    <Uic>8768246</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VSW</Trigramme>
+    <StationName>Villennes sur Seine</StationName>
+    <Uic>8738664</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VTV</Trigramme>
+    <StationName>Villeneuve Triage</StationName>
+    <Uic>8768180</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VUN</Trigramme>
+    <StationName>Vulaines sur Seine Samoreau</StationName>
+    <Uic>8768244</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VVG</Trigramme>
+    <StationName>Villeneuve la Guyard</StationName>
+    <Uic>8768310</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VW</Trigramme>
+    <StationName>Villaines</StationName>
+    <Uic>8727202</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VWC</Trigramme>
+    <StationName>Viry Châtillon</StationName>
+    <Uic>8768131</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VWT</Trigramme>
+    <StationName>La Villetertre</StationName>
+    <Uic>8738120</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VXS</Trigramme>
+    <StationName>Vaux sur Seine</StationName>
+    <Uic>8738181</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VY</Trigramme>
+    <StationName>Vitry sur Seine</StationName>
+    <Uic>8754529</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VYE</Trigramme>
+    <StationName>Villeneuve sur Yonne</StationName>
+    <Uic>8768321</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VYL</Trigramme>
+    <StationName>La Verrière</StationName>
+    <Uic>8739325</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>WEE</Trigramme>
+    <StationName>Le Mée</StationName>
+    <Uic>8768217</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>XBY</Trigramme>
+    <StationName>La Croix de Berny</StationName>
+    <Uic>8775874</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>XCS</Trigramme>
+    <StationName>Saint-Colombe - Septveilles</StationName>
+    <Uic>8711617</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>XFA</Trigramme>
+    <StationName>Saint-Fargeau</StationName>
+    <Uic>8768254</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>XMC</Trigramme>
+    <StationName>Saint-Maur-Créteil</StationName>
+    <Uic>8775815</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>XND</Trigramme>
+    <StationName>Saint-Michel Notre Dame RER B</StationName>
+    <Uic>8778543</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>XOA</Trigramme>
+    <StationName>Saint-Ouen l'Aumône Quartier de l'Église</StationName>
+    <Uic>8738142</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>XPY</Trigramme>
+    <StationName>Santeuil - Le Perchay</StationName>
+    <Uic>8738118</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>YES</Trigramme>
+    <StationName>Yerres</StationName>
+    <Uic>8768211</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ZTN</Trigramme>
+    <StationName>Savigny le Temple Nandy</StationName>
+    <Uic>8768218</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ZUB</Trigramme>
+    <StationName>Sucy Bonneuil</StationName>
+    <Uic>8775819</Uic>
+    <IsTransilien>1</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>ERE</Trigramme>
+    <StationName>Ermont Eaubonne</StationName>
+    <Uic>8753413</Uic>
+    <IsTransilien>0</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PAZ</Trigramme>
+    <StationName>Paris Austerlitz</StationName>
+    <Uic>8754700</Uic>
+    <IsTransilien>0</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>VTP</Trigramme>
+    <StationName>La Villette Saint-Prest</StationName>
+    <Uic>8739417</Uic>
+    <IsTransilien>0</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PVA</Trigramme>
+    <StationName>Paris Montparnasse</StationName>
+    <Uic>8739110</Uic>
+    <IsTransilien>0</IsTransilien>
+  </Gare>
+  <Gare>
+    <Trigramme>PNB</Trigramme>
+    <StationName>Paris Nord</StationName>
+    <Uic>8727103</Uic>
+    <IsTransilien>0</IsTransilien>
+  </Gare>
+</Root>

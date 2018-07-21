@@ -1,0 +1,55 @@
+﻿<UserControl
+    x:Class="InfoGare.UserControl.About"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="591.791" Width="792" VerticalAlignment="Center" MaxHeight="600">
+    <UserControl.Resources>
+        <Style x:Key="GridViewItemStyle1" TargetType="GridViewItem">
+            <Setter Property="FontFamily" Value="{ThemeResource ContentControlThemeFontFamily}"/>
+            <Setter Property="FontSize" Value="{ThemeResource ControlContentThemeFontSize}"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="TabNavigation" Value="Local"/>
+            <Setter Property="IsHoldingEnabled" Value="True"/>
+            <Setter Property="Margin" Value="0,0,2,2"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="GridViewItem">
+                        <GridViewItemPresenter  ContentMargin="4" ContentTransitions="{TemplateBinding ContentTransitions}" CheckSelectingBrush="{ThemeResource ListViewItemCheckSelectingThemeBrush}" DragForeground="{ThemeResource ListViewItemDragForegroundThemeBrush}" DragOpacity="{ThemeResource ListViewItemDragThemeOpacity}" DragBackground="{ThemeResource ListViewItemDragBackgroundThemeBrush}" DisabledOpacity="{ThemeResource ListViewItemDisabledThemeOpacity}" FocusBorderBrush="{ThemeResource ListViewItemFocusBorderThemeBrush}" HorizontalContentAlignment="{TemplateBinding HorizontalContentAlignment}" Padding="{TemplateBinding Padding}" PointerOverBackgroundMargin="1" ReorderHintOffset="{ThemeResource ListViewItemReorderHintThemeOffset}" SelectedPointerOverBorderBrush="{ThemeResource ListViewItemSelectedPointerOverBorderThemeBrush}" SelectionCheckMarkVisualEnabled="True" SelectedForeground="{ThemeResource ListViewItemSelectedForegroundThemeBrush}" SelectedPointerOverBackground="{ThemeResource ListViewItemSelectedPointerOverBackgroundThemeBrush}" SelectedBorderThickness="{ThemeResource GridViewItemCompactSelectedBorderThemeThickness}"  VerticalContentAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid Margin="0" VerticalAlignment="Center" Height="607">
+        <StackPanel Margin="5,0" VerticalAlignment="Top">
+            <Image Margin="0,20,1,0" Source="ms-appx:///Assets/868x420.png" HorizontalAlignment="Center" VerticalAlignment="Top" Height="143"/>
+            <TextBlock Margin="0,20,10,20" TextWrapping="Wrap" Text="V 1.0" VerticalAlignment="Center" FontSize="30" TextAlignment="Right"/>
+            <Button x:Uid="RateApp"  x:Name="RateApp" Content="Évaluer l'application" HorizontalAlignment="Stretch" VerticalAlignment="Top" Background="#FF041C4D" BorderBrush="{x:Null}" MinHeight="57" Margin="0,-5,0,0" Foreground="#FFD4F516" Tapped="RateApp_Tapped" FontSize="21" Click="RateApp_Click"/>
+            <Button x:Uid="OthApp"  x:Name="OtherApps" Content="Mes autres applications" HorizontalAlignment="Stretch" VerticalAlignment="Top" Background="#FF041C4D" BorderBrush="{x:Null}" MinHeight="57" Margin="0,-5,0,0" Foreground="White" Tapped="OtherApps_Tapped" FontSize="21"/>
+            <Button x:Uid="Changelog" x:Name="Changelog" HorizontalAlignment="Stretch" VerticalAlignment="Top" Background="#FF041C4D" BorderBrush="{x:Null}" MinHeight="57" Margin="0,-5,0,0" Content="Historique des changements" Tapped="Changelog_Tapped" FontSize="21"/>
+            <Button x:Uid="Removead" x:Name="Removeads" HorizontalAlignment="Stretch" VerticalAlignment="Top" Background="#FF829B16" BorderBrush="{x:Null}" MinHeight="57" Margin="0,-5,0,0" Content="Removeads" FontSize="21" Tapped="RemoveAd_Tapped"/>
+        </StackPanel>
+        <GridView Margin="0,0,0,20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Bottom" Height="128" ScrollViewer.VerticalScrollBarVisibility="Hidden" ScrollViewer.HorizontalScrollBarVisibility="Hidden" HorizontalAlignment="Center" ItemContainerStyle="{StaticResource GridViewItemStyle1}">
+
+            <StackPanel x:Name="Twitter" VerticalAlignment="Center" Margin="0,0,20,0" HorizontalAlignment="Left" Tapped="Twitter_Tapped">
+                <Image HorizontalAlignment="Center" Height="85" VerticalAlignment="Top" Width="85" Source="ms-appx:///Assets/Social/twitter.png" NineGrid="0"/>
+                <TextBlock TextWrapping="Wrap" VerticalAlignment="Top" FontSize="17" TextAlignment="Center" Margin="0,5,0,0">
+        			<Run Text="Follow me"/>
+        			<Run Text=" ☺"/>
+                </TextBlock>
+            </StackPanel>
+            <StackPanel x:Name="Linkedin" VerticalAlignment="Center" Margin="0" Tapped="Linkedin_Tapped">
+                <Image HorizontalAlignment="Center" Height="85" VerticalAlignment="Top" Width="85" Source="ms-appx:///Assets/Social/linkedin.png" Margin="0"/>
+                <TextBlock x:Uid="ldin" TextWrapping="Wrap" Text="Mon Linkedin" VerticalAlignment="Top" FontSize="17" TextAlignment="Center" Margin="0,5,0,0"/>
+            </StackPanel>
+            <StackPanel x:Name="Bug" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="20,0,0,0" Tapped="Bug_Tapped">
+                <Image HorizontalAlignment="Center" Height="85" VerticalAlignment="Top" Width="85" Source="ms-appx:///Assets/Social/email.png" NineGrid="0"/>
+                <TextBlock x:Uid="Bug" TextWrapping="Wrap" Text="Un bug ?" VerticalAlignment="Top" FontSize="17" TextAlignment="Center" Margin="0,5,0,0"/>
+            </StackPanel>
+        </GridView>
+
+    </Grid>
+</UserControl>

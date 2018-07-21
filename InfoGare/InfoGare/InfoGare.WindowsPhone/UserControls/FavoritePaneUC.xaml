@@ -1,0 +1,33 @@
+﻿<UserControl
+    x:Class="InfoGare.UserControls.FavoritePaneUC"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:InfoGare.UserControls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="Auto" Width="Auto">
+    
+    <Grid>
+        <Grid x:Name="FavoritePane" Margin="0">
+            <Grid.Background>
+                <SolidColorBrush Color="Black" Opacity="0.25"/>
+            </Grid.Background>
+            <TextBlock x:Name="FavoriteTitle" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22" FontFamily="ms-appx:/Assets/Fonts/helvetica.otf#Helvetica LT Std Cond" Foreground="White" Margin="0">
+    			<Run Text="✪ "/>
+    			<Run x:Uid="FavoriteStation" Text="Stations favorites"/>
+            </TextBlock>
+            <ListView x:Name="FavoriteComponent" Margin="0" Foreground="#FFD7BBBB" SelectionChanged="FavoriteComponent_SelectionChanged"
+                      x:FieldModifier="public">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel x:Name="FavoritePanel" Orientation="Horizontal" Margin="0,4,0,0">
+                            <Image Width="45" Height="45" Stretch="UniformToFill" x:Name="GareLogo" Source="{Binding Logo}"/>
+                            <TextBlock FontSize="20" Margin="15,0,0,0" Text="{Binding GareName}" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+
+    </Grid>
+</UserControl>
