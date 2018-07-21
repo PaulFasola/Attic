@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=0.2">
+    <title>Activateur Azure</title>
+
+    <link rel="stylesheet" href="./Assets/vendors/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="./Assets/vendors/bootstrap/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="./Assets/vendors/resetcss/reset.css">
+    <link rel="stylesheet" href="./Assets/asap/css/styles.css">
+
+    <script src="./Assets/vendors/pure/pure.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 panel wrapped left-panel">
+                <h1 class="title"></h1>
+                 <span class="loading" style="display: none;"><h2 style="color: orange">Chargement...</h2></span>
+                  <hr/>
+                <p id="content">
+                    <span id="ds_status"></span>
+                    <br/>
+                    <table id="possibilities" border="0">
+                        <tr>
+                            <td><span id="ds_ok" class="btn btn-info" style="color: #fff;"></span></td>
+                            <td><span id="ds_nonok" class="btn btn-info" style="color: #fff;"></span></td>
+                        </tr>
+                    </table>
+                    <form id="email_checkin" class="anime bounce wrapped" action="/?auth" method="POST">
+                        <table>
+                            <tr>
+                                <td>
+                                    <label id="invitation" for="email"></label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <input name="email" id="email" type="email">
+                                    <input type="hidden" name="bpc" value="true" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <input type="submit" id="send" value="Valider">
+                                </td>
+                            </tr>
+                        </table>
+                    </form>
+                    <form id="code_checkin" class="anime bounce wrapped" action="/?auth" method="POST">
+                        <table>
+                            <tr>
+                                <td>
+                                    <label id="code_cap" for="code"></label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <input id="code" onkeypress='return event.charCode >= 48 && event.charCode <= 57' name="code" placeholder="" maxlenght="5" type="text">
+                                    <input type="hidden" id="token" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <input type="submit" id="send" value="Valider">
+                                </td>
+                            </tr>
+                        </table>
+                    </form>
+                    <div>
+                        <a id="back" href="#"></a>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="cloudynamic">
+        <div class="x1">
+            <div class="cloud"></div>
+        </div>
+        <div class="x4">
+            <div class="cloud"></div>
+        </div>
+        <div class="x2">
+            <div class="cloud"></div>
+        </div>
+        <div class="x3">
+            <div class="cloud"></div>
+        </div>
+        <div class="x5">
+            <div class="cloud"></div>
+        </div>
+    </div>
+
+    <script src="./Assets/vendors/JQuery/jquery.min.js"></script>
+    <script src="./Assets/vendors/JQuery/jquery.noty.packaged.min.js"></script> 
+    <script src="./Assets/vendors/JQuery/jquery-1.11.3.min.js"></script>
+    <script src="./Assets/asap/js/asap.globalization.js"></script>
+    <script src="./Assets/asap/js/asap.utilities.js"></script>
+    <script>
+        var lg = $.lang("companion");
+        var template = lg.getRessourceGroup("html-index");
+
+        $p('body').render(template,{
+            'h1.title': 'body_title',
+            '#ds_ok': "ds_ok",
+            '#ds_nonok': 'ds_nonok', 
+            '#back': 'back',
+            '#ds_status': 'ds_status',
+            '#invitation': 'invitation',
+            '#content': 'content'
+        });
+    </script>
+</body>
+</html>

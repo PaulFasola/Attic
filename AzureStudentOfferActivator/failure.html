@@ -1,0 +1,57 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=0.2">
+    <script src="Assets/vendors/pure/pure.min.js"></script>
+    <script src="./Assets/vendors/JQuery/jquery.min.js"></script>
+    <script src="./Assets/vendors/JQuery/jquery.noty.packaged.min.js"></script>
+    <script src="./Assets/vendors/JQuery/jquery-1.11.3.min.js"></script>
+    <script src="./Assets/vendors/JQuery/jquery-1.11.3.min.js"></script>
+    <script src="./Assets/asap/js/asap.utilities.js"></script>
+</head>
+<body>
+    <h2></h2>
+    <h3></h3>
+    <ul>
+        <li></li>
+    </ul>
+    <p></p>
+    <script src="./Assets/asap/js/asap.globalization.js"></script>
+    <script>
+        function getUrlVars() {
+            var vars = [],
+                hash;
+            var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+            for (var i = 0; i < hashes.length; i++) {
+                hash = hashes[i].split('=');
+                vars.push(hash[0]);
+                vars[hash[0]] = hash[1];
+            }
+            return vars;
+        }
+
+        $(document).ready(function () {
+            var token = getUrlVars()["token"];
+            var parsed = token.split(",");
+            var humanizedToken = "";
+            $.each(parsed, function (id) {
+                humanizedToken += parsed[id] + (humanizedToken === "" ? "" : "-");
+            });
+
+            $("#token").html("<h3><b>" + humanizedToken.substr(0, humanizedToken.length - 1) +
+                "</b></h3>");
+        });
+
+        var lg = $.lang("companion");
+        var template = lg.getRessourceGroup("html-failure");
+        $p('body').render(template, {
+            'h2': 'error_h2',
+            'h3': "error_h3",
+            'li': "explanation1",
+            'p': "explanation2"
+        });
+    </script>
+</body>
+
+</html>

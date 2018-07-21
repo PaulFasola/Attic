@@ -1,0 +1,12 @@
+.navbar-inverse{
+	background: #d00300;
+	color: #fff; 	
+} 
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav > li > a {
+    text-shadow: none;
+} 
+
+#shoutmix_howtank_alloresto_fr{
+	width: 500px; 
+}

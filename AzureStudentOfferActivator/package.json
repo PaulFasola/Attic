@@ -1,0 +1,24 @@
+{
+  "name": "azurestudent-dreamspark-comboactivator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js",
+    "pretest": "npm run cache-clean && npm run postinstall",
+    "cache-clean": "rm -rf ~/.electron && rm -rf dist",
+    "release-darwin": "HOME=~/.electron-gyp node-pre-gyp rebuild --target_platform=darwin --runtime=electron --target=1.4.10 --arch=x64 --dist-url=https://atom.io/download/atom-shell && node-pre-gyp package --target_platform=darwin --runtime=electron --target=1.6.5",
+    "release-linux": "node-pre-gyp rebuild --target_arch=x64 --runtime=electron --target=1.4.10 --target_platform=linux --dist-url=https://atom.io/download/atom-shell && node-pre-gyp package --target_arch=x64 --target_platform=linux --runtime=electron --target=1.6.5",
+    "release-linux-ia32": "node-pre-gyp rebuild --target_arch=ia32 --target_platform=linux --runtime=electron --target=1.4.10 --dist-url=https://atom.io/download/atom-shell && node-pre-gyp --target_arch=ia32 --target_platform=linux --runtime=electron --target=1.6.5 package",
+    "release-win": "node-pre-gyp rebuild --target_arch=x64 --target_platform=win32 --runtime=electron --target=1.4.10 --dist-url=https://atom.io/download/atom-shell && node-pre-gyp package --target_arch=x64 --target_platform=win32 --runtime=electron --target=1.6.5",
+    "release-win-ia32": "node-pre-gyp rebuild --target_arch=ia32 --target_platform=win32 --runtime=electron --target=1.4.10 --dist-url=https://atom.io/download/atom-shell && node-pre-gyp package --target_arch=ia32 --target_platform=win32 --runtime=electron --target=1.6.5",
+    "test": "mocha --compilers bsc:node --grep import"
+  },
+  "author": "Paul Fasola",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.35.0",
+    "node-pre-gyp": "^0.6.13",
+    "mocha": "~1.8.2"
+  }
+}
